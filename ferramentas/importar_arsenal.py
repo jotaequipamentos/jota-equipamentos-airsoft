@@ -495,6 +495,23 @@ PAGINA_PRODUTO = """<!doctype html>
 """
 
 
+def previa_jpg(img, pasta_site):
+    """Cópia .jpg da miniatura (og/ID.jpg) para a prévia de link no WhatsApp; só gera se ainda não existir."""
+    rel = "og/" + os.path.splitext(os.path.basename(img))[0] + ".jpg"
+    destino = os.path.join(pasta_site, rel)
+    if not os.path.exists(destino):
+        try:
+            from PIL import Image
+            os.makedirs(os.path.dirname(destino), exist_ok=True)
+            im = Image.open(os.path.join(pasta_site, img)).convert("RGBA")
+            fundo = Image.new("RGB", im.size, (255, 255, 255))
+            fundo.paste(im, mask=im.split()[3])
+            fundo.save(destino, "JPEG", quality=80, optimize=True)
+        except Exception:
+            return None
+    return rel
+
+
 def paginas_produtos(lista, pasta_site):
     """Uma página por produto em p/REF.html: título e foto para a prévia do WhatsApp e para o Google;
     quem abre é levado à página do produto dentro da loja (#p=REF)."""
@@ -508,9 +525,10 @@ def paginas_produtos(lista, pasta_site):
         desc = f"{p['nome']} ({p['marca']}), Ref. {p['sku']}. {disp}. Peças e acessórios para airsoft, orçamento pelo WhatsApp."
         e = lambda s: html.escape(s, quote=True)
         img = p.get("img")
+        og = previa_jpg(img, pasta_site) if img else None  # o WhatsApp não mostra prévia em .webp
         conteudo = PAGINA_PRODUTO.format(
             titulo=e(p["nome"]), descricao=e(desc), url=e(f"{SITE}p/{arq}"),
-            og_img=f'<meta property="og:image" content="{e(SITE + img)}">\n' if img else "",
+            og_img=(f'<meta property="og:image" content="{e(SITE + og)}">\n<meta property="og:image:type" content="image/jpeg">\n') if og else "",
             img_tag=f'<p><img src="../{e(img)}" alt="{e(p["nome"])}"></p>\n' if img else "",
             ref_js=json.dumps(urllib.parse.quote(p["sku"], safe=""))[1:-1], ref_url=e(urllib.parse.quote(p["sku"], safe="")))
         destino = os.path.join(pasta, arq)
