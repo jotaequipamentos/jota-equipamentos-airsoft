@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-21T15:20:50-03:00",
+ "atualizado_em": "2026-10-21T16:35:57-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -23310,28 +23310,6 @@
    "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Plum Orange"
   },
   {
-   "sku": "402576",
-   "nome": "Magazine 130 BBs Mid-Cap Polimer para série Lck preto",
-   "marca": "LCT",
-   "grupo": "Magazines",
-   "cat": "Rifle",
-   "sub": "Mid-cap",
-   "specs": "",
-   "usd": 19.0,
-   "disponivel": true,
-   "img": "img/16570.webp",
-   "arsenal": {
-    "id": 16570,
-    "url": "https://www.arsenalsports.com/produto/lct-magazine-130r-midcap-polimer-for-lck-series-black-16570.html",
-    "ref": "402576",
-    "nome": "LCT MAGAZINE 130R MID-CAP POLIMER FOR LCK SERIES BLACK",
-    "marca_arsenal": "LCT",
-    "categoria": "MAGAZINES PARA RIFLES",
-    "img": "https://www.arsenalsports.com/img/16570/produtos/400/2bc1c628efcc5550b09bfb7a4d0d613f.jpg"
-   },
-   "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Black"
-  },
-  {
    "sku": "87841",
    "nome": "Magazine 130 BBs Mid-Cap Polimer para série Lck preto",
    "marca": "LCT",
@@ -23350,6 +23328,28 @@
     "marca_arsenal": "LCT",
     "categoria": "MAGAZINES PARA RIFLES",
     "img": "https://www.arsenalsports.com/img/22934/produtos/400/ca2de3d25cd0ee3b5f0e871872c388e4.jpg"
+   },
+   "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Black"
+  },
+  {
+   "sku": "402576",
+   "nome": "Magazine 130 BBs Mid-Cap Polimer para série Lck preto",
+   "marca": "LCT",
+   "grupo": "Magazines",
+   "cat": "Rifle",
+   "sub": "Mid-cap",
+   "specs": "",
+   "usd": 19.0,
+   "disponivel": true,
+   "img": "img/16570.webp",
+   "arsenal": {
+    "id": 16570,
+    "url": "https://www.arsenalsports.com/produto/lct-magazine-130r-midcap-polimer-for-lck-series-black-16570.html",
+    "ref": "402576",
+    "nome": "LCT MAGAZINE 130R MID-CAP POLIMER FOR LCK SERIES BLACK",
+    "marca_arsenal": "LCT",
+    "categoria": "MAGAZINES PARA RIFLES",
+    "img": "https://www.arsenalsports.com/img/16570/produtos/400/2bc1c628efcc5550b09bfb7a4d0d613f.jpg"
    },
    "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Black"
   },
@@ -31010,28 +31010,6 @@
    "orig": "Magazine Extension Plate for Hi-Capa Violet"
   },
   {
-   "sku": "493123",
-   "nome": "Magazine Extension Plate para Hi-Capa vermelho",
-   "marca": "CTM-TAC",
-   "grupo": "Magazines",
-   "cat": "Peças de magazine",
-   "sub": "",
-   "specs": "",
-   "usd": 35.0,
-   "disponivel": true,
-   "img": "img/29448.webp",
-   "arsenal": {
-    "id": 29448,
-    "url": "https://www.arsenalsports.com/produto/ctmtac-magazine-extension-plate-for-hicapa-red-29448.html",
-    "ref": "493123",
-    "nome": "CTM-TAC MAGAZINE EXTENSION PLATE FOR HI-CAPA RED",
-    "marca_arsenal": "CTM-TAC",
-    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
-    "img": "https://www.arsenalsports.com/img/29448/produtos/400/8f019ebf8a7ca292289bae3cff283384.jpg"
-   },
-   "orig": "Magazine Extension Plate for Hi-Capa Red"
-  },
-  {
    "sku": "493116",
    "nome": "Magazine Extension Plate para Hi-Capa vermelho",
    "marca": "CTM-TAC",
@@ -34528,6 +34506,28 @@
     "img": "https://www.arsenalsports.com/img/29668/produtos/400/8e2544237e3ea6fc674e2522dadfc6a4.jpg"
    },
    "orig": "HPA Magazine Adaptor for G Series Black"
+  },
+  {
+   "sku": "493123",
+   "nome": "Magazine Extension Plate para Hi-Capa vermelho",
+   "marca": "CTM-TAC",
+   "grupo": "Magazines",
+   "cat": "Outros magazines",
+   "sub": "",
+   "specs": "",
+   "usd": 35.0,
+   "disponivel": true,
+   "img": "img/29448.webp",
+   "arsenal": {
+    "id": 29448,
+    "url": "https://www.arsenalsports.com/produto/ctmtac-magazine-extension-plate-for-hicapa-red-29448.html",
+    "ref": "493123",
+    "nome": "CTM-TAC MAGAZINE EXTENSION PLATE FOR HI-CAPA RED",
+    "marca_arsenal": "CTM-TAC",
+    "categoria": "MAGAZINES PARA REPLICAS DE AIRSOFT",
+    "img": "https://www.arsenalsports.com/img/29448/produtos/400/8f019ebf8a7ca292289bae3cff283384.jpg"
+   },
+   "orig": "Magazine Extension Plate for Hi-Capa Red"
   },
   {
    "sku": "169530",
@@ -38314,28 +38314,6 @@
    "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Deans"
   },
   {
-   "sku": "421577",
-   "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "7.4V",
-   "specs": "",
-   "usd": 14.0,
-   "disponivel": true,
-   "img": "img/34744.webp",
-   "arsenal": {
-    "id": 34744,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74--1500--2s1p-tamiya-34744.html",
-    "ref": "421577",
-    "nome": "GENS ACE BATERIA LIPO 25C / 7.4 / 1500 / 2S1P TAMIYA",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/34744/produtos/400/a4adbb741b34ecb9113625ef9c4c3dd0.png"
-   },
-   "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
-  },
-  {
    "sku": "174183",
    "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
    "marca": "Gens Ace",
@@ -38354,6 +38332,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21550/produtos/400/a5bf5ea65c3eb265af3f3f97d1b44c47.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
+  },
+  {
+   "sku": "421577",
+   "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "7.4V",
+   "specs": "",
+   "usd": 14.0,
+   "disponivel": true,
+   "img": "img/34744.webp",
+   "arsenal": {
+    "id": 34744,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74--1500--2s1p-tamiya-34744.html",
+    "ref": "421577",
+    "nome": "GENS ACE BATERIA LIPO 25C / 7.4 / 1500 / 2S1P TAMIYA",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/34744/produtos/400/a4adbb741b34ecb9113625ef9c4c3dd0.png"
    },
    "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
   },
@@ -39656,28 +39656,6 @@
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Gt Tamiya"
   },
   {
-   "sku": "129923",
-   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28203.webp",
-   "arsenal": {
-    "id": 28203,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28203.html",
-    "ref": "129923",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
-  },
-  {
    "sku": "48224",
    "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
    "marca": "Gens Ace",
@@ -39696,6 +39674,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
+  },
+  {
+   "sku": "129923",
+   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28203.webp",
+   "arsenal": {
+    "id": 28203,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28203.html",
+    "ref": "129923",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
   },
@@ -42972,7 +42972,7 @@
     "ref": "358231",
     "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
     "marca_arsenal": "LAMBDA",
-    "categoria": "CANOS DE PRECISÃO INTERNOS",
+    "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
     "img": "https://www.arsenalsports.com/img/29024/produtos/400/b642ea858141dc0fa4e682a284b0f976.jpg"
    },
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
@@ -64252,28 +64252,6 @@
    "orig": "Bore Up Cylinder Set Variant for MP5K"
   },
   {
-   "sku": "333627",
-   "nome": "Bore Up Cilindro Set para AUG",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 19.0,
-   "disponivel": true,
-   "img": "img/33466.webp",
-   "arsenal": {
-    "id": 33466,
-    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
-    "ref": "333627",
-    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
-   },
-   "orig": "Bore Up Cylinder Set for AUG"
-  },
-  {
    "sku": "26796",
    "nome": "Bore Up Cilindro Set para AUG",
    "marca": "SHS",
@@ -64384,28 +64362,6 @@
    "orig": "Bore Up Cylinder for MP5K"
   },
   {
-   "sku": "4930",
-   "nome": "Cabeça de cilindro AK série",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/17838.webp",
-   "arsenal": {
-    "id": 17838,
-    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-ak-series-17838.html",
-    "ref": "4930",
-    "nome": "SHS CYLINDER HEAD AK SERIES",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDER HEADS",
-    "img": "https://www.arsenalsports.com/img/17838/produtos/400/c0b503f075a5ee87ec042e0292c8793a.jpg"
-   },
-   "orig": "Cylinder Head AK Series"
-  },
-  {
    "sku": "55291",
    "nome": "Cabeça de cilindro AK série",
    "marca": "SHS",
@@ -64424,6 +64380,28 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDER HEADS",
     "img": "https://www.arsenalsports.com/img/17835/produtos/400/ca68f583fc17d477a0b46e6e3e230c84.jpg"
+   },
+   "orig": "Cylinder Head AK Series"
+  },
+  {
+   "sku": "4930",
+   "nome": "Cabeça de cilindro AK série",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/17838.webp",
+   "arsenal": {
+    "id": 17838,
+    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-ak-series-17838.html",
+    "ref": "4930",
+    "nome": "SHS CYLINDER HEAD AK SERIES",
+    "marca_arsenal": "SHS",
+    "categoria": "CYLINDER HEADS",
+    "img": "https://www.arsenalsports.com/img/17838/produtos/400/c0b503f075a5ee87ec042e0292c8793a.jpg"
    },
    "orig": "Cylinder Head AK Series"
   },
@@ -64450,28 +64428,6 @@
    "orig": "Cylinder Head AUG & Sig 550 VER. 3"
   },
   {
-   "sku": "58643",
-   "nome": "Cabeça de cilindro G36",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/17837.webp",
-   "arsenal": {
-    "id": 17837,
-    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-g36-17837.html",
-    "ref": "58643",
-    "nome": "SHS CYLINDER HEAD G36",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDER HEADS",
-    "img": "https://www.arsenalsports.com/img/17837/produtos/400/38a2fe8bade29af478104a82489c5b8e.jpg"
-   },
-   "orig": "Cylinder Head G36"
-  },
-  {
    "sku": "42697",
    "nome": "Cabeça de cilindro G36",
    "marca": "SHS",
@@ -64490,6 +64446,28 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDER HEADS",
     "img": "https://www.arsenalsports.com/img/17836/produtos/400/403df94ee3f935bfc997dafddad724d1.jpg"
+   },
+   "orig": "Cylinder Head G36"
+  },
+  {
+   "sku": "58643",
+   "nome": "Cabeça de cilindro G36",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/17837.webp",
+   "arsenal": {
+    "id": 17837,
+    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-g36-17837.html",
+    "ref": "58643",
+    "nome": "SHS CYLINDER HEAD G36",
+    "marca_arsenal": "SHS",
+    "categoria": "CYLINDER HEADS",
+    "img": "https://www.arsenalsports.com/img/17837/produtos/400/38a2fe8bade29af478104a82489c5b8e.jpg"
    },
    "orig": "Cylinder Head G36"
   },
@@ -65946,28 +65924,6 @@
    "orig": "Spring Guide VER. 2 Ares QD"
   },
   {
-   "sku": "184656",
-   "nome": "Guia de mola VER. 2 D.SELECTOR",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Molas e guias",
-   "sub": "Guias",
-   "specs": "",
-   "usd": 4.0,
-   "disponivel": true,
-   "img": "img/17920.webp",
-   "arsenal": {
-    "id": 17920,
-    "url": "https://www.arsenalsports.com/produto/shs-spring-guide-ver-2-dselector-17920.html",
-    "ref": "184656",
-    "nome": "SHS SPRING GUIDE VER. 2 D.SELECTOR",
-    "marca_arsenal": "SHS",
-    "categoria": "SPRING GUIDES",
-    "img": "https://www.arsenalsports.com/img/17920/produtos/400/2ace3130bd150d1925f10cb4a2ee8aa9.jpg"
-   },
-   "orig": "Spring Guide VER. 2 D.SELECTOR"
-  },
-  {
    "sku": "199223",
    "nome": "Guia de mola VER. 2 D.SELECTOR",
    "marca": "SHS",
@@ -65986,6 +65942,28 @@
     "marca_arsenal": "SHS",
     "categoria": "SPRING GUIDES",
     "img": "https://www.arsenalsports.com/img/17921/produtos/400/64ee05453716279a5981e0ca769c5f3c.jpg"
+   },
+   "orig": "Spring Guide VER. 2 D.SELECTOR"
+  },
+  {
+   "sku": "184656",
+   "nome": "Guia de mola VER. 2 D.SELECTOR",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Molas e guias",
+   "sub": "Guias",
+   "specs": "",
+   "usd": 4.0,
+   "disponivel": true,
+   "img": "img/17920.webp",
+   "arsenal": {
+    "id": 17920,
+    "url": "https://www.arsenalsports.com/produto/shs-spring-guide-ver-2-dselector-17920.html",
+    "ref": "184656",
+    "nome": "SHS SPRING GUIDE VER. 2 D.SELECTOR",
+    "marca_arsenal": "SHS",
+    "categoria": "SPRING GUIDES",
+    "img": "https://www.arsenalsports.com/img/17920/produtos/400/2ace3130bd150d1925f10cb4a2ee8aa9.jpg"
    },
    "orig": "Spring Guide VER. 2 D.SELECTOR"
   },
@@ -76792,28 +76770,6 @@
    "orig": "Motor Shaft Guide & Bearing"
   },
   {
-   "sku": "371162",
-   "nome": "Motor Shaft Guide Long D",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/14831.webp",
-   "arsenal": {
-    "id": 14831,
-    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14831.html",
-    "ref": "371162",
-    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
-    "marca_arsenal": "SHS",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/14831/produtos/400/e7f36f65e3930f19f960048a5a6b97f6.jpg"
-   },
-   "orig": "Motor Shaft Guide Long D"
-  },
-  {
    "sku": "370790",
    "nome": "Motor Shaft Guide Long D",
    "marca": "SHS",
@@ -76832,6 +76788,28 @@
     "marca_arsenal": "SHS",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/14841/produtos/400/8be5305313f813b26cd62a395c9b85c9.jpg"
+   },
+   "orig": "Motor Shaft Guide Long D"
+  },
+  {
+   "sku": "371162",
+   "nome": "Motor Shaft Guide Long D",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/14831.webp",
+   "arsenal": {
+    "id": 14831,
+    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14831.html",
+    "ref": "371162",
+    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
+    "marca_arsenal": "SHS",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/14831/produtos/400/e7f36f65e3930f19f960048a5a6b97f6.jpg"
    },
    "orig": "Motor Shaft Guide Long D"
   },
@@ -86954,6 +86932,28 @@
     "img": "https://www.arsenalsports.com/img/25704/produtos/400/a8b9f40d6c85cfe813c6c395b8921410.jpg"
    },
    "orig": "Bore-Up Cylinder Set for P90"
+  },
+  {
+   "sku": "333627",
+   "nome": "Bore Up Cilindro Set para AUG",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Kits de upgrade",
+   "sub": "",
+   "specs": "",
+   "usd": 19.0,
+   "disponivel": true,
+   "img": "img/33466.webp",
+   "arsenal": {
+    "id": 33466,
+    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
+    "ref": "333627",
+    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
+    "marca_arsenal": "SHS",
+    "categoria": "KITS DE UPGRADE",
+    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
+   },
+   "orig": "Bore Up Cylinder Set for AUG"
   },
   {
    "sku": "199483",
