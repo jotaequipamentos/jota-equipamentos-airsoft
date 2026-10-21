@@ -1,0 +1,33 @@
+{
+ "fab": "G-08-153-2",
+ "resumo": "Magazine mid-cap de metal da G&G para rifles elétricos (AEG) estilo M4/M16. Alimenta sem precisar dar corda, como o magazine real, e é o tipo mais usado em jogo por ser mais silencioso que o hi-cap.",
+ "specs": [
+  [
+   "Capacidade",
+   "125 BBs (mid-cap, sem corda)"
+  ],
+  [
+   "Material",
+   "Metal"
+  ],
+  [
+   "Calibre",
+   "BB 6 mm"
+  ],
+  [
+   "Cor",
+   "Preto"
+  ]
+ ],
+ "compat": "M4/M16 elétricos padrão Tokyo Marui: G&G (CM16, GR16), Cyma, Specna Arms, E&C, Classic Army, VFC e similares. Não serve em M4 a gás (GBBR) nem em modelos de magazine próprio.",
+ "dicas": [
+  "Use BBs limpas e sem rebarba para evitar travamento na boca do magazine.",
+  "Guarde descarregado por longos períodos para a mola durar mais."
+ ],
+ "fontes": [
+  "arsenalsports.com",
+  "evike.com",
+  "airsoftgi.com"
+ ],
+ "atualizado": "2026-10-21"
+}

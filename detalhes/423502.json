@@ -1,0 +1,37 @@
+{
+ "fab": "LJ-1373",
+ "resumo": "Cano interno de precisão Lambda One (Japão), em aço inox forjado a frio com diâmetro interno de 6,01 mm. O tight bore com acabamento interno fino melhora a consistência e o alcance em relação ao cano de fábrica.",
+ "specs": [
+  [
+   "Diâmetro interno",
+   "6,01 mm (tight bore)"
+  ],
+  [
+   "Comprimento",
+   "128 mm"
+  ],
+  [
+   "Material",
+   "Aço inox SUS304 forjado a frio"
+  ],
+  [
+   "Janela do hop-up",
+   "Corte quadrado, aceita R-hop"
+  ],
+  [
+   "Usinagem",
+   "CNC, acabado à mão"
+  ]
+ ],
+ "compat": "AEGs padrão Tokyo Marui de cano curto, como ARP9 e outros modelos que usam cano interno de 128 mm (G&G, Cyma, Specna, Krytac, ICS, entre outros). Meça o cano original antes de comprar.",
+ "dicas": [
+  "Limpe o cano antes de instalar e use BBs de boa qualidade (0,25 g ou mais) para aproveitar a precisão.",
+  "Combine com uma borracha de hop-up nova para melhor resultado."
+ ],
+ "fontes": [
+  "arsenalsports.com",
+  "airsoftjunkiez.com",
+  "evike.com"
+ ],
+ "atualizado": "2026-10-21"
+}
