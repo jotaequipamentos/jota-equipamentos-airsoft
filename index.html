@@ -1,5 +1,14 @@
 <title>JOTA GEAR</title>
 <meta name="claude:viewport-fit-sides" content="cover">
+<!-- GA:INICIO  Google Analytics (GA4). Só vale no site do GitHub; montar_publicacao.py tira este bloco do artifact. -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6HG5PD8Y99"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-6HG5PD8Y99');
+</script>
+<!-- GA:FIM -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Russo+One&family=Saira+Condensed:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
@@ -4651,8 +4660,15 @@ function renderCart() {
 }
 const abrir = v => { $("drawer").hidden = !v; $("shade").hidden = !v; };
 
+// eventos do Google Analytics (sem a tag, não faz nada)
+const evento = (nome, dados) => { try { if (typeof gtag === "function") gtag("event", nome, dados); } catch (e) {} };
+const itemGA = (p, qtd = 1) => ({ item_id: p.sku, item_name: p.base || p.nome, item_brand: p.marca, item_category: p.grupo, item_category2: p.cat, price: p.preco, quantity: qtd });
+let buscaTimer;
 const novoFiltro = () => { limite = POR_PAGINA; renderCats(); renderGrid(); };
 $("cats").addEventListener("click", e => {
+  const c = e.target.closest("[data-grupo],[data-cat],[data-marca-todas]");
+  if (c) evento("select_content", { content_type: c.dataset.marcaTodas ? "marca" : "categoria",
+    item_id: c.dataset.marcaTodas || [c.dataset.grupo, c.dataset.cat].filter(Boolean).join(" / ") || "todos" });
   if (e.target.closest("[data-limpar-busca]")) { $("q").value = ""; return novoFiltro(); }
   if (e.target.closest("[data-marcas]")) { marcasAbertas = !marcasAbertas; if (marcasAbertas) grupoAtual = catAtual = null; return novoFiltro(); }
   const mt = e.target.closest("[data-marca-todas]");
@@ -4675,11 +4691,27 @@ $("mais").addEventListener("click", () => { limite += POR_PAGINA; renderGrid(); 
 $("subs").addEventListener("click", e => { const b = e.target.closest("[data-sub]"); if (!b) return; subAtual = subAtual === b.dataset.sub ? null : b.dataset.sub; novoFiltro(); });
 $("marcas").addEventListener("click", e => { const b = e.target.closest("[data-marca]"); if (!b) return; marcaAtual = marcaAtual === b.dataset.marca ? null : b.dataset.marca; novoFiltro(); });
 $("marcas").addEventListener("change", e => { if (e.target.id !== "maisMarcas") return; marcaAtual = e.target.value || null; novoFiltro(); });
-$("q").addEventListener("input", () => { limite = POR_PAGINA; renderCats(); renderGrid(); });
+$("q").addEventListener("input", () => {
+  limite = POR_PAGINA; renderCats(); renderGrid();
+  clearTimeout(buscaTimer); // registra a busca quando a pessoa para de digitar
+  const q = $("q").value.trim();
+  if (q.length >= 2) buscaTimer = setTimeout(() => evento("search", { search_term: q }), 1200);
+});
 $("q").addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); $("q").blur(); $("cats").scrollIntoView({ block: "start" }); } });
 $("verOff").addEventListener("change", () => { limite = POR_PAGINA; renderGrid(); });
 $("grid").addEventListener("click", e => { const c = e.target.closest("[data-escolha]"); if (c) { escolhida[c.dataset.vkey] = c.dataset.escolha; return renderGrid(); } });
-$("grid").addEventListener("click", e => { const b = e.target.closest("[data-sku]"); if (!b) return; carrinho[b.dataset.sku] = (carrinho[b.dataset.sku] || 0) + 1; renderCart(); renderGrid(); });
+$("grid").addEventListener("click", e => {
+  const b = e.target.closest("[data-sku]"); if (!b) return;
+  carrinho[b.dataset.sku] = (carrinho[b.dataset.sku] || 0) + 1;
+  const p = porSku[b.dataset.sku];
+  if (p) evento("add_to_cart", { currency: "BRL", value: p.preco, items: [itemGA(p)] });
+  renderCart(); renderGrid();
+});
+$("send").addEventListener("click", () => {
+  const itens = Object.entries(carrinho).map(([s, q]) => porSku[s] && itemGA(porSku[s], q)).filter(Boolean);
+  if (!itens.length) return;
+  evento("generate_lead", { currency: "BRL", value: itens.reduce((t, i) => t + i.price * i.quantity, 0), items: itens });
+});
 $("items").addEventListener("click", e => {
   const t = e.target; const s = t.dataset.inc || t.dataset.dec || t.dataset.rm; if (!s) return;
   if (t.dataset.inc) carrinho[s]++;

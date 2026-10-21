@@ -32,6 +32,7 @@ for n in range(0, len(unicas), COL * LIN):
     folha.save(os.path.join(saida, nome), "WEBP", quality=70, method=6)
     folhas.append(nome)
 
+t = re.sub(r"<!-- GA:INICIO.*?<!-- GA:FIM -->\n", "", t, flags=re.S)  # o artifact bloqueia scripts de fora
 t = re.sub(r'"img": "(img/\d+\.webp)"', lambda m: '"spr": ' + json.dumps(list(pos[m.group(1)])), t)
 t = t.replace("const PRODUTOS = [", f"const SPRITES = {json.dumps(folhas)};\nconst PRODUTOS = [", 1)
 open(os.path.join(saida, "index.html"), "w", encoding="utf-8").write(t)
