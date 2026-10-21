@@ -113,8 +113,10 @@ mark { background: color-mix(in srgb, var(--coyote) 30%, transparent); color: in
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; padding-block: 8px 48px; }
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; display: flex; flex-direction: column; overflow: hidden; }
 .thumb { aspect-ratio: 4/3; max-width: 100%; background: repeating-linear-gradient(135deg, var(--bg) 0 10px, var(--surface) 10px 20px); display: grid; place-items: center; color: var(--muted); font-family: var(--display); font-weight: 800; font-size: 22px; text-transform: uppercase; letter-spacing: .06em; border-bottom: 1px solid var(--line); }
-.thumb img { width: 100%; height: 100%; object-fit: contain; background: #fff; }
-.thumb:has(.spr) { background: #fff; }
+/* a foto fica presa na área de cima do cartão, sem passar por baixo do texto */
+.thumb { position: relative; overflow: hidden; }
+.thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; padding: 8px; background: #fff; }
+.thumb:has(.spr), .thumb:has(img) { background: #fff; }
 .info { padding: 12px; display: flex; flex-direction: column; gap: 6px; flex: 1; min-width: 0; }
 .meta { display: flex; justify-content: space-between; gap: 8px; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
 .sku { font-family: var(--mono); letter-spacing: 0; text-transform: none; }
