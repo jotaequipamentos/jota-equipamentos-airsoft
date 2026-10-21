@@ -188,6 +188,41 @@ mark { background: color-mix(in srgb, var(--coyote) 30%, transparent); color: in
 .note { font-size: 12px; color: var(--muted); }
 .dfoot label { font-size: 13px; color: var(--muted); display: grid; gap: 4px; }
 .dfoot input, .dfoot textarea { font: inherit; padding: 8px 10px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--fg); width: 100%; }
+/* página de cada produto (abre por cima da vitrine, com link próprio #p=REF) */
+.produto { padding-block: 16px 96px; }
+.pv a.cor { text-decoration: none; display: inline-block; }
+.pv .cores { margin-top: 8px; }
+.voltar { background: none; border: 1px solid var(--line); color: var(--fg); border-radius: 6px; padding: 8px 12px; font: 600 14px var(--body); cursor: pointer; margin-bottom: 16px; }
+.voltar:hover { border-color: var(--olive); }
+.pv { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 32px; align-items: start; }
+.pv .foto { aspect-ratio: 1; background: #fff; border-radius: 12px; overflow: hidden; display: grid; place-items: center; position: relative; }
+.pv .foto img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; padding: 16px; }
+.pv .foto .spr { height: 100%; }
+.pv h1 { margin: 6px 0 4px; font-family: var(--body); font-size: 24px; line-height: 1.25; }
+.pv .orig { font-size: 13px; }
+.pv .meta { font-size: 13px; }
+.pv .price { font-size: 36px; display: block; margin: 16px 0 4px; }
+.pv .dados { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; margin: 16px 0; font-size: 14px; }
+.pv .dados dt { color: var(--muted); }
+.pv .dados dd { margin: 0; }
+.pv .acoes { display: grid; gap: 8px; margin-top: 16px; max-width: 420px; }
+.pv .add { padding: 12px; font-size: 16px; }
+.pv .share { background: #1f8f4e; color: #fff; border: 0; border-radius: 6px; padding: 11px; font: 600 15px var(--body); text-align: center; text-decoration: none; cursor: pointer; }
+.pv .copiar { background: none; border: 1px solid var(--line); color: var(--fg); border-radius: 6px; padding: 10px; font: 500 14px var(--body); cursor: pointer; }
+.pv .nota { font-size: 13px; color: var(--muted); margin-top: 12px; }
+.relacionados h2 { font-family: var(--logo); font-weight: 400; font-size: 18px; text-transform: uppercase; margin: 40px 0 12px; }
+.relacionados .grid { padding-bottom: 0; }
+.card .ver { color: inherit; text-decoration: none; display: block; }
+.card .ver:hover .name { text-decoration: underline; }
+.wa-float { position: fixed; right: max(16px, env(safe-area-inset-right, 0px)); bottom: max(16px, env(safe-area-inset-bottom, 0px)); z-index: 14; display: flex; align-items: center; gap: 8px; background: #1f8f4e; color: #fff; border-radius: 999px; padding: 10px 16px 10px 12px; font: 600 15px var(--body); text-decoration: none; box-shadow: 0 6px 20px rgba(0,0,0,.5); }
+.wa-float:hover { background: #23a35a; }
+@media (max-width: 640px) {
+  .pv { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .pv h1 { font-size: 20px; }
+  .pv .price { font-size: 30px; }
+  .wa-float { padding: 12px; }
+  .wa-float span { display: none; }
+}
 .limparcart { background: none; border: 0; color: var(--muted); font: 500 14px var(--body); text-decoration: underline; cursor: pointer; padding: 6px; }
 .limparcart:hover { color: #e0705a; }
 .send { background: #1f8f4e; color: #fff; border: 0; border-radius: 8px; padding: 12px; font: 600 16px var(--body); cursor: pointer; text-align: center; text-decoration: none; display: block; }
@@ -216,6 +251,12 @@ footer { color: var(--muted); font-size: 13px; padding-block: 24px; border-top: 
   <button class="mais" id="mais" type="button" hidden>Mostrar mais</button>
 </main>
 
+<section class="produto" id="produto" hidden aria-label="Produto">
+  <div class="wrap"><button class="voltar" id="voltar" type="button">← Voltar para a loja</button><div id="produtoCorpo"></div></div>
+</section>
+
+<a class="wa-float" id="waFloat" href="#" target="_blank" rel="noopener" aria-label="Tirar dúvidas no WhatsApp"><svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true"><path fill="currentColor" d="M16 3a13 13 0 0 0-11.2 19.6L3 29l6.6-1.7A13 13 0 1 0 16 3zm0 23.7c-2 0-4-.6-5.7-1.6l-.4-.2-3.9 1 1-3.8-.3-.4A10.7 10.7 0 1 1 16 26.7zm5.9-8c-.3-.2-1.9-1-2.2-1-.3-.1-.5-.2-.7.2l-1 1.2c-.2.2-.4.2-.7.1-.3-.2-1.4-.5-2.6-1.6-1-.9-1.6-1.9-1.8-2.2-.2-.3 0-.5.1-.7l.5-.6.3-.5c.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.1-1.2 2.8s1.2 3.2 1.4 3.5c.2.2 2.4 3.6 5.7 5 .8.4 1.4.6 1.9.7.8.3 1.5.2 2.1.1.6-.1 1.9-.8 2.2-1.5.3-.8.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/></svg><span>Dúvidas?</span></a>
+
 <footer><div class="wrap">Monte seu orçamento e envie pelo WhatsApp. Frete e prazo de entrega são combinados no atendimento. Valores sujeitos a confirmação de estoque e câmbio.</div></footer>
 
 <div class="shade" id="shade" hidden></div>
@@ -239,6 +280,7 @@ footer { color: var(--muted); font-size: 13px; padding-block: 24px; border-top: 
 const CONFIG = {
   whatsapp: "5514997039531",   // DDI + DDD + número, só dígitos
   loja: "JOTA GEAR",
+  site: "https://jotaequipamentos.github.io/jota-equipamentos-airsoft/", // endereço no ar, usado nos links de compartilhar
   cotacao: 5.20,               // R$ por dólar. Altere aqui quando o câmbio mudar
   // multiplicador sobre o custo (dólar × cotação), pela faixa de preço em dólar da Arsenal
   faixas: [
@@ -4643,10 +4685,10 @@ function renderGrid() {
       `<button class="cor" type="button" aria-pressed="${v === p}" data-vkey="${esc(v.vkey)}" data-escolha="${esc(v.sku)}"${v.disponivel ? "" : ` title="Indisponível"`}>${esc(v.cor || "padrão")}${v.disponivel ? "" : " ✕"}</button>`).join("")}</div>` : "";
     return `
     <article class="card${p.disponivel ? "" : " off"}">
-      <div class="thumb">${thumb(p)}</div>
+      <a class="ver" href="#p=${encodeURIComponent(p.sku)}" aria-label="Ver ${esc(p.nome)}"><div class="thumb">${thumb(p)}</div></a>
       <div class="info">
         <div class="meta"><span>${destaca(p.marca, q)}</span><span class="sku">${esc(p.sku)}</span></div>
-        <div class="name">${destaca(vs.length > 1 ? p.base : p.nome, q)}</div>
+        <a class="ver" href="#p=${encodeURIComponent(p.sku)}"><div class="name">${destaca(vs.length > 1 ? p.base : p.nome, q)}</div></a>
         ${cores}
         ${p.orig && p.orig !== p.nome ? `<div class="orig" title="Nome do fabricante">${destaca(p.orig, q)}</div>` : ""}
         <div class="specs">${esc(p.specs || "")}</div>
@@ -4709,6 +4751,7 @@ $("cats").addEventListener("click", e => {
 const irInicio = e => {
   e.preventDefault();
   $("q").value = ""; marcasAbertas = false; grupoAtual = catAtual = subAtual = marcaAtual = null;
+  if (produtoAtual) { passos = 0; history.replaceState(null, "", location.pathname + location.search); rotear(); }
   novoFiltro(); window.scrollTo({ top: 0, behavior: "smooth" });
 };
 document.querySelector(".brand").addEventListener("click", irInicio);
@@ -4761,5 +4804,90 @@ $("copy").addEventListener("click", async () => {
   setTimeout(() => b.textContent = "Copiar pedido", 2000);
 });
 
-renderCats(); renderGrid(); renderCart();
+// ----- página de cada produto: #p=REF (o link de compartilhar usa p/REF.html, que mostra a prévia e redireciona) -----
+const arquivoProduto = sku => String(sku).replace(/[^\w.-]/g, "_");
+const linkProduto = p => `${CONFIG.site}p/${arquivoProduto(p.sku)}.html`;
+let produtoAtual = null, rolagemLoja = 0;
+const waDuvida = p => `https://wa.me/${CONFIG.whatsapp}?text=${encodeURIComponent(p
+  ? `Olá, vim pelo site ${CONFIG.loja} e tenho uma dúvida sobre: ${p.nome} (Ref. ${p.sku})`
+  : `Olá, vim pelo site ${CONFIG.loja}`)}`;
+function cartaoMini(p) {
+  return `<article class="card${p.disponivel ? "" : " off"}"><a class="ver" href="#p=${encodeURIComponent(p.sku)}"><div class="thumb">${thumb(p)}</div>
+    <div class="info"><div class="meta"><span>${esc(p.marca)}</span><span class="sku">${esc(p.sku)}</span></div><div class="name">${esc(p.nome)}</div>
+    <div class="buy"><span class="price${p.preco === null ? " ask" : ""}">${p.preco === null ? "Sob consulta" : brl(p.preco)}</span></div></div></a></article>`;
+}
+function renderProduto() {
+  const p = produtoAtual; if (!p) return;
+  const vs = VARIANTES.get(p.vkey) || [p];
+  const cores = vs.length > 1 ? `<div class="cores" role="group" aria-label="Cores">${vs.map(v =>
+    `<a class="cor" href="#p=${encodeURIComponent(v.sku)}" aria-pressed="${v === p}"${v.disponivel ? "" : ` title="Indisponível"`}>${esc(v.cor || "padrão")}${v.disponivel ? "" : " ✕"}</a>`).join("")}</div>` : "";
+  const vistos = new Set([p.vkey]);
+  const rel = PRODUTOS.filter(x => x.grupo === p.grupo && x.cat === p.cat && x.disponivel && !vistos.has(x.vkey) && vistos.add(x.vkey)).slice(0, 8);
+  const share = `https://wa.me/?text=${encodeURIComponent(`${p.nome}${p.preco !== null ? ` por ${brl(p.preco)}` : ""} na ${CONFIG.loja}\n${linkProduto(p)}`)}`;
+  $("produtoCorpo").innerHTML = `
+    <div class="pv">
+      <div class="foto">${thumb(p)}</div>
+      <div>
+        <div class="meta"><span>${esc(p.marca)}</span><span class="sku">Ref. ${esc(p.sku)}</span></div>
+        <h1>${esc(p.nome)}</h1>
+        ${p.orig && p.orig !== p.nome ? `<div class="orig">${esc(p.orig)}</div>` : ""}
+        ${cores}
+        <span class="price${p.preco === null ? " ask" : ""}">${p.preco === null ? "Sob consulta" : brl(p.preco)}${p.preco !== null && CONFIG.pix ? `<small class="pix">${brl(Math.round(p.preco * (1 - CONFIG.pix) * 100) / 100)} no Pix</small>` : ""}</span>
+        ${p.disponivel ? "" : `<span class="badge">Indisponível no momento</span>`}
+        <dl class="dados"><dt>Categoria</dt><dd>${esc(p.grupo)} › ${esc(p.cat)}${p.sub ? ` › ${esc(p.sub)}` : ""}</dd><dt>Marca</dt><dd>${esc(p.marca)}</dd>${p.specs ? `<dt>Detalhes</dt><dd>${esc(p.specs)}</dd>` : ""}</dl>
+        <div class="acoes">
+          ${p.disponivel
+            ? `<button class="add${carrinho[p.sku] ? " added" : ""}" type="button" data-pv-add="${esc(p.sku)}">${carrinho[p.sku] ? `No orçamento (${carrinho[p.sku]}) · adicionar mais` : "Adicionar ao orçamento"}</button>`
+            : `<button class="add" type="button" disabled>Indisponível</button>`}
+          <a class="share" href="${share}" target="_blank" rel="noopener" data-pv-share>Compartilhar no WhatsApp</a>
+          <button class="copiar" type="button" data-pv-copiar>Copiar link do produto</button>
+        </div>
+        <p class="nota">Frete e prazo combinados pelo WhatsApp depois do orçamento.</p>
+      </div>
+    </div>
+    ${rel.length ? `<section class="relacionados"><h2>Mais em ${esc(p.cat)}</h2><div class="grid">${rel.map(cartaoMini).join("")}</div></section>` : ""}`;
+  $("waFloat").href = waDuvida(p);
+}
+function rotear() {
+  const m = location.hash.match(/^#p=(.+)$/);
+  const p = m && porSku[decodeURIComponent(m[1])];
+  if (p) {
+    if (!produtoAtual) rolagemLoja = scrollY;
+    const novo = p !== produtoAtual;
+    produtoAtual = p; renderProduto();
+    $("produto").hidden = false; document.querySelector("main").hidden = true; scrollTo(0, 0);
+    document.title = `${p.nome} | ${CONFIG.loja}`;
+    if (novo) evento("view_item", { currency: "BRL", value: p.preco, items: [itemGA(p)] });
+  } else if (produtoAtual) {
+    produtoAtual = null; $("produto").hidden = true; document.querySelector("main").hidden = false; document.title = CONFIG.loja;
+    $("waFloat").href = waDuvida(null); renderGrid(); scrollTo(0, rolagemLoja);
+  }
+}
+// "Voltar" volta para a loja mesmo depois de abrir outros produtos; quem chegou por link direto vai para o início
+let passos = 0, vaiAbrir = false;
+document.addEventListener("click", e => { if (e.target.closest("a.ver")) vaiAbrir = true; }, true);
+window.addEventListener("hashchange", () => { if (vaiAbrir && /^#p=/.test(location.hash)) passos++; vaiAbrir = false; });
+const fecharProduto = () => {
+  if (passos > 0) { const n = passos; passos = 0; history.go(-n); }
+  else { history.replaceState(null, "", location.pathname + location.search); rotear(); }
+};
+$("voltar").addEventListener("click", fecharProduto);
+$("produto").addEventListener("click", async e => {
+  const cor = e.target.closest("a.cor");
+  if (cor) { e.preventDefault(); history.replaceState(null, "", cor.getAttribute("href")); return rotear(); } // trocar a cor não cria passo no "voltar"
+  const a = e.target.closest("[data-pv-add]");
+  if (a) { const p = porSku[a.dataset.pvAdd]; carrinho[p.sku] = (carrinho[p.sku] || 0) + 1;
+    evento("add_to_cart", { currency: "BRL", value: p.preco, items: [itemGA(p)] }); renderCart(); renderProduto(); return; }
+  if (e.target.closest("[data-pv-share]")) return evento("share", { method: "whatsapp", content_type: "produto", item_id: produtoAtual.sku });
+  const c = e.target.closest("[data-pv-copiar]");
+  if (c) { try { await navigator.clipboard.writeText(linkProduto(produtoAtual)); c.textContent = "Link copiado"; } catch (err) { c.textContent = linkProduto(produtoAtual); }
+    evento("share", { method: "copiar_link", content_type: "produto", item_id: produtoAtual.sku }); }
+});
+document.addEventListener("keydown", e => { if (e.key === "Escape" && produtoAtual && $("drawer").hidden) fecharProduto(); });
+window.addEventListener("hashchange", rotear);
+$("q").addEventListener("input", () => { if (produtoAtual) { passos = 0; rolagemLoja = 0; history.replaceState(null, "", location.pathname + location.search); rotear(); } });
+$("waFloat").href = waDuvida(null);
+$("waFloat").addEventListener("click", () => evento("contact", { method: "whatsapp", item_id: produtoAtual ? produtoAtual.sku : "geral" }));
+
+renderCats(); renderGrid(); renderCart(); rotear();
 </script>

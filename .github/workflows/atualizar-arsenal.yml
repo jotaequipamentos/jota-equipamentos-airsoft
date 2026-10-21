@@ -44,7 +44,7 @@ jobs:
 
       - name: Publicar se algo mudou
         run: |
-          git add produtos.json index.html img
+          git add produtos.json index.html img p
           # só a data de atualização mudou? então não publica
           if git diff --cached --quiet -I 'atualizado_em' -I 'ATUALIZADO_EM'; then
             echo "Nada mudou na Arsenal."

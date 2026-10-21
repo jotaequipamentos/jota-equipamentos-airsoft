@@ -8,13 +8,14 @@ Produto sem preço na Arsenal ("Avise-me quando chegar") entra como indisponíve
 
 Na vitrine cada produto tem: grupo (linha de categorias), cat (tipo de peça) e sub (modelo da arma, opcional).
 """
-import html, io, json, os, re, sys, time, urllib.request
+import html, io, json, os, re, sys, time, urllib.parse, urllib.request
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 BASE = "https://www.arsenalsports.com"
+SITE = "https://jotaequipamentos.github.io/jota-equipamentos-airsoft/"  # endereço da loja no ar (links e prévias)
 
 # Peças da AAP01: o tipo sai do nome da peça. A primeira regra que casar vence.
 TIPOS_AAP = [
@@ -465,6 +466,7 @@ def finalizar(lista, ordem_tipos):
     if n != 1:
         sys.exit("Não achei o bloco // PRODUTOS:INICIO ... // PRODUTOS:FIM no index.html")
     open(caminho, "w", encoding="utf-8").write(novo)
+    paginas_produtos(lista, os.path.dirname(caminho))
 
     disp = sum(p["disponivel"] for p in lista)
     print(f"{len(lista)} produtos ({disp} disponíveis, {len(lista) - disp} indisponíveis)")
@@ -472,11 +474,65 @@ def finalizar(lista, ordem_tipos):
         print(f"  {n:5d}  {g} / {c}")
 
 
+PAGINA_PRODUTO = """<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{titulo} | JOTA GEAR</title>
+<meta name="description" content="{descricao}">
+<link rel="canonical" href="{url}">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="JOTA GEAR">
+<meta property="og:title" content="{titulo}">
+<meta property="og:description" content="{descricao}">
+<meta property="og:url" content="{url}">
+{og_img}<meta name="twitter:card" content="summary_large_image">
+<script>location.replace("../#p={ref_js}");</script>
+<style>body{{background:#0d0e0b;color:#e6e5df;font:16px system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px}}img{{max-width:100%;background:#fff;border-radius:8px}}a{{color:#9cb865}}</style>
+<h1>{titulo}</h1>
+<p>{descricao}</p>
+{img_tag}<p><a href="../#p={ref_url}">Ver preço e fazer orçamento na loja JOTA GEAR</a></p>
+"""
+
+
+def paginas_produtos(lista, pasta_site):
+    """Uma página por produto em p/REF.html: título e foto para a prévia do WhatsApp e para o Google;
+    quem abre é levado à página do produto dentro da loja (#p=REF)."""
+    pasta = os.path.join(pasta_site, "p")
+    os.makedirs(pasta, exist_ok=True)
+    feitos = set()
+    for p in lista:
+        arq = re.sub(r"[^\w.-]", "_", p["sku"]) + ".html"
+        feitos.add(arq)
+        disp = "Disponível para orçamento" if p["disponivel"] else "Indisponível no momento"
+        desc = f"{p['nome']} ({p['marca']}), Ref. {p['sku']}. {disp}. Peças e acessórios para airsoft, orçamento pelo WhatsApp."
+        e = lambda s: html.escape(s, quote=True)
+        img = p.get("img")
+        conteudo = PAGINA_PRODUTO.format(
+            titulo=e(p["nome"]), descricao=e(desc), url=e(f"{SITE}p/{arq}"),
+            og_img=f'<meta property="og:image" content="{e(SITE + img)}">\n' if img else "",
+            img_tag=f'<p><img src="../{e(img)}" alt="{e(p["nome"])}"></p>\n' if img else "",
+            ref_js=json.dumps(urllib.parse.quote(p["sku"], safe=""))[1:-1], ref_url=e(urllib.parse.quote(p["sku"], safe="")))
+        destino = os.path.join(pasta, arq)
+        try:
+            if open(destino, encoding="utf-8").read() == conteudo:
+                continue  # não regrava o que não mudou
+        except FileNotFoundError:
+            pass
+        open(destino, "w", encoding="utf-8").write(conteudo)
+    for velho in set(os.listdir(pasta)) - feitos:  # produto que saiu da loja
+        if velho.endswith(".html"):
+            os.remove(os.path.join(pasta, velho))
+    print(f"{len(feitos)} páginas de produto em {pasta}")
+
+
 if __name__ == "__main__":
     if "--reprocessar" in sys.argv:  # refaz nomes, subdivisões e a página a partir do produtos.json, sem ler a Arsenal
         dados = json.load(open(os.path.join(AQUI, "produtos.json"), encoding="utf-8"))
         finalizar([p for p in dados["produtos"] if p["sku"] not in EXCLUIR_SKU and not EXCLUIR_NOME.search(p["arsenal"]["nome"])],
                   dados["estrutura"])
+    elif "--paginas" in sys.argv:  # só refaz as páginas p/REF.html a partir do produtos.json
+        paginas_produtos(json.load(open(os.path.join(AQUI, "produtos.json"), encoding="utf-8"))["produtos"], AQUI)
     elif "--so" in sys.argv:  # lê só um grupo: --so "Tracers"
         main(sys.argv[sys.argv.index("--so") + 1])
     else:
