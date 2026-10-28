@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-28T08:37:22-03:00",
+ "atualizado_em": "2026-10-28T16:48:54-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -3077,8 +3077,8 @@
    "cat": "Gatilho, hammer e sear",
    "sub": "AAP01",
    "specs": "Compatível: AAP01",
-   "usd": 12.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/28541.webp",
    "arsenal": {
     "id": 28541,
@@ -3561,8 +3561,8 @@
    "cat": "Nozzle e blowback",
    "sub": "AAP01",
    "specs": "Compatível: AAP01, AAP01C",
-   "usd": 56.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/33794.webp",
    "arsenal": {
     "id": 33794,
@@ -4155,8 +4155,8 @@
    "cat": "Nozzle e blowback",
    "sub": "AAP01",
    "specs": "Compatível: AAP01, AAP01C",
-   "usd": 9.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/33805.webp",
    "arsenal": {
     "id": 33805,
@@ -6333,8 +6333,8 @@
    "cat": "Slides, ferrolhos e frames",
    "sub": "AAP01",
    "specs": "Compatível: AAP01, AAP01C",
-   "usd": 143.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/33834.webp",
    "arsenal": {
     "id": 33834,
@@ -7411,8 +7411,8 @@
    "cat": "Magwell, grip e apoio",
    "sub": "AAP01",
    "specs": "Compatível: AAP01",
-   "usd": 32.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/21527.webp",
    "arsenal": {
     "id": 21527,
@@ -10227,7 +10227,7 @@
    "cat": "Pistola",
    "sub": "CO2",
    "specs": "",
-   "usd": 17.0,
+   "usd": 15.0,
    "disponivel": true,
    "img": "img/24201.webp",
    "arsenal": {
@@ -11041,8 +11041,8 @@
    "cat": "Pistola",
    "sub": "Gás (GBB)",
    "specs": "",
-   "usd": 94.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/15562.webp",
    "arsenal": {
     "id": 15562,
@@ -14077,7 +14077,7 @@
    "cat": "Pistola",
    "sub": "Gás (GBB)",
    "specs": "",
-   "usd": 25.0,
+   "usd": 23.0,
    "disponivel": true,
    "img": "img/34157.webp",
    "arsenal": {
@@ -14297,7 +14297,7 @@
    "cat": "Pistola",
    "sub": "Gás (GBB)",
    "specs": "",
-   "usd": 25.0,
+   "usd": 24.0,
    "disponivel": true,
    "img": "img/34158.webp",
    "arsenal": {
@@ -14319,7 +14319,7 @@
    "cat": "Pistola",
    "sub": "Gás (GBB)",
    "specs": "",
-   "usd": 25.0,
+   "usd": 24.0,
    "disponivel": true,
    "img": "img/18978.webp",
    "arsenal": {
@@ -15001,7 +15001,7 @@
    "cat": "Pistola",
    "sub": "Outros",
    "specs": "",
-   "usd": 6.0,
+   "usd": 5.0,
    "disponivel": true,
    "img": "img/24203.webp",
    "arsenal": {
@@ -15573,8 +15573,8 @@
    "cat": "Pistola",
    "sub": "Outros",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 24.0,
+   "disponivel": true,
    "img": "img/15013.webp",
    "arsenal": {
     "id": 15013,
@@ -17795,8 +17795,8 @@
    "cat": "Rifle",
    "sub": "GBBR",
    "specs": "",
-   "usd": 55.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/25310.webp",
    "arsenal": {
     "id": 25310,
@@ -18719,8 +18719,8 @@
    "cat": "Rifle",
    "sub": "GBBR",
    "specs": "",
-   "usd": 55.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/28828.webp",
    "arsenal": {
     "id": 28828,
@@ -18829,8 +18829,8 @@
    "cat": "Rifle",
    "sub": "GBBR",
    "specs": "",
-   "usd": 50.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/30763.webp",
    "arsenal": {
     "id": 30763,
@@ -20699,8 +20699,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": 14.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/27672.webp",
    "arsenal": {
     "id": 27672,
@@ -22635,8 +22635,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": 12.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/26812.webp",
    "arsenal": {
     "id": 26812,
@@ -22855,8 +22855,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": 12.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/19228.webp",
    "arsenal": {
     "id": 19228,
@@ -23823,8 +23823,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": 12.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/32553.webp",
    "arsenal": {
     "id": 32553,
@@ -24659,8 +24659,8 @@
    "cat": "Rifle",
    "sub": "Outros",
    "specs": "",
-   "usd": 9.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/20409.webp",
    "arsenal": {
     "id": 20409,
@@ -25077,8 +25077,8 @@
    "cat": "Rifle",
    "sub": "Outros",
    "specs": "",
-   "usd": 10.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/17486.webp",
    "arsenal": {
     "id": 17486,
@@ -28157,7 +28157,7 @@
    "cat": "Sniper",
    "sub": "",
    "specs": "",
-   "usd": 13.0,
+   "usd": 12.0,
    "disponivel": true,
    "img": "img/18517.webp",
    "arsenal": {
@@ -28817,8 +28817,8 @@
    "cat": "Sniper",
    "sub": "",
    "specs": "",
-   "usd": 10.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/19754.webp",
    "arsenal": {
     "id": 19754,
@@ -28861,8 +28861,8 @@
    "cat": "Sniper",
    "sub": "",
    "specs": "",
-   "usd": 22.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/13053.webp",
    "arsenal": {
     "id": 13053,
@@ -32095,8 +32095,8 @@
    "cat": "Peças de magazine",
    "sub": "",
    "specs": "",
-   "usd": 3.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/27710.webp",
    "arsenal": {
     "id": 27710,
@@ -32352,28 +32352,6 @@
    "orig": "Spring and Guide for Magazine GBBR M4"
   },
   {
-   "sku": "301633",
-   "nome": "O-Ring Magazine Gasket para M4 GBBR",
-   "marca": "Kjw",
-   "grupo": "Magazines",
-   "cat": "Peças de magazine",
-   "sub": "",
-   "specs": "",
-   "usd": 1.0,
-   "disponivel": true,
-   "img": "img/10892.webp",
-   "arsenal": {
-    "id": 10892,
-    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10892.html",
-    "ref": "301633",
-    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
-    "marca_arsenal": "KJW",
-    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
-    "img": "https://www.arsenalsports.com/img/10892/produtos/400/8e5f8e548f504845f8270e97eabd0e8a.jpg"
-   },
-   "orig": "O-Ring Magazine Gasket for M4 GBBR"
-  },
-  {
    "sku": "301626",
    "nome": "O-Ring Magazine Gasket para M4 GBBR",
    "marca": "Kjw",
@@ -32392,6 +32370,28 @@
     "marca_arsenal": "KJW",
     "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
     "img": "https://www.arsenalsports.com/img/10891/produtos/400/a4f21fb6d1fb62229a78d0de7bf946e2.jpg"
+   },
+   "orig": "O-Ring Magazine Gasket for M4 GBBR"
+  },
+  {
+   "sku": "301633",
+   "nome": "O-Ring Magazine Gasket para M4 GBBR",
+   "marca": "Kjw",
+   "grupo": "Magazines",
+   "cat": "Peças de magazine",
+   "sub": "",
+   "specs": "",
+   "usd": 1.0,
+   "disponivel": true,
+   "img": "img/10892.webp",
+   "arsenal": {
+    "id": 10892,
+    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10892.html",
+    "ref": "301633",
+    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
+    "marca_arsenal": "KJW",
+    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
+    "img": "https://www.arsenalsports.com/img/10892/produtos/400/8e5f8e548f504845f8270e97eabd0e8a.jpg"
    },
    "orig": "O-Ring Magazine Gasket for M4 GBBR"
   },
@@ -35087,8 +35087,8 @@
    "cat": "0.23g e 0.25g",
    "sub": "",
    "specs": "",
-   "usd": 13.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/23419.webp",
    "arsenal": {
     "id": 23419,
@@ -37023,8 +37023,8 @@
    "cat": "Speed loader",
    "sub": "",
    "specs": "",
-   "usd": 42.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/15787.webp",
    "arsenal": {
     "id": 15787,
@@ -37067,8 +37067,8 @@
    "cat": "Speed loader",
    "sub": "",
    "specs": "",
-   "usd": 42.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/19049.webp",
    "arsenal": {
     "id": 19049,
@@ -38607,8 +38607,8 @@
    "cat": "LiPo",
    "sub": "7.4V",
    "specs": "",
-   "usd": 12.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/21157.webp",
    "arsenal": {
     "id": 21157,
@@ -38783,8 +38783,8 @@
    "cat": "LiPo",
    "sub": "7.4V",
    "specs": "",
-   "usd": 13.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/20625.webp",
    "arsenal": {
     "id": 20625,
@@ -39678,28 +39678,6 @@
    "orig": "Bateria LIPO 20C / 11.1 / 2200 / 3S1P Tamiya"
   },
   {
-   "sku": "414340",
-   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/21180.webp",
-   "arsenal": {
-    "id": 21180,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-21180.html",
-    "ref": "414340",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21180/produtos/400/1cdbc84b2ea45dedba6e793ffdf8a4fd.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
-  },
-  {
    "sku": "413213",
    "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
    "marca": "Gens Ace",
@@ -39718,6 +39696,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28186/produtos/400/dacb732df57dca1c7897526df289a88c.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
+  },
+  {
+   "sku": "414340",
+   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/21180.webp",
+   "arsenal": {
+    "id": 21180,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-21180.html",
+    "ref": "414340",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21180/produtos/400/1cdbc84b2ea45dedba6e793ffdf8a4fd.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
   },
@@ -40514,28 +40514,6 @@
    "orig": "Bateria LIPO 35C / 11.1 / 2200 / 3S1P Deans"
   },
   {
-   "sku": "80477",
-   "nome": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/29494.webp",
-   "arsenal": {
-    "id": 29494,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-45c--111--1000--3s1p-deans-29494.html",
-    "ref": "80477",
-    "nome": "GENS ACE BATERIA LIPO 45C / 11.1 / 1000 / 3S1P DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/29494/produtos/400/545e279d2def659ed5299a2fbfc00a61.jpg"
-   },
-   "orig": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans"
-  },
-  {
    "sku": "117227",
    "nome": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans",
    "marca": "Gens Ace",
@@ -40554,6 +40532,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/29495/produtos/400/81f7673ed0591fd877f629ea4079d64c.png"
+   },
+   "orig": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans"
+  },
+  {
+   "sku": "80477",
+   "nome": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/29494.webp",
+   "arsenal": {
+    "id": 29494,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-45c--111--1000--3s1p-deans-29494.html",
+    "ref": "80477",
+    "nome": "GENS ACE BATERIA LIPO 45C / 11.1 / 1000 / 3S1P DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/29494/produtos/400/545e279d2def659ed5299a2fbfc00a61.jpg"
    },
    "orig": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans"
   },
@@ -40697,7 +40697,7 @@
    "cat": "LiPo",
    "sub": "Outras",
    "specs": "",
-   "usd": 17.0,
+   "usd": 18.0,
    "disponivel": true,
    "img": "img/34742.webp",
    "arsenal": {
@@ -43029,8 +43029,8 @@
    "cat": "AEG",
    "sub": "6.01mm",
    "specs": "",
-   "usd": 38.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/29021.webp",
    "arsenal": {
     "id": 29021,
@@ -43042,6 +43042,28 @@
     "img": "https://www.arsenalsports.com/img/29021/produtos/400/0886c51f84cc871fdbbf6ecb4a01876a.jpg"
    },
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/208MM"
+  },
+  {
+   "sku": "358231",
+   "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
+   "marca": "Lambda",
+   "grupo": "Canos internos",
+   "cat": "AEG",
+   "sub": "6.01mm",
+   "specs": "",
+   "usd": 40.0,
+   "disponivel": true,
+   "img": "img/29024.webp",
+   "arsenal": {
+    "id": 29024,
+    "url": "https://www.arsenalsports.com/produto/lambda-inner-barrel-stainless-steel-01-for-aeg-601229mm-29024.html",
+    "ref": "358231",
+    "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
+    "marca_arsenal": "LAMBDA",
+    "categoria": "CANOS DE PRECISÃO INTERNOS",
+    "img": "https://www.arsenalsports.com/img/29024/produtos/400/b642ea858141dc0fa4e682a284b0f976.jpg"
+   },
+   "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
   },
   {
    "sku": "358255",
@@ -43062,28 +43084,6 @@
     "marca_arsenal": "LAMBDA",
     "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
     "img": "https://www.arsenalsports.com/img/29023/produtos/400/6d3586b4d23591b4502b16125dc4a7da.jpg"
-   },
-   "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
-  },
-  {
-   "sku": "358231",
-   "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
-   "marca": "Lambda",
-   "grupo": "Canos internos",
-   "cat": "AEG",
-   "sub": "6.01mm",
-   "specs": "",
-   "usd": 40.0,
-   "disponivel": true,
-   "img": "img/29024.webp",
-   "arsenal": {
-    "id": 29024,
-    "url": "https://www.arsenalsports.com/produto/lambda-inner-barrel-stainless-steel-01-for-aeg-601229mm-29024.html",
-    "ref": "358231",
-    "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
-    "marca_arsenal": "LAMBDA",
-    "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
-    "img": "https://www.arsenalsports.com/img/29024/produtos/400/b642ea858141dc0fa4e682a284b0f976.jpg"
    },
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
   },
@@ -43821,8 +43821,8 @@
    "cat": "AEG",
    "sub": "6.02mm a 6.03mm",
    "specs": "",
-   "usd": 54.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/29054.webp",
    "arsenal": {
     "id": 29054,
@@ -43975,8 +43975,8 @@
    "cat": "AEG",
    "sub": "6.02mm a 6.03mm",
    "specs": "",
-   "usd": 27.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/29094.webp",
    "arsenal": {
     "id": 29094,
@@ -45317,8 +45317,8 @@
    "cat": "AEG",
    "sub": "6.04mm a 6.05mm",
    "specs": "",
-   "usd": 40.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/29075.webp",
    "arsenal": {
     "id": 29075,
@@ -50113,7 +50113,7 @@
    "cat": "Sniper",
    "sub": "6.02mm a 6.03mm",
    "specs": "",
-   "usd": 25.0,
+   "usd": 22.0,
    "disponivel": true,
    "img": "img/24835.webp",
    "arsenal": {
@@ -51235,8 +51235,8 @@
    "cat": "GBBR e PTW",
    "sub": "6.02mm a 6.03mm",
    "specs": "",
-   "usd": 76.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/22792.webp",
    "arsenal": {
     "id": 22792,
@@ -52071,7 +52071,7 @@
    "cat": "Kits com cano externo",
    "sub": "Diâmetro não informado",
    "specs": "",
-   "usd": 22.0,
+   "usd": 20.0,
    "disponivel": true,
    "img": "img/28549.webp",
    "arsenal": {
@@ -53325,8 +53325,8 @@
    "cat": "Gearbox",
    "sub": "Gearbox completa",
    "specs": "",
-   "usd": 65.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/10576.webp",
    "arsenal": {
     "id": 10576,
@@ -53360,28 +53360,6 @@
     "img": "https://www.arsenalsports.com/img/10579/produtos/400/2941ce7ef1ff094992cde4be50ae5170.jpg"
    },
    "orig": "Gearbox Complete Rear Wire Set for M4 Series"
-  },
-  {
-   "sku": "485579",
-   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Gearbox",
-   "sub": "Gearbox completa",
-   "specs": "",
-   "usd": 88.0,
-   "disponivel": true,
-   "img": "img/29968.webp",
-   "arsenal": {
-    "id": 29968,
-    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
-    "ref": "485579",
-    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "GEARBOX",
-    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
-   },
-   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
   {
    "sku": "485609",
@@ -53428,6 +53406,28 @@
    "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
   {
+   "sku": "485579",
+   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Gearbox",
+   "sub": "Gearbox completa",
+   "specs": "",
+   "usd": 88.0,
+   "disponivel": true,
+   "img": "img/29968.webp",
+   "arsenal": {
+    "id": 29968,
+    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
+    "ref": "485579",
+    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "GEARBOX",
+    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
+   },
+   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
+  },
+  {
    "sku": "485586",
    "nome": "Gearbox completa QD VER. 2 com ETU e Ordinary Motor para M4",
    "marca": "Cyma",
@@ -53435,8 +53435,8 @@
    "cat": "Gearbox",
    "sub": "Gearbox completa",
    "specs": "",
-   "usd": 65.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/30497.webp",
    "arsenal": {
     "id": 30497,
@@ -55129,8 +55129,8 @@
    "cat": "Gearbox",
    "sub": "Carcaça",
    "specs": "",
-   "usd": 27.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/20965.webp",
    "arsenal": {
     "id": 20965,
@@ -60248,28 +60248,6 @@
    "orig": "Piston 15 Teeth Metal"
   },
   {
-   "sku": "560528",
-   "nome": "Pistão alumínio com rolamento para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/34041.webp",
-   "arsenal": {
-    "id": 34041,
-    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34041.html",
-    "ref": "560528",
-    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "PISTON HEADS",
-    "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
-   },
-   "orig": "Piston Aluminum with Bearing for M4"
-  },
-  {
    "sku": "560504",
    "nome": "Pistão alumínio com rolamento para M4",
    "marca": "Cyma",
@@ -60310,6 +60288,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "PISTON HEADS",
     "img": "https://www.arsenalsports.com/img/34040/produtos/400/1192c8efb0fb06397c107f733cac94d2.png"
+   },
+   "orig": "Piston Aluminum with Bearing for M4"
+  },
+  {
+   "sku": "560528",
+   "nome": "Pistão alumínio com rolamento para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 8.0,
+   "disponivel": true,
+   "img": "img/34041.webp",
+   "arsenal": {
+    "id": 34041,
+    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34041.html",
+    "ref": "560528",
+    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "PISTON HEADS",
+    "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
    },
    "orig": "Piston Aluminum with Bearing for M4"
   },
@@ -61905,8 +61905,8 @@
    "cat": "Pistão e cabeça",
    "sub": "",
    "specs": "",
-   "usd": 16.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/17865.webp",
    "arsenal": {
     "id": 17865,
@@ -62426,28 +62426,6 @@
    "orig": "Cylinder Set for M870"
   },
   {
-   "sku": "547772",
-   "nome": "Cilindro Set para SR25",
-   "marca": "A&K",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 19.0,
-   "disponivel": true,
-   "img": "img/32308.webp",
-   "arsenal": {
-    "id": 32308,
-    "url": "https://www.arsenalsports.com/produto/ak-cylinder-set-for-sr25-32308.html",
-    "ref": "547772",
-    "nome": "A&K CYLINDER SET FOR SR25",
-    "marca_arsenal": "A&K",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/32308/produtos/400/cc6ebb32a277bafa423f903bb2fefdc5.jpg"
-   },
-   "orig": "Cylinder Set for SR25"
-  },
-  {
    "sku": "547673",
    "nome": "Cilindro Set para SR25",
    "marca": "A&K",
@@ -62466,6 +62444,28 @@
     "marca_arsenal": "A&K",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/32307/produtos/400/4f962c9585a08784e2bc3c28c7f14909.jpg"
+   },
+   "orig": "Cylinder Set for SR25"
+  },
+  {
+   "sku": "547772",
+   "nome": "Cilindro Set para SR25",
+   "marca": "A&K",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 19.0,
+   "disponivel": true,
+   "img": "img/32308.webp",
+   "arsenal": {
+    "id": 32308,
+    "url": "https://www.arsenalsports.com/produto/ak-cylinder-set-for-sr25-32308.html",
+    "ref": "547772",
+    "nome": "A&K CYLINDER SET FOR SR25",
+    "marca_arsenal": "A&K",
+    "categoria": "CYLINDERS",
+    "img": "https://www.arsenalsports.com/img/32308/produtos/400/cc6ebb32a277bafa423f903bb2fefdc5.jpg"
    },
    "orig": "Cylinder Set for SR25"
   },
@@ -63130,28 +63130,6 @@
    "orig": "Cylinder Steel Ribbed for SR25, SVD and Svu AEG"
   },
   {
-   "sku": "409377",
-   "nome": "Tune Up Kit Cilindro / Cabeça de cilindro & Cabeça de pistão",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 20.0,
-   "disponivel": true,
-   "img": "img/17457.webp",
-   "arsenal": {
-    "id": 17457,
-    "url": "https://www.arsenalsports.com/produto/cyma-tune-up-kit-cylinder--cylinder-head--piston-head-17457.html",
-    "ref": "409377",
-    "nome": "CYMA TUNE UP KIT CYLINDER / CYLINDER HEAD & PISTON HEAD",
-    "marca_arsenal": "CYMA",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/17457/produtos/400/3fc2b56fdc8c28d1458ecb8f615cf1e6.jpg"
-   },
-   "orig": "Tune Up Kit Cylinder / Cylinder Head & Piston Head"
-  },
-  {
    "sku": "409360",
    "nome": "Tune Up Kit Cilindro / Cabeça de cilindro & Cabeça de pistão",
    "marca": "Cyma",
@@ -63170,6 +63148,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/17456/produtos/400/7e47581deb3aae1dd5d2fc116029d6d9.jpg"
+   },
+   "orig": "Tune Up Kit Cylinder / Cylinder Head & Piston Head"
+  },
+  {
+   "sku": "409377",
+   "nome": "Tune Up Kit Cilindro / Cabeça de cilindro & Cabeça de pistão",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 20.0,
+   "disponivel": true,
+   "img": "img/17457.webp",
+   "arsenal": {
+    "id": 17457,
+    "url": "https://www.arsenalsports.com/produto/cyma-tune-up-kit-cylinder--cylinder-head--piston-head-17457.html",
+    "ref": "409377",
+    "nome": "CYMA TUNE UP KIT CYLINDER / CYLINDER HEAD & PISTON HEAD",
+    "marca_arsenal": "CYMA",
+    "categoria": "CYLINDERS",
+    "img": "https://www.arsenalsports.com/img/17457/produtos/400/3fc2b56fdc8c28d1458ecb8f615cf1e6.jpg"
    },
    "orig": "Tune Up Kit Cylinder / Cylinder Head & Piston Head"
   },
@@ -64384,24 +64384,24 @@
    "orig": "Bore Up Cylinder Set Variant for MP5K"
   },
   {
-   "sku": "333627",
+   "sku": "26796",
    "nome": "Bore Up Cilindro Set para AUG",
    "marca": "SHS",
    "grupo": "Peças internas",
    "cat": "Cilindro e cabeça",
    "sub": "",
    "specs": "",
-   "usd": 19.0,
+   "usd": 24.0,
    "disponivel": true,
-   "img": "img/33466.webp",
+   "img": "img/27884.webp",
    "arsenal": {
-    "id": 33466,
-    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
-    "ref": "333627",
+    "id": 27884,
+    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-27884.html",
+    "ref": "26796",
     "nome": "SHS BORE UP CYLINDER SET FOR AUG",
     "marca_arsenal": "SHS",
     "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
+    "img": "https://www.arsenalsports.com/img/27884/produtos/400/cc5ae0dba50a064ebf32c81af24b50eb.jpg"
    },
    "orig": "Bore Up Cylinder Set for AUG"
   },
@@ -68637,8 +68637,8 @@
    "cat": "Hop-up",
    "sub": "Borrachas",
    "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/22067.webp",
    "arsenal": {
     "id": 22067,
@@ -69539,8 +69539,8 @@
    "cat": "Hop-up",
    "sub": "Borrachas",
    "specs": "",
-   "usd": 13.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/24113.webp",
    "arsenal": {
     "id": 24113,
@@ -70837,7 +70837,7 @@
    "cat": "Hop-up",
    "sub": "Câmaras",
    "specs": "",
-   "usd": 79.0,
+   "usd": 69.0,
    "disponivel": true,
    "img": "img/30482.webp",
    "arsenal": {
@@ -70859,7 +70859,7 @@
    "cat": "Hop-up",
    "sub": "Câmaras",
    "specs": "",
-   "usd": 79.0,
+   "usd": 69.0,
    "disponivel": true,
    "img": "img/30483.webp",
    "arsenal": {
@@ -70881,7 +70881,7 @@
    "cat": "Hop-up",
    "sub": "Câmaras",
    "specs": "",
-   "usd": 79.0,
+   "usd": 69.0,
    "disponivel": true,
    "img": "img/22399.webp",
    "arsenal": {
@@ -70969,7 +70969,7 @@
    "cat": "Hop-up",
    "sub": "Câmaras",
    "specs": "",
-   "usd": 79.0,
+   "usd": 69.0,
    "disponivel": true,
    "img": "img/33367.webp",
    "arsenal": {
@@ -75941,7 +75941,7 @@
    "cat": "Motores",
    "sub": "",
    "specs": "",
-   "usd": 77.0,
+   "usd": 70.0,
    "disponivel": true,
    "img": "img/33177.webp",
    "arsenal": {
@@ -75963,7 +75963,7 @@
    "cat": "Motores",
    "sub": "",
    "specs": "",
-   "usd": 77.0,
+   "usd": 70.0,
    "disponivel": true,
    "img": "img/29685.webp",
    "arsenal": {
@@ -75985,7 +75985,7 @@
    "cat": "Motores",
    "sub": "",
    "specs": "",
-   "usd": 79.0,
+   "usd": 75.0,
    "disponivel": true,
    "img": "img/29686.webp",
    "arsenal": {
@@ -76007,7 +76007,7 @@
    "cat": "Motores",
    "sub": "",
    "specs": "",
-   "usd": 85.0,
+   "usd": 80.0,
    "disponivel": true,
    "img": "img/29688.webp",
    "arsenal": {
@@ -76374,28 +76374,6 @@
    "orig": "Grip & Motor Slim Lck Dark Red"
   },
   {
-   "sku": "506717",
-   "nome": "Grip & Motor Slim SL Torque preto",
-   "marca": "LCT",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": 99.0,
-   "disponivel": true,
-   "img": "img/29858.webp",
-   "arsenal": {
-    "id": 29858,
-    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29858.html",
-    "ref": "506717",
-    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
-    "marca_arsenal": "LCT",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/29858/produtos/400/2bf42f02162c96fd080be4b567c661e9.jpg"
-   },
-   "orig": "Grip & Motor Slim SL Torque Black"
-  },
-  {
    "sku": "506489",
    "nome": "Grip & Motor Slim SL Torque preto",
    "marca": "LCT",
@@ -76414,6 +76392,28 @@
     "marca_arsenal": "LCT",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/29857/produtos/400/d0672a0c588119f1ef3dc01c93a7f8e1.jpg"
+   },
+   "orig": "Grip & Motor Slim SL Torque Black"
+  },
+  {
+   "sku": "506717",
+   "nome": "Grip & Motor Slim SL Torque preto",
+   "marca": "LCT",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": 99.0,
+   "disponivel": true,
+   "img": "img/29858.webp",
+   "arsenal": {
+    "id": 29858,
+    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29858.html",
+    "ref": "506717",
+    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
+    "marca_arsenal": "LCT",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/29858/produtos/400/2bf42f02162c96fd080be4b567c661e9.jpg"
    },
    "orig": "Grip & Motor Slim SL Torque Black"
   },
@@ -76902,28 +76902,6 @@
    "orig": "Motor Shaft Guide & Bearing"
   },
   {
-   "sku": "370790",
-   "nome": "Motor Shaft Guide Long D",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": 4.0,
-   "disponivel": true,
-   "img": "img/14841.webp",
-   "arsenal": {
-    "id": 14841,
-    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14841.html",
-    "ref": "370790",
-    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
-    "marca_arsenal": "SHS",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/14841/produtos/400/8be5305313f813b26cd62a395c9b85c9.jpg"
-   },
-   "orig": "Motor Shaft Guide Long D"
-  },
-  {
    "sku": "371162",
    "nome": "Motor Shaft Guide Long D",
    "marca": "SHS",
@@ -76942,6 +76920,28 @@
     "marca_arsenal": "SHS",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/14831/produtos/400/e7f36f65e3930f19f960048a5a6b97f6.jpg"
+   },
+   "orig": "Motor Shaft Guide Long D"
+  },
+  {
+   "sku": "370790",
+   "nome": "Motor Shaft Guide Long D",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": 4.0,
+   "disponivel": true,
+   "img": "img/14841.webp",
+   "arsenal": {
+    "id": 14841,
+    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14841.html",
+    "ref": "370790",
+    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
+    "marca_arsenal": "SHS",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/14841/produtos/400/8be5305313f813b26cd62a395c9b85c9.jpg"
    },
    "orig": "Motor Shaft Guide Long D"
   },
@@ -80649,8 +80649,8 @@
    "cat": "Mosfets e fiação",
    "sub": "",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 56.0,
+   "disponivel": true,
    "img": "img/15743.webp",
    "arsenal": {
     "id": 15743,
@@ -86259,8 +86259,8 @@
    "cat": "Buchas, rolamentos e shims",
    "sub": "",
    "specs": "",
-   "usd": 2.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/33613.webp",
    "arsenal": {
     "id": 33613,
@@ -87088,24 +87088,24 @@
    "orig": "Bore-Up Cylinder Set for P90"
   },
   {
-   "sku": "26796",
+   "sku": "333627",
    "nome": "Bore Up Cilindro Set para AUG",
    "marca": "SHS",
    "grupo": "Peças internas",
    "cat": "Kits de upgrade",
    "sub": "",
    "specs": "",
-   "usd": 24.0,
+   "usd": 19.0,
    "disponivel": true,
-   "img": "img/27884.webp",
+   "img": "img/33466.webp",
    "arsenal": {
-    "id": 27884,
-    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-27884.html",
-    "ref": "26796",
+    "id": 33466,
+    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
+    "ref": "333627",
     "nome": "SHS BORE UP CYLINDER SET FOR AUG",
     "marca_arsenal": "SHS",
     "categoria": "KITS DE UPGRADE",
-    "img": "https://www.arsenalsports.com/img/27884/produtos/400/cc5ae0dba50a064ebf32c81af24b50eb.jpg"
+    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
    },
    "orig": "Bore Up Cylinder Set for AUG"
   },
@@ -89031,8 +89031,8 @@
    "cat": "HPA",
    "sub": "",
    "specs": "",
-   "usd": 320.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/25601.webp",
    "arsenal": {
     "id": 25601,
@@ -90087,8 +90087,8 @@
    "cat": "Unidade tracer",
    "sub": "",
    "specs": "",
-   "usd": 72.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/32034.webp",
    "arsenal": {
     "id": 32034,
@@ -90307,8 +90307,8 @@
    "cat": "Unidade tracer",
    "sub": "",
    "specs": "",
-   "usd": 149.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/32046.webp",
    "arsenal": {
     "id": 32046,
@@ -91011,8 +91011,8 @@
    "cat": "Unidade tracer",
    "sub": "",
    "specs": "",
-   "usd": 42.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/33144.webp",
    "arsenal": {
     "id": 33144,
