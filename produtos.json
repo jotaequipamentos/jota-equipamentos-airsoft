@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-29T08:37:09-03:00",
+ "atualizado_em": "2026-10-29T16:52:10-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -10836,28 +10836,6 @@
    "orig": "Magazine 15R GBB for 1911 Black"
   },
   {
-   "sku": "174312",
-   "nome": "Magazine 23 BBs GBB para VX9 preto",
-   "marca": "Armorer Works",
-   "grupo": "Magazines",
-   "cat": "Pistola",
-   "sub": "Gás (GBB)",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/18280.webp",
-   "arsenal": {
-    "id": 18280,
-    "url": "https://www.arsenalsports.com/produto/armorer-works-magazine-23r-gbb-for-vx9-black-18280.html",
-    "ref": "174312",
-    "nome": "ARMORER WORKS MAGAZINE 23R GBB FOR VX9 BLACK",
-    "marca_arsenal": "ARMORER WORKS",
-    "categoria": "MAGAZINES PARA PISTOLAS",
-    "img": "https://www.arsenalsports.com/img/18280/produtos/400/ba4ea822181c73b1a9046b1acc78f0f2.jpg"
-   },
-   "orig": "Magazine 23R GBB for VX9 Black"
-  },
-  {
    "sku": "65566",
    "nome": "Magazine 23 BBs GBB para VX9 preto",
    "marca": "Armorer Works",
@@ -10876,6 +10854,28 @@
     "marca_arsenal": "ARMORER WORKS",
     "categoria": "MAGAZINES PARA PISTOLAS",
     "img": "https://www.arsenalsports.com/img/18230/produtos/400/1bf95d56ec4f7a73fb29b4912ffbe75f.jpg"
+   },
+   "orig": "Magazine 23R GBB for VX9 Black"
+  },
+  {
+   "sku": "174312",
+   "nome": "Magazine 23 BBs GBB para VX9 preto",
+   "marca": "Armorer Works",
+   "grupo": "Magazines",
+   "cat": "Pistola",
+   "sub": "Gás (GBB)",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/18280.webp",
+   "arsenal": {
+    "id": 18280,
+    "url": "https://www.arsenalsports.com/produto/armorer-works-magazine-23r-gbb-for-vx9-black-18280.html",
+    "ref": "174312",
+    "nome": "ARMORER WORKS MAGAZINE 23R GBB FOR VX9 BLACK",
+    "marca_arsenal": "ARMORER WORKS",
+    "categoria": "MAGAZINES PARA PISTOLAS",
+    "img": "https://www.arsenalsports.com/img/18280/produtos/400/ba4ea822181c73b1a9046b1acc78f0f2.jpg"
    },
    "orig": "Magazine 23R GBB for VX9 Black"
   },
@@ -19291,8 +19291,8 @@
    "cat": "Rifle",
    "sub": "Hi-cap",
    "specs": "",
-   "usd": 12.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/16052.webp",
    "arsenal": {
     "id": 16052,
@@ -19810,6 +19810,50 @@
     "img": "https://www.arsenalsports.com/img/26802/produtos/400/8859c95afecce37961d491cb87aaf728.jpg"
    },
    "orig": "Magazine 360R Bulgaria Flash Hi-Cap for AK Series Translucid"
+  },
+  {
+   "sku": "409773",
+   "nome": "Magazine 400 BBs Pmag GEN.II Hi-Cap para M4 / M16 Tan",
+   "marca": "Cyma",
+   "grupo": "Magazines",
+   "cat": "Rifle",
+   "sub": "Hi-cap",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/17486.webp",
+   "arsenal": {
+    "id": 17486,
+    "url": "https://www.arsenalsports.com/produto/cyma-magazine-400r-pmag-genii-hicap-for-m4--m16-tan-17486.html",
+    "ref": "409773",
+    "nome": "CYMA MAGAZINE 400R PMAG GEN.II HI-CAP FOR M4 / M16 TAN",
+    "marca_arsenal": "CYMA",
+    "categoria": "MAGAZINES PARA RIFLES",
+    "img": "https://www.arsenalsports.com/img/17486/produtos/400/00cd9a24f22be2ca395b981ffdef9992.png"
+   },
+   "orig": "Magazine 400R Pmag GEN.II Hi-Cap for M4 / M16 Tan"
+  },
+  {
+   "sku": "409766",
+   "nome": "Magazine 400 BBs Pmag GEN.II Hi-Cap para M4 / M16 preto",
+   "marca": "Cyma",
+   "grupo": "Magazines",
+   "cat": "Rifle",
+   "sub": "Hi-cap",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/17485.webp",
+   "arsenal": {
+    "id": 17485,
+    "url": "https://www.arsenalsports.com/produto/cyma-magazine-400r-pmag-genii-hicap-for-m4--m16-black-17485.html",
+    "ref": "409766",
+    "nome": "CYMA MAGAZINE 400R PMAG GEN.II HI-CAP FOR M4 / M16 BLACK",
+    "marca_arsenal": "CYMA",
+    "categoria": "MAGAZINES PARA RIFLES",
+    "img": "https://www.arsenalsports.com/img/17485/produtos/400/5b4fb81136081a66c568dc3692d83dbf.png"
+   },
+   "orig": "Magazine 400R Pmag GEN.II Hi-Cap for M4 / M16 Black"
   },
   {
    "sku": "331708",
@@ -21205,8 +21249,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": 16.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/20453.webp",
    "arsenal": {
     "id": 20453,
@@ -22855,8 +22899,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/19228.webp",
    "arsenal": {
     "id": 19228,
@@ -25046,50 +25090,6 @@
     "img": "https://www.arsenalsports.com/img/17489/produtos/400/cd541fce69dcaccd2d5fd8744d3215eb.jpg"
    },
    "orig": "Magazine 250R Double Short for MP5"
-  },
-  {
-   "sku": "409766",
-   "nome": "Magazine 400 BBs M.P. para M4 / M16 preto",
-   "marca": "Cyma",
-   "grupo": "Magazines",
-   "cat": "Rifle",
-   "sub": "Outros",
-   "specs": "",
-   "usd": 10.0,
-   "disponivel": true,
-   "img": "img/17485.webp",
-   "arsenal": {
-    "id": 17485,
-    "url": "https://www.arsenalsports.com/produto/cyma-magazine-400r-mp-for-m4--m16-black-17485.html",
-    "ref": "409766",
-    "nome": "CYMA MAGAZINE 400R M.P. FOR M4 / M16 BLACK",
-    "marca_arsenal": "CYMA",
-    "categoria": "MAGAZINES PARA RIFLES",
-    "img": "https://www.arsenalsports.com/img/17485/produtos/400/515a6e2f7b3eb95323856fb34770fa5d.jpg"
-   },
-   "orig": "Magazine 400R M.P. for M4 / M16 Black"
-  },
-  {
-   "sku": "409773",
-   "nome": "Magazine 400 BBs Pmag High-Cap para M4 / M16 Tan",
-   "marca": "Cyma",
-   "grupo": "Magazines",
-   "cat": "Rifle",
-   "sub": "Outros",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/17486.webp",
-   "arsenal": {
-    "id": 17486,
-    "url": "https://www.arsenalsports.com/produto/cyma-magazine-400r-pmag-highcap-for-m4--m16-tan-17486.html",
-    "ref": "409773",
-    "nome": "CYMA MAGAZINE 400R PMAG HIGH-CAP FOR M4 / M16 TAN",
-    "marca_arsenal": "CYMA",
-    "categoria": "MAGAZINES PARA RIFLES",
-    "img": "https://www.arsenalsports.com/img/17486/produtos/400/319c7285c43da99dfbef59fea7024e3f.jpg"
-   },
-   "orig": "Magazine 400R Pmag High-Cap for M4 / M16 Tan"
   },
   {
    "sku": "100496",
@@ -39766,28 +39766,6 @@
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Gt Tamiya"
   },
   {
-   "sku": "129923",
-   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28203.webp",
-   "arsenal": {
-    "id": 28203,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28203.html",
-    "ref": "129923",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
-  },
-  {
    "sku": "48224",
    "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
    "marca": "Gens Ace",
@@ -39806,6 +39784,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
+  },
+  {
+   "sku": "129923",
+   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28203.webp",
+   "arsenal": {
+    "id": 28203,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28203.html",
+    "ref": "129923",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
   },
@@ -40140,28 +40140,6 @@
    "orig": "Bateria LIPO 25C / 11.1V / 1100 / 3S1P Deans"
   },
   {
-   "sku": "389341",
-   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": 16.0,
-   "disponivel": true,
-   "img": "img/15717.webp",
-   "arsenal": {
-    "id": 15717,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-15717.html",
-    "ref": "389341",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/15717/produtos/400/6ae1adbae86ad6bb48aa95bc124b6bc6.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
-  },
-  {
    "sku": "421560",
    "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
    "marca": "Gens Ace",
@@ -40180,6 +40158,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21178/produtos/400/6e5cce04d26e6e74088fa0e6d2b3e373.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
+  },
+  {
+   "sku": "389341",
+   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": 16.0,
+   "disponivel": true,
+   "img": "img/15717.webp",
+   "arsenal": {
+    "id": 15717,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-15717.html",
+    "ref": "389341",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/15717/produtos/400/6ae1adbae86ad6bb48aa95bc124b6bc6.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
@@ -43082,7 +43082,7 @@
     "ref": "358231",
     "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
     "marca_arsenal": "LAMBDA",
-    "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
+    "categoria": "CANOS DE PRECISÃO INTERNOS",
     "img": "https://www.arsenalsports.com/img/29024/produtos/400/b642ea858141dc0fa4e682a284b0f976.jpg"
    },
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
@@ -53362,28 +53362,6 @@
    "orig": "Gearbox Complete Rear Wire Set for M4 Series"
   },
   {
-   "sku": "485722",
-   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Gearbox",
-   "sub": "Gearbox completa",
-   "specs": "",
-   "usd": 88.0,
-   "disponivel": true,
-   "img": "img/29966.webp",
-   "arsenal": {
-    "id": 29966,
-    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29966.html",
-    "ref": "485722",
-    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "GEARBOX",
-    "img": "https://www.arsenalsports.com/img/29966/produtos/400/6242bc5272c0c23e4eeaa4450d744a2e.jpg"
-   },
-   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
-  },
-  {
    "sku": "485579",
    "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
    "marca": "Cyma",
@@ -53424,6 +53402,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "GEARBOX",
     "img": "https://www.arsenalsports.com/img/29965/produtos/400/366a1e3473e7b07bfa0eb39e1bf00020.jpg"
+   },
+   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
+  },
+  {
+   "sku": "485722",
+   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Gearbox",
+   "sub": "Gearbox completa",
+   "specs": "",
+   "usd": 88.0,
+   "disponivel": true,
+   "img": "img/29966.webp",
+   "arsenal": {
+    "id": 29966,
+    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29966.html",
+    "ref": "485722",
+    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "GEARBOX",
+    "img": "https://www.arsenalsports.com/img/29966/produtos/400/6242bc5272c0c23e4eeaa4450d744a2e.jpg"
    },
    "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
@@ -60248,28 +60248,6 @@
    "orig": "Piston 15 Teeth Metal"
   },
   {
-   "sku": "560504",
-   "nome": "Pistão alumínio com rolamento para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/34039.webp",
-   "arsenal": {
-    "id": 34039,
-    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
-    "ref": "560504",
-    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "PISTON HEADS",
-    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
-   },
-   "orig": "Piston Aluminum with Bearing for M4"
-  },
-  {
    "sku": "560511",
    "nome": "Pistão alumínio com rolamento para M4",
    "marca": "Cyma",
@@ -60310,6 +60288,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "PISTON HEADS",
     "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
+   },
+   "orig": "Piston Aluminum with Bearing for M4"
+  },
+  {
+   "sku": "560504",
+   "nome": "Pistão alumínio com rolamento para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 8.0,
+   "disponivel": true,
+   "img": "img/34039.webp",
+   "arsenal": {
+    "id": 34039,
+    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
+    "ref": "560504",
+    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "PISTON HEADS",
+    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
    },
    "orig": "Piston Aluminum with Bearing for M4"
   },
@@ -61480,28 +61480,6 @@
    "orig": "Piston 14 Teeth Blue"
   },
   {
-   "sku": "370707",
-   "nome": "Pistão 14TEETH",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/14832.webp",
-   "arsenal": {
-    "id": 14832,
-    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-14832.html",
-    "ref": "370707",
-    "nome": "SHS PISTON 14TEETH",
-    "marca_arsenal": "SHS",
-    "categoria": "PISTONS",
-    "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
-   },
-   "orig": "Piston 14TEETH"
-  },
-  {
    "sku": "336772",
    "nome": "Pistão 14TEETH",
    "marca": "SHS",
@@ -61520,6 +61498,28 @@
     "marca_arsenal": "SHS",
     "categoria": "PISTONS",
     "img": "https://www.arsenalsports.com/img/12560/produtos/400/d5e6bae104579e8f3a69d93b8acd1366.jpg"
+   },
+   "orig": "Piston 14TEETH"
+  },
+  {
+   "sku": "370707",
+   "nome": "Pistão 14TEETH",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/14832.webp",
+   "arsenal": {
+    "id": 14832,
+    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-14832.html",
+    "ref": "370707",
+    "nome": "SHS PISTON 14TEETH",
+    "marca_arsenal": "SHS",
+    "categoria": "PISTONS",
+    "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
    },
    "orig": "Piston 14TEETH"
   },
@@ -62426,28 +62426,6 @@
    "orig": "Cylinder Set for M870"
   },
   {
-   "sku": "547772",
-   "nome": "Cilindro Set para SR25",
-   "marca": "A&K",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 19.0,
-   "disponivel": true,
-   "img": "img/32308.webp",
-   "arsenal": {
-    "id": 32308,
-    "url": "https://www.arsenalsports.com/produto/ak-cylinder-set-for-sr25-32308.html",
-    "ref": "547772",
-    "nome": "A&K CYLINDER SET FOR SR25",
-    "marca_arsenal": "A&K",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/32308/produtos/400/cc6ebb32a277bafa423f903bb2fefdc5.jpg"
-   },
-   "orig": "Cylinder Set for SR25"
-  },
-  {
    "sku": "547673",
    "nome": "Cilindro Set para SR25",
    "marca": "A&K",
@@ -62466,6 +62444,28 @@
     "marca_arsenal": "A&K",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/32307/produtos/400/4f962c9585a08784e2bc3c28c7f14909.jpg"
+   },
+   "orig": "Cylinder Set for SR25"
+  },
+  {
+   "sku": "547772",
+   "nome": "Cilindro Set para SR25",
+   "marca": "A&K",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 19.0,
+   "disponivel": true,
+   "img": "img/32308.webp",
+   "arsenal": {
+    "id": 32308,
+    "url": "https://www.arsenalsports.com/produto/ak-cylinder-set-for-sr25-32308.html",
+    "ref": "547772",
+    "nome": "A&K CYLINDER SET FOR SR25",
+    "marca_arsenal": "A&K",
+    "categoria": "CYLINDERS",
+    "img": "https://www.arsenalsports.com/img/32308/produtos/400/cc6ebb32a277bafa423f903bb2fefdc5.jpg"
    },
    "orig": "Cylinder Set for SR25"
   },
@@ -63643,8 +63643,8 @@
    "cat": "Cilindro e cabeça",
    "sub": "",
    "specs": "",
-   "usd": 9.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/29901.webp",
    "arsenal": {
     "id": 29901,
@@ -64516,28 +64516,6 @@
    "orig": "Bore Up Cylinder for MP5K"
   },
   {
-   "sku": "4930",
-   "nome": "Cabeça de cilindro AK série",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/17838.webp",
-   "arsenal": {
-    "id": 17838,
-    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-ak-series-17838.html",
-    "ref": "4930",
-    "nome": "SHS CYLINDER HEAD AK SERIES",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDER HEADS",
-    "img": "https://www.arsenalsports.com/img/17838/produtos/400/c0b503f075a5ee87ec042e0292c8793a.jpg"
-   },
-   "orig": "Cylinder Head AK Series"
-  },
-  {
    "sku": "55291",
    "nome": "Cabeça de cilindro AK série",
    "marca": "SHS",
@@ -64556,6 +64534,28 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDER HEADS",
     "img": "https://www.arsenalsports.com/img/17835/produtos/400/ca68f583fc17d477a0b46e6e3e230c84.jpg"
+   },
+   "orig": "Cylinder Head AK Series"
+  },
+  {
+   "sku": "4930",
+   "nome": "Cabeça de cilindro AK série",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/17838.webp",
+   "arsenal": {
+    "id": 17838,
+    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-ak-series-17838.html",
+    "ref": "4930",
+    "nome": "SHS CYLINDER HEAD AK SERIES",
+    "marca_arsenal": "SHS",
+    "categoria": "CYLINDER HEADS",
+    "img": "https://www.arsenalsports.com/img/17838/produtos/400/c0b503f075a5ee87ec042e0292c8793a.jpg"
    },
    "orig": "Cylinder Head AK Series"
   },
@@ -64582,28 +64582,6 @@
    "orig": "Cylinder Head AUG & Sig 550 VER. 3"
   },
   {
-   "sku": "58643",
-   "nome": "Cabeça de cilindro G36",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/17837.webp",
-   "arsenal": {
-    "id": 17837,
-    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-g36-17837.html",
-    "ref": "58643",
-    "nome": "SHS CYLINDER HEAD G36",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDER HEADS",
-    "img": "https://www.arsenalsports.com/img/17837/produtos/400/38a2fe8bade29af478104a82489c5b8e.jpg"
-   },
-   "orig": "Cylinder Head G36"
-  },
-  {
    "sku": "42697",
    "nome": "Cabeça de cilindro G36",
    "marca": "SHS",
@@ -64622,6 +64600,28 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDER HEADS",
     "img": "https://www.arsenalsports.com/img/17836/produtos/400/403df94ee3f935bfc997dafddad724d1.jpg"
+   },
+   "orig": "Cylinder Head G36"
+  },
+  {
+   "sku": "58643",
+   "nome": "Cabeça de cilindro G36",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/17837.webp",
+   "arsenal": {
+    "id": 17837,
+    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-g36-17837.html",
+    "ref": "58643",
+    "nome": "SHS CYLINDER HEAD G36",
+    "marca_arsenal": "SHS",
+    "categoria": "CYLINDER HEADS",
+    "img": "https://www.arsenalsports.com/img/17837/produtos/400/38a2fe8bade29af478104a82489c5b8e.jpg"
    },
    "orig": "Cylinder Head G36"
   },
@@ -70045,8 +70045,8 @@
    "cat": "Hop-up",
    "sub": "Câmaras",
    "specs": "",
-   "usd": 16.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/33938.webp",
    "arsenal": {
     "id": 33938,
@@ -76396,28 +76396,6 @@
    "orig": "Grip & Motor Slim Lck Dark Red"
   },
   {
-   "sku": "506717",
-   "nome": "Grip & Motor Slim SL Torque preto",
-   "marca": "LCT",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": 99.0,
-   "disponivel": true,
-   "img": "img/29858.webp",
-   "arsenal": {
-    "id": 29858,
-    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29858.html",
-    "ref": "506717",
-    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
-    "marca_arsenal": "LCT",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/29858/produtos/400/2bf42f02162c96fd080be4b567c661e9.jpg"
-   },
-   "orig": "Grip & Motor Slim SL Torque Black"
-  },
-  {
    "sku": "506489",
    "nome": "Grip & Motor Slim SL Torque preto",
    "marca": "LCT",
@@ -76436,6 +76414,28 @@
     "marca_arsenal": "LCT",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/29857/produtos/400/d0672a0c588119f1ef3dc01c93a7f8e1.jpg"
+   },
+   "orig": "Grip & Motor Slim SL Torque Black"
+  },
+  {
+   "sku": "506717",
+   "nome": "Grip & Motor Slim SL Torque preto",
+   "marca": "LCT",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": 99.0,
+   "disponivel": true,
+   "img": "img/29858.webp",
+   "arsenal": {
+    "id": 29858,
+    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29858.html",
+    "ref": "506717",
+    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
+    "marca_arsenal": "LCT",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/29858/produtos/400/2bf42f02162c96fd080be4b567c661e9.jpg"
    },
    "orig": "Grip & Motor Slim SL Torque Black"
   },
@@ -76924,28 +76924,6 @@
    "orig": "Motor Shaft Guide & Bearing"
   },
   {
-   "sku": "371162",
-   "nome": "Motor Shaft Guide Long D",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/14831.webp",
-   "arsenal": {
-    "id": 14831,
-    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14831.html",
-    "ref": "371162",
-    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
-    "marca_arsenal": "SHS",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/14831/produtos/400/e7f36f65e3930f19f960048a5a6b97f6.jpg"
-   },
-   "orig": "Motor Shaft Guide Long D"
-  },
-  {
    "sku": "370790",
    "nome": "Motor Shaft Guide Long D",
    "marca": "SHS",
@@ -76964,6 +76942,28 @@
     "marca_arsenal": "SHS",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/14841/produtos/400/8be5305313f813b26cd62a395c9b85c9.jpg"
+   },
+   "orig": "Motor Shaft Guide Long D"
+  },
+  {
+   "sku": "371162",
+   "nome": "Motor Shaft Guide Long D",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/14831.webp",
+   "arsenal": {
+    "id": 14831,
+    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14831.html",
+    "ref": "371162",
+    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
+    "marca_arsenal": "SHS",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/14831/produtos/400/e7f36f65e3930f19f960048a5a6b97f6.jpg"
    },
    "orig": "Motor Shaft Guide Long D"
   },
@@ -80356,28 +80356,6 @@
    "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger Rear Wired"
   },
   {
-   "sku": "389839",
-   "nome": "Aster II VER. 2 Bluetooth Expert Version com Quantum Gatilho para G2H fiação traseira",
-   "marca": "Gate",
-   "grupo": "Peças internas",
-   "cat": "Mosfets e fiação",
-   "sub": "",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/34239.webp",
-   "arsenal": {
-    "id": 34239,
-    "url": "https://www.arsenalsports.com/produto/gate-aster-ii-ver-2-bluetooth-expert-version-with-quantum-trigger-for-g2h-rear-wired-34239.html",
-    "ref": "389839",
-    "nome": "GATE ASTER II VER. 2 BLUETOOTH EXPERT VERSION WITH QUANTUM TRIGGER FOR G2H REAR WIRED",
-    "marca_arsenal": "GATE",
-    "categoria": "ELECTRONIC TRIGGER WIRING & MOSFETS",
-    "img": "https://www.arsenalsports.com/img/34239/produtos/400/4883792e6570c986e7eec26004e61175.png"
-   },
-   "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger for G2H Rear Wired"
-  },
-  {
    "sku": "459013",
    "nome": "Aster II VER. 2 Bluetooth Expert Version com Quantum Gatilho para G2H fiação traseira",
    "marca": "Gate",
@@ -80396,6 +80374,28 @@
     "marca_arsenal": "GATE",
     "categoria": "ELECTRONIC TRIGGER WIRING & MOSFETS",
     "img": "https://www.arsenalsports.com/img/34240/produtos/400/834d6c99d213bf4c05458d47b899594c.png"
+   },
+   "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger for G2H Rear Wired"
+  },
+  {
+   "sku": "389839",
+   "nome": "Aster II VER. 2 Bluetooth Expert Version com Quantum Gatilho para G2H fiação traseira",
+   "marca": "Gate",
+   "grupo": "Peças internas",
+   "cat": "Mosfets e fiação",
+   "sub": "",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/34239.webp",
+   "arsenal": {
+    "id": 34239,
+    "url": "https://www.arsenalsports.com/produto/gate-aster-ii-ver-2-bluetooth-expert-version-with-quantum-trigger-for-g2h-rear-wired-34239.html",
+    "ref": "389839",
+    "nome": "GATE ASTER II VER. 2 BLUETOOTH EXPERT VERSION WITH QUANTUM TRIGGER FOR G2H REAR WIRED",
+    "marca_arsenal": "GATE",
+    "categoria": "ELECTRONIC TRIGGER WIRING & MOSFETS",
+    "img": "https://www.arsenalsports.com/img/34239/produtos/400/4883792e6570c986e7eec26004e61175.png"
    },
    "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger for G2H Rear Wired"
   },
