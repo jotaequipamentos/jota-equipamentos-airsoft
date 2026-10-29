@@ -1,0 +1,341 @@
+{
+ "familias": [
+  {
+   "marca": "Solink Motor",
+   "nome": "v5 adjustable",
+   "fontes": [
+    "powair6.com",
+    "evike.com",
+    "airsoftpro.cz"
+   ],
+   "resumo": "Motor brushless (sem escovas) Solink da linha V5, com rotação ajustável de cerca de 10.000 até 46.000 RPM pelo cartão programador SLC, em passos de 1.000 RPM. Tem corpo de alumínio usinado em CNC e rolamento unidirecional, que impede o giro ao contrário e dispensa a trava reversa da gearbox. A Solink fabrica motores para marcas como VFC, G&G e ARES.",
+   "specs": [
+    [
+     "Tipo",
+     "Brushless (sem escovas)"
+    ],
+    [
+     "Ajuste de rotação",
+     "Aprox. 10k a 46k RPM, com cartão SLC"
+    ]
+   ],
+   "dicas": [
+    "O cartão programador SLC é vendido separado e funciona só com motores V5.",
+    "Confira o eixo: long (M4, AK, G3) ou short (P90, UMP e similares)."
+   ]
+  },
+  {
+   "marca": "Solink Motor",
+   "nome": "brushless|das|professional|plus",
+   "fontes": [
+    "evike.com",
+    "powair6.com"
+   ],
+   "resumo": "Motor brushless (sem escovas) da Solink, fabricante que fornece motores para marcas como VFC, G&G e ARES. Motores sem escovas esquentam menos, gastam menos bateria, têm resposta rápida no gatilho e quase não precisam de manutenção.",
+   "specs": [
+    [
+     "Tipo",
+     "Brushless (sem escovas)"
+    ]
+   ],
+   "dicas": [
+    "Recomendado com bateria 11.1V e mosfet.",
+    "Confira o eixo: long (M4, AK, G3) ou short (P90, UMP e similares)."
+   ]
+  },
+  {
+   "marca": "Maple Leaf",
+   "nome": "crazy jet",
+   "fontes": [
+    "powair6.com",
+    "milgear.fi",
+    "evike.com"
+   ],
+   "resumo": "Cano de precisão Maple Leaf Crazy Jet, em latão com tratamento anticorrosão. O trecho final é um pouco mais largo e cria um colchão de ar, que reduz a turbulência atrás da BB na saída e melhora a precisão a distância. Feito para hop-ups de pistolas a gás (GBB) e de snipers tipo VSR.",
+   "dicas": [
+    "Para usar em hop-up de AEG, a Maple Leaf recomenda as borrachas Hybrid ou Hot Shot.",
+    "Confira o comprimento do cano original da sua réplica."
+   ]
+  },
+  {
+   "marca": "Maple Leaf",
+   "cat": "Hop-up",
+   "nome": "borracha",
+   "fontes": [
+    "atom-airsoft.fi",
+    "evike.com",
+    "powair6.com"
+   ],
+   "resumo": "Borracha de hop-up Maple Leaf, uma das marcas mais usadas para melhorar alcance e precisão. O número em graus indica a dureza: quanto mais forte a réplica, mais dura deve ser a borracha.",
+   "dicas": [
+    "Guia da Maple Leaf para a dureza: 50° até 1,2 J; 60° de 0,8 a 1,5 J; 70° de 1,2 a 2 J; 75° de 1,7 a 2,25 J; 80° acima de 2,25 J.",
+    "As linhas Macaron e Super Macaron usam nub e braço de hop-up planos; a MR rende melhor com o nub curvo da Maple Leaf.",
+    "Limpe o cano e reajuste o hop-up depois da troca."
+   ]
+  },
+  {
+   "marca": "Lambda",
+   "nome": "cano interno",
+   "fontes": [
+    "evike.com",
+    "powair6.com",
+    "airsoftjunkiez.com"
+   ],
+   "resumo": "Cano de precisão Lambda, feito em Osaka, no Japão. O número da linha indica o diâmetro interno: 01 = 6,01 mm, 03 = 6,03 mm, 05 = 6,05 mm, 08 = 6,08 mm e 12 = 6,12 mm. Os de aço inox são forjados a frio e têm tolerância de 1 mícron; os de aço carbono niquelado (linhas Smart e Custom 03) têm tolerância de 10 mícrons e custam menos.",
+   "dicas": [
+    "Canos mais justos (01 e 03) favorecem a precisão e pedem BBs de boa qualidade; os mais largos (05 em diante) toleram melhor sujeira e BBs variadas.",
+    "Combine com uma borracha de hop-up nova para melhor resultado."
+   ]
+  },
+  {
+   "marca": "Gate",
+   "nome": "^aster",
+   "fontes": [
+    "powair6.com",
+    "milgear.fi",
+    "airsoftjunkiez.com"
+   ],
+   "resumo": "Mosfet programável Gate Aster, da Polônia, com sensor óptico de gatilho. Oferece freio ativo, gatilho binário, modo burst e proteções da gearbox e da bateria.",
+   "compat": "A maioria das gearboxes versão 3. Não serve em gearbox Arcturus e não é totalmente compatível com a NGRS da Tokyo Marui.",
+   "dicas": [
+    "A instalação substitui o conjunto de gatilho; se não tiver prática com eletrônica, procure um técnico."
+   ]
+  },
+  {
+   "marca": "Gate",
+   "nome": "titan ii bluetooth|titan ii bt",
+   "fontes": [
+    "gatee.eu",
+    "powair6.com"
+   ],
+   "resumo": "Peça do sistema Gate Titan II Bluetooth, mosfet programável pelo celular via Bluetooth, com freio ativo, burst, gatilho binário, detecção de ciclo e proteção da bateria.",
+   "dicas": [
+    "Confira se a peça é para o seu tipo de instalação (AEG ou HPA)."
+   ]
+  },
+  {
+   "marca": "Wolverine Airsoft",
+   "nome": "inferno gen 2 para v2|heretic inferno",
+   "fontes": [
+    "evike.com",
+    "powair6.com",
+    "uk-airsoft.co.uk"
+   ],
+   "resumo": "Engine HPA Wolverine Inferno Gen 2, que converte o rifle elétrico para ar comprimido. É compacto e cabe no lugar da gearbox V2, com solenoide único e poppet independente do nozzle. Funciona em ferrolho aberto ou fechado, com energia ajustável (cerca de 0,5 a 3 J, dependendo da montagem) e cadência de até cerca de 35 BBs por segundo.",
+   "dicas": [
+    "Precisa de cilindro de ar (tanque HPA), regulador e mangueira, vendidos separadamente.",
+    "Ajuste a pressão do regulador para ficar dentro do limite de joules do campo."
+   ]
+  },
+  {
+   "marca": "Wolverine Airsoft",
+   "nome": "inferno nozzle|z-nozzle",
+   "fontes": [
+    "evike.com",
+    "powair6.com"
+   ],
+   "resumo": "Nozzle para engine HPA Wolverine (Inferno ou Hydra Gen 2), no comprimento do modelo indicado. Trocando o nozzle, o mesmo engine pode ser usado em outra plataforma.",
+   "dicas": [
+    "Confira o modelo exato da réplica e a geração do engine (Gen 2)."
+   ]
+  },
+  {
+   "marca": "G&G",
+   "nome": "gearbox completa",
+   "fontes": [
+    "evike.com",
+    "airsoftgi.com"
+   ],
+   "resumo": "Gearbox completa original da G&G, igual à que vem de fábrica no modelo indicado. É a forma mais simples de recuperar uma réplica G&G com a gearbox danificada.",
+   "dicas": [
+    "Mantenha o mesmo tipo de fiação (frontal ou traseira) e de gatilho (ETU/mosfet ou mecânico) da sua réplica.",
+    "As gearboxes G&G com ETU funcionam melhor com LiPo 11.1V; confira o manual da réplica."
+   ]
+  },
+  {
+   "marca": "TNT",
+   "nome": "cano interno",
+   "fontes": [
+    "airsoftpro.cz",
+    "evike.com"
+   ],
+   "resumo": "Cano de precisão TNT Studio, de Taiwan, feito em bronze niquelado por dentro e por fora e usinado em CNC. A saída tem diâmetro maior, que forma um colchão de ar e estabiliza a BB, melhorando alcance e precisão.",
+   "dicas": [
+    "Combine com uma borracha de hop-up nova para melhor resultado."
+   ]
+  },
+  {
+   "marca": "WE",
+   "nome": "hi-capa 5\\.1",
+   "grupo": "Magazines",
+   "fontes": [
+    "airsoftgi.com",
+    "defconairsoft.co.uk"
+   ],
+   "compat": "WE Hi-Capa 5.1 e, em geral, Tokyo Marui Hi-Capa 5.1 e clones como AW, KJW e Army Armament. Pode precisar de pequeno ajuste em marcas diferentes."
+  },
+  {
+   "marca": "Gens Ace",
+   "nome": "lipo",
+   "fontes": [
+    "gensace.de",
+    "patrolbase.co.uk"
+   ],
+   "resumo": "Bateria LiPo Gens Ace, uma das marcas de bateria mais conhecidas no airsoft e no aeromodelismo, com boa constância de descarga e durabilidade."
+  }
+ ],
+ "produtos": {
+  "449885": {
+   "fab": "G-08-153-2",
+   "resumo": "Magazine mid-cap de metal da G&G para rifles elétricos (AEG) estilo M4/M16. Alimenta sem precisar dar corda, como o magazine real, e é o tipo mais usado em jogo por ser mais silencioso que o hi-cap.",
+   "specs": [
+    [
+     "Capacidade",
+     "125 BBs (mid-cap, sem corda)"
+    ],
+    [
+     "Material",
+     "Metal"
+    ],
+    [
+     "Calibre",
+     "BB 6 mm"
+    ],
+    [
+     "Cor",
+     "Preto"
+    ]
+   ],
+   "compat": "M4/M16 elétricos padrão Tokyo Marui: G&G (CM16, GR16), Cyma, Specna Arms, E&C, Classic Army, VFC e similares. Não serve em M4 a gás (GBBR) nem em modelos de magazine próprio.",
+   "dicas": [
+    "Use BBs limpas e sem rebarba para evitar travamento na boca do magazine.",
+    "Guarde descarregado por longos períodos para a mola durar mais."
+   ],
+   "fontes": [
+    "arsenalsports.com",
+    "evike.com",
+    "airsoftgi.com"
+   ]
+  },
+  "203968": {
+   "fab": "TF-2S-203968",
+   "resumo": "Bateria LiPo de 2 células (7.4V) no formato nunchuck, com as duas células separadas por fio. É a bateria mais comum para AEGs que guardam a bateria na coronha ou no guarda-mão, com resposta de gatilho melhor que as antigas NiMH.",
+   "specs": [
+    [
+     "Tensão",
+     "7.4V (2S)"
+    ],
+    [
+     "Capacidade",
+     "1100 mAh"
+    ],
+    [
+     "Descarga",
+     "20C"
+    ],
+    [
+     "Formato",
+     "Nunchuck (2 bastões)"
+    ],
+    [
+     "Medidas",
+     "Cada bastão 100 × 19 × 5 mm; juntos 100 × 19 × 11 mm"
+    ],
+    [
+     "Conector",
+     "Tamiya fêmea"
+    ]
+   ],
+   "compat": "AEGs com conector Tamiya e espaço para bateria nunchuck (coronha de M4 tipo crane, guarda-mão de AK e G3). Para conector Deans (T-plug) é preciso trocar o plug ou usar um adaptador.",
+   "dicas": [
+    "Carregue só com carregador balanceador próprio para LiPo.",
+    "Não descarregue abaixo de 3,0V por célula e guarde com carga média (cerca de 3,8V por célula).",
+    "Em AEG sem mosfet, 7.4V funciona bem; 11.1V exige mosfet."
+   ],
+   "fontes": [
+    "arsenalsports.com",
+    "redwolfairsoft.com",
+    "patrolbase.co.uk"
+   ]
+  },
+  "329712": {
+   "fab": "B001",
+   "resumo": "Gearbox versão 2 completa e montada da A&K (linha NS15), pronta para instalar em M4 elétrico. Boa opção para substituir uma gearbox quebrada ou como base para upgrade, sem precisar comprar peça por peça.",
+   "specs": [
+    [
+     "Versão",
+     "V2 (M4/M16)"
+    ],
+    [
+     "Fiação",
+     "Frontal, conector Mini Tamiya"
+    ],
+    [
+     "Carcaça",
+     "Liga metálica reforçada"
+    ],
+    [
+     "Bushings",
+     "Rolamentos de 9 mm"
+    ],
+    [
+     "Engrenagens",
+     "Aço"
+    ],
+    [
+     "Cilindro",
+     "Aço inox"
+    ],
+    [
+     "Mola",
+     "Sistema de troca rápida"
+    ]
+   ],
+   "compat": "A maioria dos AEGs que usam gearbox V2 com fiação frontal (bateria no guarda-mão). Para M4 com bateria na coronha, procure a versão de fiação traseira.",
+   "dicas": [
+    "Confira a potência (FPS/joules) do campo onde você joga antes de trocar a mola.",
+    "Após instalar, acerte o shim do motor (altura do pinhão) para evitar ruído e desgaste."
+   ],
+   "fontes": [
+    "arsenalsports.com",
+    "evike.com"
+   ]
+  },
+  "423502": {
+   "fab": "LJ-1373",
+   "resumo": "Cano interno de precisão Lambda One (Japão), em aço inox forjado a frio com diâmetro interno de 6,01 mm. O tight bore com acabamento interno fino melhora a consistência e o alcance em relação ao cano de fábrica.",
+   "specs": [
+    [
+     "Diâmetro interno",
+     "6,01 mm (tight bore)"
+    ],
+    [
+     "Comprimento",
+     "128 mm"
+    ],
+    [
+     "Material",
+     "Aço inox SUS304 forjado a frio"
+    ],
+    [
+     "Janela do hop-up",
+     "Corte quadrado, aceita R-hop"
+    ],
+    [
+     "Usinagem",
+     "CNC, acabado à mão"
+    ]
+   ],
+   "compat": "AEGs padrão Tokyo Marui de cano curto, como ARP9 e outros modelos que usam cano interno de 128 mm (G&G, Cyma, Specna, Krytac, ICS, entre outros). Meça o cano original antes de comprar.",
+   "dicas": [
+    "Limpe o cano antes de instalar e use BBs de boa qualidade (0,25 g ou mais) para aproveitar a precisão.",
+    "Combine com uma borracha de hop-up nova para melhor resultado."
+   ],
+   "fontes": [
+    "arsenalsports.com",
+    "airsoftjunkiez.com",
+    "evike.com"
+   ]
+  }
+ }
+}
