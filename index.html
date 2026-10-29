@@ -4908,6 +4908,7 @@ async function mostrarDetalhes(p) {
     ${d.resumo ? `<p>${esc(d.resumo)}</p>` : ""}
     ${ficha.length ? `<h3>Ficha técnica</h3><dl class="ficha">${ficha.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>` : ""}
     ${d.compat ? `<h3>Compatibilidade</h3><p>${esc(d.compat)}</p>` : ""}
+    ${d.destaques && d.destaques.length ? `<h3>Destaques</h3>${lista(d.destaques)}` : ""}
     ${d.inclui && d.inclui.length ? `<h3>O que vem</h3>${lista(d.inclui)}` : ""}
     ${d.dicas && d.dicas.length ? `<h3>Dicas</h3>${lista(d.dicas)}` : ""}
     <p class="aviso">Informações reunidas do fabricante e de lojas especializadas. Ficou em dúvida se serve na sua réplica? Chame no WhatsApp antes de fechar o orçamento.</p>`;

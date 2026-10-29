@@ -42,9 +42,16 @@ jobs:
             exit 1
           fi
 
+      - name: Informações extras dos produtos novos (seção "Sobre o produto")
+        continue-on-error: true
+        run: |
+          # lê na Arsenal só a descrição dos produtos que ainda não têm, e refaz detalhes/REF.json
+          python3 ferramentas/detalhes/coletar_arsenal.py ferramentas/detalhes produtos.json
+          python3 ferramentas/detalhes/gerar_detalhes.py
+
       - name: Publicar se algo mudou
         run: |
-          git add produtos.json index.html img p og
+          git add produtos.json index.html img p og detalhes ferramentas/detalhes/arsenal_bruto.json
           # só a data de atualização mudou? então não publica
           if git diff --cached --quiet -I 'atualizado_em' -I 'ATUALIZADO_EM'; then
             echo "Nada mudou na Arsenal."
