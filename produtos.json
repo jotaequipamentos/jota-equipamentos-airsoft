@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-28T16:48:54-03:00",
+ "atualizado_em": "2026-10-29T08:37:09-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -10836,28 +10836,6 @@
    "orig": "Magazine 15R GBB for 1911 Black"
   },
   {
-   "sku": "65566",
-   "nome": "Magazine 23 BBs GBB para VX9 preto",
-   "marca": "Armorer Works",
-   "grupo": "Magazines",
-   "cat": "Pistola",
-   "sub": "Gás (GBB)",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/18230.webp",
-   "arsenal": {
-    "id": 18230,
-    "url": "https://www.arsenalsports.com/produto/armorer-works-magazine-23r-gbb-for-vx9-black-18230.html",
-    "ref": "65566",
-    "nome": "ARMORER WORKS MAGAZINE 23R GBB FOR VX9 BLACK",
-    "marca_arsenal": "ARMORER WORKS",
-    "categoria": "MAGAZINES PARA PISTOLAS",
-    "img": "https://www.arsenalsports.com/img/18230/produtos/400/1bf95d56ec4f7a73fb29b4912ffbe75f.jpg"
-   },
-   "orig": "Magazine 23R GBB for VX9 Black"
-  },
-  {
    "sku": "174312",
    "nome": "Magazine 23 BBs GBB para VX9 preto",
    "marca": "Armorer Works",
@@ -10876,6 +10854,28 @@
     "marca_arsenal": "ARMORER WORKS",
     "categoria": "MAGAZINES PARA PISTOLAS",
     "img": "https://www.arsenalsports.com/img/18280/produtos/400/ba4ea822181c73b1a9046b1acc78f0f2.jpg"
+   },
+   "orig": "Magazine 23R GBB for VX9 Black"
+  },
+  {
+   "sku": "65566",
+   "nome": "Magazine 23 BBs GBB para VX9 preto",
+   "marca": "Armorer Works",
+   "grupo": "Magazines",
+   "cat": "Pistola",
+   "sub": "Gás (GBB)",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/18230.webp",
+   "arsenal": {
+    "id": 18230,
+    "url": "https://www.arsenalsports.com/produto/armorer-works-magazine-23r-gbb-for-vx9-black-18230.html",
+    "ref": "65566",
+    "nome": "ARMORER WORKS MAGAZINE 23R GBB FOR VX9 BLACK",
+    "marca_arsenal": "ARMORER WORKS",
+    "categoria": "MAGAZINES PARA PISTOLAS",
+    "img": "https://www.arsenalsports.com/img/18230/produtos/400/1bf95d56ec4f7a73fb29b4912ffbe75f.jpg"
    },
    "orig": "Magazine 23R GBB for VX9 Black"
   },
@@ -32352,28 +32352,6 @@
    "orig": "Spring and Guide for Magazine GBBR M4"
   },
   {
-   "sku": "301626",
-   "nome": "O-Ring Magazine Gasket para M4 GBBR",
-   "marca": "Kjw",
-   "grupo": "Magazines",
-   "cat": "Peças de magazine",
-   "sub": "",
-   "specs": "",
-   "usd": 1.0,
-   "disponivel": true,
-   "img": "img/10891.webp",
-   "arsenal": {
-    "id": 10891,
-    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10891.html",
-    "ref": "301626",
-    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
-    "marca_arsenal": "KJW",
-    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
-    "img": "https://www.arsenalsports.com/img/10891/produtos/400/a4f21fb6d1fb62229a78d0de7bf946e2.jpg"
-   },
-   "orig": "O-Ring Magazine Gasket for M4 GBBR"
-  },
-  {
    "sku": "301633",
    "nome": "O-Ring Magazine Gasket para M4 GBBR",
    "marca": "Kjw",
@@ -32392,6 +32370,28 @@
     "marca_arsenal": "KJW",
     "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
     "img": "https://www.arsenalsports.com/img/10892/produtos/400/8e5f8e548f504845f8270e97eabd0e8a.jpg"
+   },
+   "orig": "O-Ring Magazine Gasket for M4 GBBR"
+  },
+  {
+   "sku": "301626",
+   "nome": "O-Ring Magazine Gasket para M4 GBBR",
+   "marca": "Kjw",
+   "grupo": "Magazines",
+   "cat": "Peças de magazine",
+   "sub": "",
+   "specs": "",
+   "usd": 1.0,
+   "disponivel": true,
+   "img": "img/10891.webp",
+   "arsenal": {
+    "id": 10891,
+    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10891.html",
+    "ref": "301626",
+    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
+    "marca_arsenal": "KJW",
+    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
+    "img": "https://www.arsenalsports.com/img/10891/produtos/400/a4f21fb6d1fb62229a78d0de7bf946e2.jpg"
    },
    "orig": "O-Ring Magazine Gasket for M4 GBBR"
   },
@@ -38424,28 +38424,6 @@
    "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Deans"
   },
   {
-   "sku": "421577",
-   "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "7.4V",
-   "specs": "",
-   "usd": 14.0,
-   "disponivel": true,
-   "img": "img/34744.webp",
-   "arsenal": {
-    "id": 34744,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74--1500--2s1p-tamiya-34744.html",
-    "ref": "421577",
-    "nome": "GENS ACE BATERIA LIPO 25C / 7.4 / 1500 / 2S1P TAMIYA",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/34744/produtos/400/a4adbb741b34ecb9113625ef9c4c3dd0.png"
-   },
-   "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
-  },
-  {
    "sku": "174183",
    "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
    "marca": "Gens Ace",
@@ -38464,6 +38442,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21550/produtos/400/a5bf5ea65c3eb265af3f3f97d1b44c47.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
+  },
+  {
+   "sku": "421577",
+   "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "7.4V",
+   "specs": "",
+   "usd": 14.0,
+   "disponivel": true,
+   "img": "img/34744.webp",
+   "arsenal": {
+    "id": 34744,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74--1500--2s1p-tamiya-34744.html",
+    "ref": "421577",
+    "nome": "GENS ACE BATERIA LIPO 25C / 7.4 / 1500 / 2S1P TAMIYA",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/34744/produtos/400/a4adbb741b34ecb9113625ef9c4c3dd0.png"
    },
    "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
   },
@@ -38578,28 +38578,6 @@
    "orig": "Bateria LIPO 25C / 7.4 / 620 / 2S1P Mini"
   },
   {
-   "sku": "421539",
-   "nome": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "7.4V",
-   "specs": "",
-   "usd": 12.0,
-   "disponivel": true,
-   "img": "img/21163.webp",
-   "arsenal": {
-    "id": 21163,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74v--1000--2s1p-21163.html",
-    "ref": "421539",
-    "nome": "GENS ACE BATERIA LIPO 25C / 7.4V / 1000 / 2S1P",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21163/produtos/400/c31df31e45a220f9b47f8c0bac85dde4.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P"
-  },
-  {
    "sku": "421614",
    "nome": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P",
    "marca": "Gens Ace",
@@ -38618,6 +38596,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21157/produtos/400/ffd8b4323ac5c348a6e7b2021a4ae10d.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P"
+  },
+  {
+   "sku": "421539",
+   "nome": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "7.4V",
+   "specs": "",
+   "usd": 12.0,
+   "disponivel": true,
+   "img": "img/21163.webp",
+   "arsenal": {
+    "id": 21163,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74v--1000--2s1p-21163.html",
+    "ref": "421539",
+    "nome": "GENS ACE BATERIA LIPO 25C / 7.4V / 1000 / 2S1P",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21163/produtos/400/c31df31e45a220f9b47f8c0bac85dde4.jpg"
    },
    "orig": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P"
   },
@@ -39766,28 +39766,6 @@
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Gt Tamiya"
   },
   {
-   "sku": "48224",
-   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28202.webp",
-   "arsenal": {
-    "id": 28202,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28202.html",
-    "ref": "48224",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
-  },
-  {
    "sku": "129923",
    "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
    "marca": "Gens Ace",
@@ -39806,6 +39784,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
+  },
+  {
+   "sku": "48224",
+   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28202.webp",
+   "arsenal": {
+    "id": 28202,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28202.html",
+    "ref": "48224",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
   },
@@ -40514,28 +40514,6 @@
    "orig": "Bateria LIPO 35C / 11.1 / 2200 / 3S1P Deans"
   },
   {
-   "sku": "117227",
-   "nome": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": 17.0,
-   "disponivel": true,
-   "img": "img/29495.webp",
-   "arsenal": {
-    "id": 29495,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-45c--111--1000--3s1p-deans-29495.html",
-    "ref": "117227",
-    "nome": "GENS ACE BATERIA LIPO 45C / 11.1 / 1000 / 3S1P DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/29495/produtos/400/81f7673ed0591fd877f629ea4079d64c.png"
-   },
-   "orig": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans"
-  },
-  {
    "sku": "80477",
    "nome": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans",
    "marca": "Gens Ace",
@@ -40554,6 +40532,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/29494/produtos/400/545e279d2def659ed5299a2fbfc00a61.jpg"
+   },
+   "orig": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans"
+  },
+  {
+   "sku": "117227",
+   "nome": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": 17.0,
+   "disponivel": true,
+   "img": "img/29495.webp",
+   "arsenal": {
+    "id": 29495,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-45c--111--1000--3s1p-deans-29495.html",
+    "ref": "117227",
+    "nome": "GENS ACE BATERIA LIPO 45C / 11.1 / 1000 / 3S1P DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/29495/produtos/400/81f7673ed0591fd877f629ea4079d64c.png"
    },
    "orig": "Bateria LIPO 45C / 11.1 / 1000 / 3S1P Deans"
   },
@@ -43044,28 +43044,6 @@
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/208MM"
   },
   {
-   "sku": "358231",
-   "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
-   "marca": "Lambda",
-   "grupo": "Canos internos",
-   "cat": "AEG",
-   "sub": "6.01mm",
-   "specs": "",
-   "usd": 40.0,
-   "disponivel": true,
-   "img": "img/29024.webp",
-   "arsenal": {
-    "id": 29024,
-    "url": "https://www.arsenalsports.com/produto/lambda-inner-barrel-stainless-steel-01-for-aeg-601229mm-29024.html",
-    "ref": "358231",
-    "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
-    "marca_arsenal": "LAMBDA",
-    "categoria": "CANOS DE PRECISÃO INTERNOS",
-    "img": "https://www.arsenalsports.com/img/29024/produtos/400/b642ea858141dc0fa4e682a284b0f976.jpg"
-   },
-   "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
-  },
-  {
    "sku": "358255",
    "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
    "marca": "Lambda",
@@ -43084,6 +43062,28 @@
     "marca_arsenal": "LAMBDA",
     "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
     "img": "https://www.arsenalsports.com/img/29023/produtos/400/6d3586b4d23591b4502b16125dc4a7da.jpg"
+   },
+   "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
+  },
+  {
+   "sku": "358231",
+   "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
+   "marca": "Lambda",
+   "grupo": "Canos internos",
+   "cat": "AEG",
+   "sub": "6.01mm",
+   "specs": "",
+   "usd": 40.0,
+   "disponivel": true,
+   "img": "img/29024.webp",
+   "arsenal": {
+    "id": 29024,
+    "url": "https://www.arsenalsports.com/produto/lambda-inner-barrel-stainless-steel-01-for-aeg-601229mm-29024.html",
+    "ref": "358231",
+    "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
+    "marca_arsenal": "LAMBDA",
+    "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
+    "img": "https://www.arsenalsports.com/img/29024/produtos/400/b642ea858141dc0fa4e682a284b0f976.jpg"
    },
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
   },
@@ -53362,28 +53362,6 @@
    "orig": "Gearbox Complete Rear Wire Set for M4 Series"
   },
   {
-   "sku": "485609",
-   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Gearbox",
-   "sub": "Gearbox completa",
-   "specs": "",
-   "usd": 78.0,
-   "disponivel": true,
-   "img": "img/29965.webp",
-   "arsenal": {
-    "id": 29965,
-    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29965.html",
-    "ref": "485609",
-    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "GEARBOX",
-    "img": "https://www.arsenalsports.com/img/29965/produtos/400/366a1e3473e7b07bfa0eb39e1bf00020.jpg"
-   },
-   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
-  },
-  {
    "sku": "485722",
    "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
    "marca": "Cyma",
@@ -53424,6 +53402,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "GEARBOX",
     "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
+   },
+   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
+  },
+  {
+   "sku": "485609",
+   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Gearbox",
+   "sub": "Gearbox completa",
+   "specs": "",
+   "usd": 78.0,
+   "disponivel": true,
+   "img": "img/29965.webp",
+   "arsenal": {
+    "id": 29965,
+    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29965.html",
+    "ref": "485609",
+    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "GEARBOX",
+    "img": "https://www.arsenalsports.com/img/29965/produtos/400/366a1e3473e7b07bfa0eb39e1bf00020.jpg"
    },
    "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
@@ -62426,28 +62426,6 @@
    "orig": "Cylinder Set for M870"
   },
   {
-   "sku": "547673",
-   "nome": "Cilindro Set para SR25",
-   "marca": "A&K",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 20.0,
-   "disponivel": true,
-   "img": "img/32307.webp",
-   "arsenal": {
-    "id": 32307,
-    "url": "https://www.arsenalsports.com/produto/ak-cylinder-set-for-sr25-32307.html",
-    "ref": "547673",
-    "nome": "A&K CYLINDER SET FOR SR25",
-    "marca_arsenal": "A&K",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/32307/produtos/400/4f962c9585a08784e2bc3c28c7f14909.jpg"
-   },
-   "orig": "Cylinder Set for SR25"
-  },
-  {
    "sku": "547772",
    "nome": "Cilindro Set para SR25",
    "marca": "A&K",
@@ -62466,6 +62444,28 @@
     "marca_arsenal": "A&K",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/32308/produtos/400/cc6ebb32a277bafa423f903bb2fefdc5.jpg"
+   },
+   "orig": "Cylinder Set for SR25"
+  },
+  {
+   "sku": "547673",
+   "nome": "Cilindro Set para SR25",
+   "marca": "A&K",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 20.0,
+   "disponivel": true,
+   "img": "img/32307.webp",
+   "arsenal": {
+    "id": 32307,
+    "url": "https://www.arsenalsports.com/produto/ak-cylinder-set-for-sr25-32307.html",
+    "ref": "547673",
+    "nome": "A&K CYLINDER SET FOR SR25",
+    "marca_arsenal": "A&K",
+    "categoria": "CYLINDERS",
+    "img": "https://www.arsenalsports.com/img/32307/produtos/400/4f962c9585a08784e2bc3c28c7f14909.jpg"
    },
    "orig": "Cylinder Set for SR25"
   },
@@ -63130,28 +63130,6 @@
    "orig": "Cylinder Steel Ribbed for SR25, SVD and Svu AEG"
   },
   {
-   "sku": "409360",
-   "nome": "Tune Up Kit Cilindro / Cabeça de cilindro & Cabeça de pistão",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 20.0,
-   "disponivel": true,
-   "img": "img/17456.webp",
-   "arsenal": {
-    "id": 17456,
-    "url": "https://www.arsenalsports.com/produto/cyma-tune-up-kit-cylinder--cylinder-head--piston-head-17456.html",
-    "ref": "409360",
-    "nome": "CYMA TUNE UP KIT CYLINDER / CYLINDER HEAD & PISTON HEAD",
-    "marca_arsenal": "CYMA",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/17456/produtos/400/7e47581deb3aae1dd5d2fc116029d6d9.jpg"
-   },
-   "orig": "Tune Up Kit Cylinder / Cylinder Head & Piston Head"
-  },
-  {
    "sku": "409377",
    "nome": "Tune Up Kit Cilindro / Cabeça de cilindro & Cabeça de pistão",
    "marca": "Cyma",
@@ -63170,6 +63148,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/17457/produtos/400/3fc2b56fdc8c28d1458ecb8f615cf1e6.jpg"
+   },
+   "orig": "Tune Up Kit Cylinder / Cylinder Head & Piston Head"
+  },
+  {
+   "sku": "409360",
+   "nome": "Tune Up Kit Cilindro / Cabeça de cilindro & Cabeça de pistão",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 20.0,
+   "disponivel": true,
+   "img": "img/17456.webp",
+   "arsenal": {
+    "id": 17456,
+    "url": "https://www.arsenalsports.com/produto/cyma-tune-up-kit-cylinder--cylinder-head--piston-head-17456.html",
+    "ref": "409360",
+    "nome": "CYMA TUNE UP KIT CYLINDER / CYLINDER HEAD & PISTON HEAD",
+    "marca_arsenal": "CYMA",
+    "categoria": "CYLINDERS",
+    "img": "https://www.arsenalsports.com/img/17456/produtos/400/7e47581deb3aae1dd5d2fc116029d6d9.jpg"
    },
    "orig": "Tune Up Kit Cylinder / Cylinder Head & Piston Head"
   },
@@ -64402,6 +64402,28 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/27884/produtos/400/cc5ae0dba50a064ebf32c81af24b50eb.jpg"
+   },
+   "orig": "Bore Up Cylinder Set for AUG"
+  },
+  {
+   "sku": "333627",
+   "nome": "Bore Up Cilindro Set para AUG",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 19.0,
+   "disponivel": true,
+   "img": "img/33466.webp",
+   "arsenal": {
+    "id": 33466,
+    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
+    "ref": "333627",
+    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
+    "marca_arsenal": "SHS",
+    "categoria": "CYLINDERS",
+    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
    },
    "orig": "Bore Up Cylinder Set for AUG"
   },
@@ -76374,28 +76396,6 @@
    "orig": "Grip & Motor Slim Lck Dark Red"
   },
   {
-   "sku": "506489",
-   "nome": "Grip & Motor Slim SL Torque preto",
-   "marca": "LCT",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": 77.0,
-   "disponivel": true,
-   "img": "img/29857.webp",
-   "arsenal": {
-    "id": 29857,
-    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29857.html",
-    "ref": "506489",
-    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
-    "marca_arsenal": "LCT",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/29857/produtos/400/d0672a0c588119f1ef3dc01c93a7f8e1.jpg"
-   },
-   "orig": "Grip & Motor Slim SL Torque Black"
-  },
-  {
    "sku": "506717",
    "nome": "Grip & Motor Slim SL Torque preto",
    "marca": "LCT",
@@ -76414,6 +76414,28 @@
     "marca_arsenal": "LCT",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/29858/produtos/400/2bf42f02162c96fd080be4b567c661e9.jpg"
+   },
+   "orig": "Grip & Motor Slim SL Torque Black"
+  },
+  {
+   "sku": "506489",
+   "nome": "Grip & Motor Slim SL Torque preto",
+   "marca": "LCT",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": 77.0,
+   "disponivel": true,
+   "img": "img/29857.webp",
+   "arsenal": {
+    "id": 29857,
+    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29857.html",
+    "ref": "506489",
+    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
+    "marca_arsenal": "LCT",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/29857/produtos/400/d0672a0c588119f1ef3dc01c93a7f8e1.jpg"
    },
    "orig": "Grip & Motor Slim SL Torque Black"
   },
@@ -87086,28 +87108,6 @@
     "img": "https://www.arsenalsports.com/img/25704/produtos/400/a8b9f40d6c85cfe813c6c395b8921410.jpg"
    },
    "orig": "Bore-Up Cylinder Set for P90"
-  },
-  {
-   "sku": "333627",
-   "nome": "Bore Up Cilindro Set para AUG",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Kits de upgrade",
-   "sub": "",
-   "specs": "",
-   "usd": 19.0,
-   "disponivel": true,
-   "img": "img/33466.webp",
-   "arsenal": {
-    "id": 33466,
-    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
-    "ref": "333627",
-    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
-    "marca_arsenal": "SHS",
-    "categoria": "KITS DE UPGRADE",
-    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
-   },
-   "orig": "Bore Up Cylinder Set for AUG"
   },
   {
    "sku": "199483",
