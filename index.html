@@ -123,6 +123,8 @@ header.top .wrap { display: flex; align-items: center; gap: 16px; padding-block:
 .marcas .chip[aria-pressed="true"] { background: var(--coyote); color: var(--on-accent); border-color: var(--coyote); }
 .bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; font-size: 13px; color: var(--muted); padding-bottom: 4px; }
 .bar label { display: flex; gap: 6px; align-items: center; cursor: pointer; }
+.bar-opcoes { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+.ordem select { font: 500 14px var(--body); padding: 6px 8px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); }
 .card.off { opacity: .6; }
 .badge { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; padding: 2px 8px; border-radius: 999px; background: var(--line); color: var(--fg); align-self: flex-start; }
 .add:disabled { background: var(--line); color: var(--muted); cursor: not-allowed; }
@@ -246,7 +248,10 @@ footer { color: var(--muted); font-size: 13px; padding-block: 24px; border-top: 
   <nav class="cats" id="cats" aria-label="Categorias"></nav>
   <nav class="subs" id="subs" aria-label="Modelo"></nav>
   <nav class="subs marcas" id="marcas" aria-label="Marcas"></nav>
-  <div class="bar"><span id="resumo"></span><label><input type="checkbox" id="verOff"> Mostrar indisponíveis</label></div>
+  <div class="bar"><span id="resumo"></span><div class="bar-opcoes"><label class="ordem">Ordenar por <select id="ordem">
+    <option value="">Mais relevantes</option><option value="menor">Menor preço</option><option value="maior">Maior preço</option>
+    <option value="az">Nome (A–Z)</option><option value="za">Nome (Z–A)</option><option value="marca">Marca (A–Z)</option></select></label>
+    <label><input type="checkbox" id="verOff"> Mostrar indisponíveis</label></div></div>
   <section class="grid" id="grid" aria-live="polite"></section>
   <button class="mais" id="mais" type="button" hidden>Mostrar mais</button>
 </main>
@@ -4667,12 +4672,25 @@ const thumb = p => {
   return p.img ? `<img src="${esc(p.img)}" alt="${esc(p.nome)}" loading="lazy" onerror="this.replaceWith(document.createTextNode('${esc(p.cat).replace(/'/g, "")}'))">` : esc(p.cat);
 };
 
+// ordem escolhida pelo cliente; vale para início, categorias, marcas e busca. Sem preço ("Sob consulta") vai para o fim.
+let ordemAtual = "";
+try { ordemAtual = localStorage.getItem("ordem") || ""; } catch (e) {}
+const nomeDe = p => (p.base || p.nome).toLocaleLowerCase("pt-BR");
+const ORDENS = {
+  menor: (a, b) => (a.preco ?? Infinity) - (b.preco ?? Infinity),
+  maior: (a, b) => (b.preco ?? -Infinity) - (a.preco ?? -Infinity),
+  az: (a, b) => nomeDe(a).localeCompare(nomeDe(b), "pt-BR"),
+  za: (a, b) => nomeDe(b).localeCompare(nomeDe(a), "pt-BR"),
+  marca: (a, b) => a.marca.localeCompare(b.marca, "pt-BR") || nomeDe(a).localeCompare(nomeDe(b), "pt-BR"),
+};
+const ordenar = lista => ORDENS[ordemAtual] ? lista.slice().sort((a, b) => (b.disponivel - a.disponivel) || ORDENS[ordemAtual](a, b)) : lista;
 function renderGrid() {
   const q = $("q").value.trim();
   const verOff = $("verOff").checked;
   let lista = buscar(q) || PRODUTOS.slice().sort((a, b) => b.disponivel - a.disponivel);
   lista = q ? lista.filter(p => verOff || p.disponivel)
     : lista.filter(p => noFiltro(p) && (!subAtual || p.sub === subAtual) && (!marcaAtual || p.marca === marcaAtual) && (verOff || p.disponivel));
+  lista = ordenar(lista);
   const corNaBusca = norm(q).split(/\s+/).some(w => w.length > 2 && PALAVRAS_COR.has(w));
   // um cartão por produto: as outras cores entram no mesmo cartão
   const vistos = new Set();
@@ -4775,6 +4793,12 @@ $("q").addEventListener("input", () => {
 });
 $("q").addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); $("q").blur(); $("cats").scrollIntoView({ block: "start" }); } });
 $("verOff").addEventListener("change", () => { limite = POR_PAGINA; renderGrid(); });
+$("ordem").value = ORDENS[ordemAtual] ? ordemAtual : "";
+$("ordem").addEventListener("change", e => {
+  ordemAtual = e.target.value; try { localStorage.setItem("ordem", ordemAtual); } catch (err) {}
+  evento("sort", { sort_by: ordemAtual || "relevancia" });
+  limite = POR_PAGINA; renderGrid();
+});
 $("grid").addEventListener("click", e => { const c = e.target.closest("[data-escolha]"); if (c) { escolhida[c.dataset.vkey] = c.dataset.escolha; return renderGrid(); } });
 $("grid").addEventListener("click", e => {
   const b = e.target.closest("[data-sku]"); if (!b) return;
