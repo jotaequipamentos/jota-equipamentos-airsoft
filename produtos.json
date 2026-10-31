@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-30T16:47:30-03:00",
+ "atualizado_em": "2026-10-31T08:29:17-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -15390,28 +15390,6 @@
    "orig": "Magazine 29R Aluminum for Hi-Capa Series"
   },
   {
-   "sku": "419727",
-   "nome": "EMG Armorer Works Magazine 40 BBs Extended para 2011 Hi-Capa série prata",
-   "marca": "Taran Tactical",
-   "grupo": "Magazines",
-   "cat": "Pistola",
-   "sub": "Outros",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/24151.webp",
-   "arsenal": {
-    "id": 24151,
-    "url": "https://www.arsenalsports.com/produto/taran-tactical-emg-armorer-works-magazine-40r-extended-for-2011-hicapa-series-silver-24151.html",
-    "ref": "419727",
-    "nome": "TARAN TACTICAL EMG ARMORER WORKS MAGAZINE 40R EXTENDED FOR 2011 HI-CAPA SERIES SILVER",
-    "marca_arsenal": "TARAN TACTICAL",
-    "categoria": "MAGAZINES PARA PISTOLAS",
-    "img": "https://www.arsenalsports.com/img/24151/produtos/400/92a067c0f353b6e50f9074893cb8d787.jpg"
-   },
-   "orig": "EMG Armorer Works Magazine 40R Extended for 2011 Hi-Capa Series Silver"
-  },
-  {
    "sku": "500357",
    "nome": "EMG Armorer Works Magazine 40 BBs Extended para 2011 Hi-Capa série prata",
    "marca": "Taran Tactical",
@@ -15430,6 +15408,28 @@
     "marca_arsenal": "TARAN TACTICAL",
     "categoria": "MAGAZINES PARA PISTOLAS",
     "img": "https://www.arsenalsports.com/img/29379/produtos/400/87783e0cfc89dd9ab705f3dc98c1c733.jpg"
+   },
+   "orig": "EMG Armorer Works Magazine 40R Extended for 2011 Hi-Capa Series Silver"
+  },
+  {
+   "sku": "419727",
+   "nome": "EMG Armorer Works Magazine 40 BBs Extended para 2011 Hi-Capa série prata",
+   "marca": "Taran Tactical",
+   "grupo": "Magazines",
+   "cat": "Pistola",
+   "sub": "Outros",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/24151.webp",
+   "arsenal": {
+    "id": 24151,
+    "url": "https://www.arsenalsports.com/produto/taran-tactical-emg-armorer-works-magazine-40r-extended-for-2011-hicapa-series-silver-24151.html",
+    "ref": "419727",
+    "nome": "TARAN TACTICAL EMG ARMORER WORKS MAGAZINE 40R EXTENDED FOR 2011 HI-CAPA SERIES SILVER",
+    "marca_arsenal": "TARAN TACTICAL",
+    "categoria": "MAGAZINES PARA PISTOLAS",
+    "img": "https://www.arsenalsports.com/img/24151/produtos/400/92a067c0f353b6e50f9074893cb8d787.jpg"
    },
    "orig": "EMG Armorer Works Magazine 40R Extended for 2011 Hi-Capa Series Silver"
   },
@@ -15573,8 +15573,8 @@
    "cat": "Pistola",
    "sub": "Outros",
    "specs": "",
-   "usd": 24.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/15013.webp",
    "arsenal": {
     "id": 15013,
@@ -23464,28 +23464,6 @@
    "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Plum Orange"
   },
   {
-   "sku": "402576",
-   "nome": "Magazine 130 BBs Mid-Cap Polimer para série Lck preto",
-   "marca": "LCT",
-   "grupo": "Magazines",
-   "cat": "Rifle",
-   "sub": "Mid-cap",
-   "specs": "",
-   "usd": 19.0,
-   "disponivel": true,
-   "img": "img/16570.webp",
-   "arsenal": {
-    "id": 16570,
-    "url": "https://www.arsenalsports.com/produto/lct-magazine-130r-midcap-polimer-for-lck-series-black-16570.html",
-    "ref": "402576",
-    "nome": "LCT MAGAZINE 130R MID-CAP POLIMER FOR LCK SERIES BLACK",
-    "marca_arsenal": "LCT",
-    "categoria": "MAGAZINES PARA RIFLES",
-    "img": "https://www.arsenalsports.com/img/16570/produtos/400/2bc1c628efcc5550b09bfb7a4d0d613f.jpg"
-   },
-   "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Black"
-  },
-  {
    "sku": "87841",
    "nome": "Magazine 130 BBs Mid-Cap Polimer para série Lck preto",
    "marca": "LCT",
@@ -23504,6 +23482,28 @@
     "marca_arsenal": "LCT",
     "categoria": "MAGAZINES PARA RIFLES",
     "img": "https://www.arsenalsports.com/img/22934/produtos/400/ca2de3d25cd0ee3b5f0e871872c388e4.jpg"
+   },
+   "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Black"
+  },
+  {
+   "sku": "402576",
+   "nome": "Magazine 130 BBs Mid-Cap Polimer para série Lck preto",
+   "marca": "LCT",
+   "grupo": "Magazines",
+   "cat": "Rifle",
+   "sub": "Mid-cap",
+   "specs": "",
+   "usd": 19.0,
+   "disponivel": true,
+   "img": "img/16570.webp",
+   "arsenal": {
+    "id": 16570,
+    "url": "https://www.arsenalsports.com/produto/lct-magazine-130r-midcap-polimer-for-lck-series-black-16570.html",
+    "ref": "402576",
+    "nome": "LCT MAGAZINE 130R MID-CAP POLIMER FOR LCK SERIES BLACK",
+    "marca_arsenal": "LCT",
+    "categoria": "MAGAZINES PARA RIFLES",
+    "img": "https://www.arsenalsports.com/img/16570/produtos/400/2bc1c628efcc5550b09bfb7a4d0d613f.jpg"
    },
    "orig": "Magazine 130R Mid-Cap Polimer for Lck Series Black"
   },
@@ -31142,28 +31142,6 @@
    "orig": "Magazine Extension Plate for Hi-Capa Red"
   },
   {
-   "sku": "493116",
-   "nome": "Magazine Extension Plate para Hi-Capa vermelho",
-   "marca": "CTM-TAC",
-   "grupo": "Magazines",
-   "cat": "Peças de magazine",
-   "sub": "",
-   "specs": "",
-   "usd": 35.0,
-   "disponivel": true,
-   "img": "img/29449.webp",
-   "arsenal": {
-    "id": 29449,
-    "url": "https://www.arsenalsports.com/produto/ctmtac-magazine-extension-plate-for-hicapa-red-29449.html",
-    "ref": "493116",
-    "nome": "CTM-TAC MAGAZINE EXTENSION PLATE FOR HI-CAPA RED",
-    "marca_arsenal": "CTM-TAC",
-    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
-    "img": "https://www.arsenalsports.com/img/29449/produtos/400/0a96cd7ab71f775fdbb999eb86295a1f.jpg"
-   },
-   "orig": "Magazine Extension Plate for Hi-Capa Red"
-  },
-  {
    "sku": "101844",
    "nome": "Borracha Gasket para Magazine GBBR",
    "marca": "Classic Army",
@@ -32352,28 +32330,6 @@
    "orig": "Spring and Guide for Magazine GBBR M4"
   },
   {
-   "sku": "301626",
-   "nome": "O-Ring Magazine Gasket para M4 GBBR",
-   "marca": "Kjw",
-   "grupo": "Magazines",
-   "cat": "Peças de magazine",
-   "sub": "",
-   "specs": "",
-   "usd": 1.0,
-   "disponivel": true,
-   "img": "img/10891.webp",
-   "arsenal": {
-    "id": 10891,
-    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10891.html",
-    "ref": "301626",
-    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
-    "marca_arsenal": "KJW",
-    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
-    "img": "https://www.arsenalsports.com/img/10891/produtos/400/a4f21fb6d1fb62229a78d0de7bf946e2.jpg"
-   },
-   "orig": "O-Ring Magazine Gasket for M4 GBBR"
-  },
-  {
    "sku": "301633",
    "nome": "O-Ring Magazine Gasket para M4 GBBR",
    "marca": "Kjw",
@@ -32392,6 +32348,28 @@
     "marca_arsenal": "KJW",
     "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
     "img": "https://www.arsenalsports.com/img/10892/produtos/400/8e5f8e548f504845f8270e97eabd0e8a.jpg"
+   },
+   "orig": "O-Ring Magazine Gasket for M4 GBBR"
+  },
+  {
+   "sku": "301626",
+   "nome": "O-Ring Magazine Gasket para M4 GBBR",
+   "marca": "Kjw",
+   "grupo": "Magazines",
+   "cat": "Peças de magazine",
+   "sub": "",
+   "specs": "",
+   "usd": 1.0,
+   "disponivel": true,
+   "img": "img/10891.webp",
+   "arsenal": {
+    "id": 10891,
+    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10891.html",
+    "ref": "301626",
+    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
+    "marca_arsenal": "KJW",
+    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
+    "img": "https://www.arsenalsports.com/img/10891/produtos/400/a4f21fb6d1fb62229a78d0de7bf946e2.jpg"
    },
    "orig": "O-Ring Magazine Gasket for M4 GBBR"
   },
@@ -34638,6 +34616,28 @@
     "img": "https://www.arsenalsports.com/img/29668/produtos/400/8e2544237e3ea6fc674e2522dadfc6a4.jpg"
    },
    "orig": "HPA Magazine Adaptor for G Series Black"
+  },
+  {
+   "sku": "493116",
+   "nome": "Magazine Extension Plate para Hi-Capa vermelho",
+   "marca": "CTM-TAC",
+   "grupo": "Magazines",
+   "cat": "Outros magazines",
+   "sub": "",
+   "specs": "",
+   "usd": 35.0,
+   "disponivel": true,
+   "img": "img/29449.webp",
+   "arsenal": {
+    "id": 29449,
+    "url": "https://www.arsenalsports.com/produto/ctmtac-magazine-extension-plate-for-hicapa-red-29449.html",
+    "ref": "493116",
+    "nome": "CTM-TAC MAGAZINE EXTENSION PLATE FOR HI-CAPA RED",
+    "marca_arsenal": "CTM-TAC",
+    "categoria": "MAGAZINES PARA REPLICAS DE AIRSOFT",
+    "img": "https://www.arsenalsports.com/img/29449/produtos/400/0a96cd7ab71f775fdbb999eb86295a1f.jpg"
+   },
+   "orig": "Magazine Extension Plate for Hi-Capa Red"
   },
   {
    "sku": "169530",
@@ -40184,28 +40184,6 @@
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
   {
-   "sku": "422659",
-   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/21172.webp",
-   "arsenal": {
-    "id": 21172,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
-    "ref": "422659",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
-  },
-  {
    "sku": "389334",
    "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
    "marca": "Gens Ace",
@@ -40224,6 +40202,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/15716/produtos/400/5baa240e22aaa014a14c3995fc096822.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
+  },
+  {
+   "sku": "422659",
+   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/21172.webp",
+   "arsenal": {
+    "id": 21172,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
+    "ref": "422659",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
@@ -43044,28 +43044,6 @@
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/208MM"
   },
   {
-   "sku": "358255",
-   "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
-   "marca": "Lambda",
-   "grupo": "Canos internos",
-   "cat": "AEG",
-   "sub": "6.01mm",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/29023.webp",
-   "arsenal": {
-    "id": 29023,
-    "url": "https://www.arsenalsports.com/produto/lambda-inner-barrel-stainless-steel-01-for-aeg-601229mm-29023.html",
-    "ref": "358255",
-    "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
-    "marca_arsenal": "LAMBDA",
-    "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
-    "img": "https://www.arsenalsports.com/img/29023/produtos/400/6d3586b4d23591b4502b16125dc4a7da.jpg"
-   },
-   "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
-  },
-  {
    "sku": "358231",
    "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
    "marca": "Lambda",
@@ -43084,6 +43062,28 @@
     "marca_arsenal": "LAMBDA",
     "categoria": "PECAS INTERNAS PARA REPLICAS DE AIRSOFT",
     "img": "https://www.arsenalsports.com/img/29024/produtos/400/b642ea858141dc0fa4e682a284b0f976.jpg"
+   },
+   "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
+  },
+  {
+   "sku": "358255",
+   "nome": "Cano interno aço inox 01 para AEG 6.01/229mm",
+   "marca": "Lambda",
+   "grupo": "Canos internos",
+   "cat": "AEG",
+   "sub": "6.01mm",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/29023.webp",
+   "arsenal": {
+    "id": 29023,
+    "url": "https://www.arsenalsports.com/produto/lambda-inner-barrel-stainless-steel-01-for-aeg-601229mm-29023.html",
+    "ref": "358255",
+    "nome": "LAMBDA INNER BARREL STAINLESS STEEL 01 FOR AEG 6.01/229MM",
+    "marca_arsenal": "LAMBDA",
+    "categoria": "CANOS DE PRECISÃO INTERNOS",
+    "img": "https://www.arsenalsports.com/img/29023/produtos/400/6d3586b4d23591b4502b16125dc4a7da.jpg"
    },
    "orig": "Inner Barrel Stainless Steel 01 for AEG 6.01/229MM"
   },
@@ -60248,28 +60248,6 @@
    "orig": "Piston 15 Teeth Metal"
   },
   {
-   "sku": "560528",
-   "nome": "Pistão alumínio com rolamento para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/34041.webp",
-   "arsenal": {
-    "id": 34041,
-    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34041.html",
-    "ref": "560528",
-    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "PISTON HEADS",
-    "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
-   },
-   "orig": "Piston Aluminum with Bearing for M4"
-  },
-  {
    "sku": "560504",
    "nome": "Pistão alumínio com rolamento para M4",
    "marca": "Cyma",
@@ -60310,6 +60288,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "PISTON HEADS",
     "img": "https://www.arsenalsports.com/img/34040/produtos/400/1192c8efb0fb06397c107f733cac94d2.png"
+   },
+   "orig": "Piston Aluminum with Bearing for M4"
+  },
+  {
+   "sku": "560528",
+   "nome": "Pistão alumínio com rolamento para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 8.0,
+   "disponivel": true,
+   "img": "img/34041.webp",
+   "arsenal": {
+    "id": 34041,
+    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34041.html",
+    "ref": "560528",
+    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "PISTON HEADS",
+    "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
    },
    "orig": "Piston Aluminum with Bearing for M4"
   },
@@ -61480,28 +61480,6 @@
    "orig": "Piston 14 Teeth Blue"
   },
   {
-   "sku": "336772",
-   "nome": "Pistão 14TEETH",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/12560.webp",
-   "arsenal": {
-    "id": 12560,
-    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-12560.html",
-    "ref": "336772",
-    "nome": "SHS PISTON 14TEETH",
-    "marca_arsenal": "SHS",
-    "categoria": "PISTONS",
-    "img": "https://www.arsenalsports.com/img/12560/produtos/400/d5e6bae104579e8f3a69d93b8acd1366.jpg"
-   },
-   "orig": "Piston 14TEETH"
-  },
-  {
    "sku": "370707",
    "nome": "Pistão 14TEETH",
    "marca": "SHS",
@@ -61520,6 +61498,28 @@
     "marca_arsenal": "SHS",
     "categoria": "PISTONS",
     "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
+   },
+   "orig": "Piston 14TEETH"
+  },
+  {
+   "sku": "336772",
+   "nome": "Pistão 14TEETH",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 8.0,
+   "disponivel": true,
+   "img": "img/12560.webp",
+   "arsenal": {
+    "id": 12560,
+    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-12560.html",
+    "ref": "336772",
+    "nome": "SHS PISTON 14TEETH",
+    "marca_arsenal": "SHS",
+    "categoria": "PISTONS",
+    "img": "https://www.arsenalsports.com/img/12560/produtos/400/d5e6bae104579e8f3a69d93b8acd1366.jpg"
    },
    "orig": "Piston 14TEETH"
   },
@@ -64516,28 +64516,6 @@
    "orig": "Bore Up Cylinder for MP5K"
   },
   {
-   "sku": "4930",
-   "nome": "Cabeça de cilindro AK série",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/17838.webp",
-   "arsenal": {
-    "id": 17838,
-    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-ak-series-17838.html",
-    "ref": "4930",
-    "nome": "SHS CYLINDER HEAD AK SERIES",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDER HEADS",
-    "img": "https://www.arsenalsports.com/img/17838/produtos/400/c0b503f075a5ee87ec042e0292c8793a.jpg"
-   },
-   "orig": "Cylinder Head AK Series"
-  },
-  {
    "sku": "55291",
    "nome": "Cabeça de cilindro AK série",
    "marca": "SHS",
@@ -64556,6 +64534,28 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDER HEADS",
     "img": "https://www.arsenalsports.com/img/17835/produtos/400/ca68f583fc17d477a0b46e6e3e230c84.jpg"
+   },
+   "orig": "Cylinder Head AK Series"
+  },
+  {
+   "sku": "4930",
+   "nome": "Cabeça de cilindro AK série",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/17838.webp",
+   "arsenal": {
+    "id": 17838,
+    "url": "https://www.arsenalsports.com/produto/shs-cylinder-head-ak-series-17838.html",
+    "ref": "4930",
+    "nome": "SHS CYLINDER HEAD AK SERIES",
+    "marca_arsenal": "SHS",
+    "categoria": "CYLINDER HEADS",
+    "img": "https://www.arsenalsports.com/img/17838/produtos/400/c0b503f075a5ee87ec042e0292c8793a.jpg"
    },
    "orig": "Cylinder Head AK Series"
   },
@@ -80356,28 +80356,6 @@
    "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger Rear Wired"
   },
   {
-   "sku": "459013",
-   "nome": "Aster II VER. 2 Bluetooth Expert Version com Quantum Gatilho para G2H fiação traseira",
-   "marca": "Gate",
-   "grupo": "Peças internas",
-   "cat": "Mosfets e fiação",
-   "sub": "",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/34240.webp",
-   "arsenal": {
-    "id": 34240,
-    "url": "https://www.arsenalsports.com/produto/gate-aster-ii-ver-2-bluetooth-expert-version-with-quantum-trigger-for-g2h-rear-wired-34240.html",
-    "ref": "459013",
-    "nome": "GATE ASTER II VER. 2 BLUETOOTH EXPERT VERSION WITH QUANTUM TRIGGER FOR G2H REAR WIRED",
-    "marca_arsenal": "GATE",
-    "categoria": "ELECTRONIC TRIGGER WIRING & MOSFETS",
-    "img": "https://www.arsenalsports.com/img/34240/produtos/400/834d6c99d213bf4c05458d47b899594c.png"
-   },
-   "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger for G2H Rear Wired"
-  },
-  {
    "sku": "389839",
    "nome": "Aster II VER. 2 Bluetooth Expert Version com Quantum Gatilho para G2H fiação traseira",
    "marca": "Gate",
@@ -80396,6 +80374,28 @@
     "marca_arsenal": "GATE",
     "categoria": "ELECTRONIC TRIGGER WIRING & MOSFETS",
     "img": "https://www.arsenalsports.com/img/34239/produtos/400/4883792e6570c986e7eec26004e61175.png"
+   },
+   "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger for G2H Rear Wired"
+  },
+  {
+   "sku": "459013",
+   "nome": "Aster II VER. 2 Bluetooth Expert Version com Quantum Gatilho para G2H fiação traseira",
+   "marca": "Gate",
+   "grupo": "Peças internas",
+   "cat": "Mosfets e fiação",
+   "sub": "",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/34240.webp",
+   "arsenal": {
+    "id": 34240,
+    "url": "https://www.arsenalsports.com/produto/gate-aster-ii-ver-2-bluetooth-expert-version-with-quantum-trigger-for-g2h-rear-wired-34240.html",
+    "ref": "459013",
+    "nome": "GATE ASTER II VER. 2 BLUETOOTH EXPERT VERSION WITH QUANTUM TRIGGER FOR G2H REAR WIRED",
+    "marca_arsenal": "GATE",
+    "categoria": "ELECTRONIC TRIGGER WIRING & MOSFETS",
+    "img": "https://www.arsenalsports.com/img/34240/produtos/400/834d6c99d213bf4c05458d47b899594c.png"
    },
    "orig": "Aster II VER. 2 Bluetooth Expert Version with Quantum Trigger for G2H Rear Wired"
   },
@@ -87176,28 +87176,6 @@
    "orig": "HPA Regulator HPA Max 180PSI with Remote"
   },
   {
-   "sku": "56540",
-   "nome": "HPA Tank 48cl/4500 (749CC) carbono M18X1.5",
-   "marca": "Armadillo",
-   "grupo": "Peças internas",
-   "cat": "HPA",
-   "sub": "",
-   "specs": "",
-   "usd": 149.0,
-   "disponivel": true,
-   "img": "img/35482.webp",
-   "arsenal": {
-    "id": 35482,
-    "url": "https://www.arsenalsports.com/produto/armadillo-hpa-tank-48cl4500-749cc-carbon-m18x15-35482.html",
-    "ref": "56540",
-    "nome": "ARMADILLO HPA TANK 48CL/4500 (749CC) CARBON M18X1.5",
-    "marca_arsenal": "ARMADILLO",
-    "categoria": "HPA PEÇAS E ACESSORIOS",
-    "img": "https://www.arsenalsports.com/img/35482/produtos/400/8c44c187c25826a1397e1ed2caa9e6cf.jpg"
-   },
-   "orig": "HPA Tank 48cl/4500 (749CC) Carbon M18X1.5"
-  },
-  {
    "sku": "288934",
    "nome": "HPA Tank 48cl/4500 (749CC) carbono M18X1.5",
    "marca": "Armadillo",
@@ -87216,6 +87194,28 @@
     "marca_arsenal": "ARMADILLO",
     "categoria": "HPA PEÇAS E ACESSORIOS",
     "img": "https://www.arsenalsports.com/img/28834/produtos/400/8f1ed3e03a6141d6f5c76376d0504308.png"
+   },
+   "orig": "HPA Tank 48cl/4500 (749CC) Carbon M18X1.5"
+  },
+  {
+   "sku": "56540",
+   "nome": "HPA Tank 48cl/4500 (749CC) carbono M18X1.5",
+   "marca": "Armadillo",
+   "grupo": "Peças internas",
+   "cat": "HPA",
+   "sub": "",
+   "specs": "",
+   "usd": 149.0,
+   "disponivel": true,
+   "img": "img/35482.webp",
+   "arsenal": {
+    "id": 35482,
+    "url": "https://www.arsenalsports.com/produto/armadillo-hpa-tank-48cl4500-749cc-carbon-m18x15-35482.html",
+    "ref": "56540",
+    "nome": "ARMADILLO HPA TANK 48CL/4500 (749CC) CARBON M18X1.5",
+    "marca_arsenal": "ARMADILLO",
+    "categoria": "HPA PEÇAS E ACESSORIOS",
+    "img": "https://www.arsenalsports.com/img/35482/produtos/400/8c44c187c25826a1397e1ed2caa9e6cf.jpg"
    },
    "orig": "HPA Tank 48cl/4500 (749CC) Carbon M18X1.5"
   },
@@ -88943,7 +88943,7 @@
    "cat": "HPA",
    "sub": "",
    "specs": "",
-   "usd": 385.0,
+   "usd": 369.0,
    "disponivel": true,
    "img": "img/33429.webp",
    "arsenal": {
