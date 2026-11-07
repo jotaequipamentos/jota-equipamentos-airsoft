@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T16:53:00-03:00",
+ "atualizado_em": "2026-11-07T08:33:19-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -39634,28 +39634,6 @@
    "orig": "Bateria LIPO 20C / 11.1 / 2200 / 3S1P Tamiya"
   },
   {
-   "sku": "413213",
-   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28186.webp",
-   "arsenal": {
-    "id": 28186,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-28186.html",
-    "ref": "413213",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28186/produtos/400/dacb732df57dca1c7897526df289a88c.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
-  },
-  {
    "sku": "414340",
    "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
    "marca": "Gens Ace",
@@ -39674,6 +39652,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21180/produtos/400/1cdbc84b2ea45dedba6e793ffdf8a4fd.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
+  },
+  {
+   "sku": "413213",
+   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28186.webp",
+   "arsenal": {
+    "id": 28186,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-28186.html",
+    "ref": "413213",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28186/produtos/400/dacb732df57dca1c7897526df289a88c.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
   },
@@ -53318,28 +53318,6 @@
    "orig": "Gearbox Complete Rear Wire Set for M4 Series"
   },
   {
-   "sku": "485579",
-   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Gearbox",
-   "sub": "Gearbox completa",
-   "specs": "",
-   "usd": 88.0,
-   "disponivel": true,
-   "img": "img/29968.webp",
-   "arsenal": {
-    "id": 29968,
-    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
-    "ref": "485579",
-    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "GEARBOX",
-    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
-   },
-   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
-  },
-  {
    "sku": "485609",
    "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
    "marca": "Cyma",
@@ -53380,6 +53358,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "GEARBOX",
     "img": "https://www.arsenalsports.com/img/29966/produtos/400/6242bc5272c0c23e4eeaa4450d744a2e.jpg"
+   },
+   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
+  },
+  {
+   "sku": "485579",
+   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Gearbox",
+   "sub": "Gearbox completa",
+   "specs": "",
+   "usd": 88.0,
+   "disponivel": true,
+   "img": "img/29968.webp",
+   "arsenal": {
+    "id": 29968,
+    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
+    "ref": "485579",
+    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "GEARBOX",
+    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
    },
    "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
@@ -60204,6 +60204,28 @@
    "orig": "Piston 15 Teeth Metal"
   },
   {
+   "sku": "560504",
+   "nome": "Pistão alumínio com rolamento para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 8.0,
+   "disponivel": true,
+   "img": "img/34039.webp",
+   "arsenal": {
+    "id": 34039,
+    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
+    "ref": "560504",
+    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "PISTON HEADS",
+    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
+   },
+   "orig": "Piston Aluminum with Bearing for M4"
+  },
+  {
    "sku": "560511",
    "nome": "Pistão alumínio com rolamento para M4",
    "marca": "Cyma",
@@ -60244,28 +60266,6 @@
     "marca_arsenal": "CYMA",
     "categoria": "PISTON HEADS",
     "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
-   },
-   "orig": "Piston Aluminum with Bearing for M4"
-  },
-  {
-   "sku": "560504",
-   "nome": "Pistão alumínio com rolamento para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/34039.webp",
-   "arsenal": {
-    "id": 34039,
-    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
-    "ref": "560504",
-    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "PISTON HEADS",
-    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
    },
    "orig": "Piston Aluminum with Bearing for M4"
   },
@@ -61436,28 +61436,6 @@
    "orig": "Piston 14 Teeth Blue"
   },
   {
-   "sku": "370707",
-   "nome": "Pistão 14TEETH",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/14832.webp",
-   "arsenal": {
-    "id": 14832,
-    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-14832.html",
-    "ref": "370707",
-    "nome": "SHS PISTON 14TEETH",
-    "marca_arsenal": "SHS",
-    "categoria": "PISTONS",
-    "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
-   },
-   "orig": "Piston 14TEETH"
-  },
-  {
    "sku": "336772",
    "nome": "Pistão 14TEETH",
    "marca": "SHS",
@@ -61476,6 +61454,28 @@
     "marca_arsenal": "SHS",
     "categoria": "PISTONS",
     "img": "https://www.arsenalsports.com/img/12560/produtos/400/d5e6bae104579e8f3a69d93b8acd1366.jpg"
+   },
+   "orig": "Piston 14TEETH"
+  },
+  {
+   "sku": "370707",
+   "nome": "Pistão 14TEETH",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/14832.webp",
+   "arsenal": {
+    "id": 14832,
+    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-14832.html",
+    "ref": "370707",
+    "nome": "SHS PISTON 14TEETH",
+    "marca_arsenal": "SHS",
+    "categoria": "PISTONS",
+    "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
    },
    "orig": "Piston 14TEETH"
   },
@@ -64358,28 +64358,6 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/27884/produtos/400/cc5ae0dba50a064ebf32c81af24b50eb.jpg"
-   },
-   "orig": "Bore Up Cylinder Set for AUG"
-  },
-  {
-   "sku": "333627",
-   "nome": "Bore Up Cilindro Set para AUG",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 19.0,
-   "disponivel": true,
-   "img": "img/33466.webp",
-   "arsenal": {
-    "id": 33466,
-    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
-    "ref": "333627",
-    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
    },
    "orig": "Bore Up Cylinder Set for AUG"
   },
@@ -76352,28 +76330,6 @@
    "orig": "Grip & Motor Slim Lck Dark Red"
   },
   {
-   "sku": "506717",
-   "nome": "Grip & Motor Slim SL Torque preto",
-   "marca": "LCT",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": 99.0,
-   "disponivel": true,
-   "img": "img/29858.webp",
-   "arsenal": {
-    "id": 29858,
-    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29858.html",
-    "ref": "506717",
-    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
-    "marca_arsenal": "LCT",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/29858/produtos/400/2bf42f02162c96fd080be4b567c661e9.jpg"
-   },
-   "orig": "Grip & Motor Slim SL Torque Black"
-  },
-  {
    "sku": "506489",
    "nome": "Grip & Motor Slim SL Torque preto",
    "marca": "LCT",
@@ -76392,6 +76348,28 @@
     "marca_arsenal": "LCT",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/29857/produtos/400/d0672a0c588119f1ef3dc01c93a7f8e1.jpg"
+   },
+   "orig": "Grip & Motor Slim SL Torque Black"
+  },
+  {
+   "sku": "506717",
+   "nome": "Grip & Motor Slim SL Torque preto",
+   "marca": "LCT",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": 99.0,
+   "disponivel": true,
+   "img": "img/29858.webp",
+   "arsenal": {
+    "id": 29858,
+    "url": "https://www.arsenalsports.com/produto/lct-grip--motor-slim-sl-torque-black-29858.html",
+    "ref": "506717",
+    "nome": "LCT GRIP & MOTOR SLIM SL TORQUE BLACK",
+    "marca_arsenal": "LCT",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/29858/produtos/400/2bf42f02162c96fd080be4b567c661e9.jpg"
    },
    "orig": "Grip & Motor Slim SL Torque Black"
   },
@@ -87064,6 +87042,28 @@
     "img": "https://www.arsenalsports.com/img/25704/produtos/400/a8b9f40d6c85cfe813c6c395b8921410.jpg"
    },
    "orig": "Bore-Up Cylinder Set for P90"
+  },
+  {
+   "sku": "333627",
+   "nome": "Bore Up Cilindro Set para AUG",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Kits de upgrade",
+   "sub": "",
+   "specs": "",
+   "usd": 19.0,
+   "disponivel": true,
+   "img": "img/33466.webp",
+   "arsenal": {
+    "id": 33466,
+    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-33466.html",
+    "ref": "333627",
+    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
+    "marca_arsenal": "SHS",
+    "categoria": "KITS DE UPGRADE",
+    "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
+   },
+   "orig": "Bore Up Cylinder Set for AUG"
   },
   {
    "sku": "199483",
