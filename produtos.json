@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T16:54:28-03:00",
+ "atualizado_em": "2026-11-14T08:32:31-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -10227,7 +10227,7 @@
    "cat": "Pistola",
    "sub": "CO2",
    "specs": "",
-   "usd": 15.0,
+   "usd": 16.0,
    "disponivel": true,
    "img": "img/24201.webp",
    "arsenal": {
@@ -10836,28 +10836,6 @@
    "orig": "Magazine 15R GBB for 1911 Black"
   },
   {
-   "sku": "174312",
-   "nome": "Magazine 23 BBs GBB para VX9 preto",
-   "marca": "Armorer Works",
-   "grupo": "Magazines",
-   "cat": "Pistola",
-   "sub": "Gás (GBB)",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/18280.webp",
-   "arsenal": {
-    "id": 18280,
-    "url": "https://www.arsenalsports.com/produto/armorer-works-magazine-23r-gbb-for-vx9-black-18280.html",
-    "ref": "174312",
-    "nome": "ARMORER WORKS MAGAZINE 23R GBB FOR VX9 BLACK",
-    "marca_arsenal": "ARMORER WORKS",
-    "categoria": "MAGAZINES PARA PISTOLAS",
-    "img": "https://www.arsenalsports.com/img/18280/produtos/400/ba4ea822181c73b1a9046b1acc78f0f2.jpg"
-   },
-   "orig": "Magazine 23R GBB for VX9 Black"
-  },
-  {
    "sku": "65566",
    "nome": "Magazine 23 BBs GBB para VX9 preto",
    "marca": "Armorer Works",
@@ -10876,6 +10854,28 @@
     "marca_arsenal": "ARMORER WORKS",
     "categoria": "MAGAZINES PARA PISTOLAS",
     "img": "https://www.arsenalsports.com/img/18230/produtos/400/1bf95d56ec4f7a73fb29b4912ffbe75f.jpg"
+   },
+   "orig": "Magazine 23R GBB for VX9 Black"
+  },
+  {
+   "sku": "174312",
+   "nome": "Magazine 23 BBs GBB para VX9 preto",
+   "marca": "Armorer Works",
+   "grupo": "Magazines",
+   "cat": "Pistola",
+   "sub": "Gás (GBB)",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/18280.webp",
+   "arsenal": {
+    "id": 18280,
+    "url": "https://www.arsenalsports.com/produto/armorer-works-magazine-23r-gbb-for-vx9-black-18280.html",
+    "ref": "174312",
+    "nome": "ARMORER WORKS MAGAZINE 23R GBB FOR VX9 BLACK",
+    "marca_arsenal": "ARMORER WORKS",
+    "categoria": "MAGAZINES PARA PISTOLAS",
+    "img": "https://www.arsenalsports.com/img/18280/produtos/400/ba4ea822181c73b1a9046b1acc78f0f2.jpg"
    },
    "orig": "Magazine 23R GBB for VX9 Black"
   },
@@ -32330,28 +32330,6 @@
    "orig": "Spring and Guide for Magazine GBBR M4"
   },
   {
-   "sku": "301626",
-   "nome": "O-Ring Magazine Gasket para M4 GBBR",
-   "marca": "Kjw",
-   "grupo": "Magazines",
-   "cat": "Peças de magazine",
-   "sub": "",
-   "specs": "",
-   "usd": 1.0,
-   "disponivel": true,
-   "img": "img/10891.webp",
-   "arsenal": {
-    "id": 10891,
-    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10891.html",
-    "ref": "301626",
-    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
-    "marca_arsenal": "KJW",
-    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
-    "img": "https://www.arsenalsports.com/img/10891/produtos/400/a4f21fb6d1fb62229a78d0de7bf946e2.jpg"
-   },
-   "orig": "O-Ring Magazine Gasket for M4 GBBR"
-  },
-  {
    "sku": "301633",
    "nome": "O-Ring Magazine Gasket para M4 GBBR",
    "marca": "Kjw",
@@ -32370,6 +32348,28 @@
     "marca_arsenal": "KJW",
     "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
     "img": "https://www.arsenalsports.com/img/10892/produtos/400/8e5f8e548f504845f8270e97eabd0e8a.jpg"
+   },
+   "orig": "O-Ring Magazine Gasket for M4 GBBR"
+  },
+  {
+   "sku": "301626",
+   "nome": "O-Ring Magazine Gasket para M4 GBBR",
+   "marca": "Kjw",
+   "grupo": "Magazines",
+   "cat": "Peças de magazine",
+   "sub": "",
+   "specs": "",
+   "usd": 1.0,
+   "disponivel": true,
+   "img": "img/10891.webp",
+   "arsenal": {
+    "id": 10891,
+    "url": "https://www.arsenalsports.com/produto/kjw-oring-magazine-gasket-for-m4-gbbr-10891.html",
+    "ref": "301626",
+    "nome": "KJW O-RING MAGAZINE GASKET FOR M4 GBBR",
+    "marca_arsenal": "KJW",
+    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
+    "img": "https://www.arsenalsports.com/img/10891/produtos/400/a4f21fb6d1fb62229a78d0de7bf946e2.jpg"
    },
    "orig": "O-Ring Magazine Gasket for M4 GBBR"
   },
@@ -39700,28 +39700,6 @@
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Gt Tamiya"
   },
   {
-   "sku": "129923",
-   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28203.webp",
-   "arsenal": {
-    "id": 28203,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28203.html",
-    "ref": "129923",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
-  },
-  {
    "sku": "48224",
    "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
    "marca": "Gens Ace",
@@ -39740,6 +39718,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
+  },
+  {
+   "sku": "129923",
+   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28203.webp",
+   "arsenal": {
+    "id": 28203,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28203.html",
+    "ref": "129923",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
   },
@@ -40096,28 +40096,6 @@
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
   {
-   "sku": "422659",
-   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/21172.webp",
-   "arsenal": {
-    "id": 21172,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
-    "ref": "422659",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
-  },
-  {
    "sku": "389334",
    "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
    "marca": "Gens Ace",
@@ -40158,6 +40136,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/15717/produtos/400/6ae1adbae86ad6bb48aa95bc124b6bc6.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
+  },
+  {
+   "sku": "422659",
+   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/21172.webp",
+   "arsenal": {
+    "id": 21172,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
+    "ref": "422659",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
@@ -53230,6 +53230,28 @@
    "orig": "Gearbox Complete Rear Wire Set for M4 Series"
   },
   {
+   "sku": "485579",
+   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Gearbox",
+   "sub": "Gearbox completa",
+   "specs": "",
+   "usd": 88.0,
+   "disponivel": true,
+   "img": "img/29968.webp",
+   "arsenal": {
+    "id": 29968,
+    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
+    "ref": "485579",
+    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "GEARBOX",
+    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
+   },
+   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
+  },
+  {
    "sku": "485609",
    "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
    "marca": "Cyma",
@@ -53270,28 +53292,6 @@
     "marca_arsenal": "CYMA",
     "categoria": "GEARBOX",
     "img": "https://www.arsenalsports.com/img/29966/produtos/400/6242bc5272c0c23e4eeaa4450d744a2e.jpg"
-   },
-   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
-  },
-  {
-   "sku": "485579",
-   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Gearbox",
-   "sub": "Gearbox completa",
-   "specs": "",
-   "usd": 88.0,
-   "disponivel": true,
-   "img": "img/29968.webp",
-   "arsenal": {
-    "id": 29968,
-    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
-    "ref": "485579",
-    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "GEARBOX",
-    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
    },
    "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
@@ -61348,28 +61348,6 @@
    "orig": "Piston 14 Teeth Blue"
   },
   {
-   "sku": "370707",
-   "nome": "Pistão 14TEETH",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 6.0,
-   "disponivel": true,
-   "img": "img/14832.webp",
-   "arsenal": {
-    "id": 14832,
-    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-14832.html",
-    "ref": "370707",
-    "nome": "SHS PISTON 14TEETH",
-    "marca_arsenal": "SHS",
-    "categoria": "PISTONS",
-    "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
-   },
-   "orig": "Piston 14TEETH"
-  },
-  {
    "sku": "336772",
    "nome": "Pistão 14TEETH",
    "marca": "SHS",
@@ -61388,6 +61366,28 @@
     "marca_arsenal": "SHS",
     "categoria": "PISTONS",
     "img": "https://www.arsenalsports.com/img/12560/produtos/400/d5e6bae104579e8f3a69d93b8acd1366.jpg"
+   },
+   "orig": "Piston 14TEETH"
+  },
+  {
+   "sku": "370707",
+   "nome": "Pistão 14TEETH",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 6.0,
+   "disponivel": true,
+   "img": "img/14832.webp",
+   "arsenal": {
+    "id": 14832,
+    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-14832.html",
+    "ref": "370707",
+    "nome": "SHS PISTON 14TEETH",
+    "marca_arsenal": "SHS",
+    "categoria": "PISTONS",
+    "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
    },
    "orig": "Piston 14TEETH"
   },
@@ -64252,28 +64252,6 @@
    "orig": "Bore Up Cylinder Set Variant for MP5K"
   },
   {
-   "sku": "26796",
-   "nome": "Bore Up Cilindro Set para AUG",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Cilindro e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 24.0,
-   "disponivel": true,
-   "img": "img/27884.webp",
-   "arsenal": {
-    "id": 27884,
-    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-27884.html",
-    "ref": "26796",
-    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
-    "marca_arsenal": "SHS",
-    "categoria": "CYLINDERS",
-    "img": "https://www.arsenalsports.com/img/27884/produtos/400/cc5ae0dba50a064ebf32c81af24b50eb.jpg"
-   },
-   "orig": "Bore Up Cylinder Set for AUG"
-  },
-  {
    "sku": "333627",
    "nome": "Bore Up Cilindro Set para AUG",
    "marca": "SHS",
@@ -64292,6 +64270,28 @@
     "marca_arsenal": "SHS",
     "categoria": "CYLINDERS",
     "img": "https://www.arsenalsports.com/img/33466/produtos/400/ff213e802fed9b359f09645a96f3e0e0.png"
+   },
+   "orig": "Bore Up Cylinder Set for AUG"
+  },
+  {
+   "sku": "26796",
+   "nome": "Bore Up Cilindro Set para AUG",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Cilindro e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 24.0,
+   "disponivel": true,
+   "img": "img/27884.webp",
+   "arsenal": {
+    "id": 27884,
+    "url": "https://www.arsenalsports.com/produto/shs-bore-up-cylinder-set-for-aug-27884.html",
+    "ref": "26796",
+    "nome": "SHS BORE UP CYLINDER SET FOR AUG",
+    "marca_arsenal": "SHS",
+    "categoria": "CYLINDERS",
+    "img": "https://www.arsenalsports.com/img/27884/produtos/400/cc5ae0dba50a064ebf32c81af24b50eb.jpg"
    },
    "orig": "Bore Up Cylinder Set for AUG"
   },
@@ -65946,28 +65946,6 @@
    "orig": "Spring Guide VER. 2 Ares QD"
   },
   {
-   "sku": "184656",
-   "nome": "Guia de mola VER. 2 D.SELECTOR",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Molas e guias",
-   "sub": "Guias",
-   "specs": "",
-   "usd": 4.0,
-   "disponivel": true,
-   "img": "img/17920.webp",
-   "arsenal": {
-    "id": 17920,
-    "url": "https://www.arsenalsports.com/produto/shs-spring-guide-ver-2-dselector-17920.html",
-    "ref": "184656",
-    "nome": "SHS SPRING GUIDE VER. 2 D.SELECTOR",
-    "marca_arsenal": "SHS",
-    "categoria": "SPRING GUIDES",
-    "img": "https://www.arsenalsports.com/img/17920/produtos/400/2ace3130bd150d1925f10cb4a2ee8aa9.jpg"
-   },
-   "orig": "Spring Guide VER. 2 D.SELECTOR"
-  },
-  {
    "sku": "199223",
    "nome": "Guia de mola VER. 2 D.SELECTOR",
    "marca": "SHS",
@@ -65986,6 +65964,28 @@
     "marca_arsenal": "SHS",
     "categoria": "SPRING GUIDES",
     "img": "https://www.arsenalsports.com/img/17921/produtos/400/64ee05453716279a5981e0ca769c5f3c.jpg"
+   },
+   "orig": "Spring Guide VER. 2 D.SELECTOR"
+  },
+  {
+   "sku": "184656",
+   "nome": "Guia de mola VER. 2 D.SELECTOR",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Molas e guias",
+   "sub": "Guias",
+   "specs": "",
+   "usd": 4.0,
+   "disponivel": true,
+   "img": "img/17920.webp",
+   "arsenal": {
+    "id": 17920,
+    "url": "https://www.arsenalsports.com/produto/shs-spring-guide-ver-2-dselector-17920.html",
+    "ref": "184656",
+    "nome": "SHS SPRING GUIDE VER. 2 D.SELECTOR",
+    "marca_arsenal": "SHS",
+    "categoria": "SPRING GUIDES",
+    "img": "https://www.arsenalsports.com/img/17920/produtos/400/2ace3130bd150d1925f10cb4a2ee8aa9.jpg"
    },
    "orig": "Spring Guide VER. 2 D.SELECTOR"
   },
@@ -76792,28 +76792,6 @@
    "orig": "Motor Shaft Guide & Bearing"
   },
   {
-   "sku": "370790",
-   "nome": "Motor Shaft Guide Long D",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Motores",
-   "sub": "",
-   "specs": "",
-   "usd": 4.0,
-   "disponivel": true,
-   "img": "img/14841.webp",
-   "arsenal": {
-    "id": 14841,
-    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14841.html",
-    "ref": "370790",
-    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
-    "marca_arsenal": "SHS",
-    "categoria": "MOTORS AND ACESSORIES",
-    "img": "https://www.arsenalsports.com/img/14841/produtos/400/8be5305313f813b26cd62a395c9b85c9.jpg"
-   },
-   "orig": "Motor Shaft Guide Long D"
-  },
-  {
    "sku": "371162",
    "nome": "Motor Shaft Guide Long D",
    "marca": "SHS",
@@ -76832,6 +76810,28 @@
     "marca_arsenal": "SHS",
     "categoria": "MOTORS AND ACESSORIES",
     "img": "https://www.arsenalsports.com/img/14831/produtos/400/e7f36f65e3930f19f960048a5a6b97f6.jpg"
+   },
+   "orig": "Motor Shaft Guide Long D"
+  },
+  {
+   "sku": "370790",
+   "nome": "Motor Shaft Guide Long D",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Motores",
+   "sub": "",
+   "specs": "",
+   "usd": 4.0,
+   "disponivel": true,
+   "img": "img/14841.webp",
+   "arsenal": {
+    "id": 14841,
+    "url": "https://www.arsenalsports.com/produto/shs-motor-shaft-guide-long-d-14841.html",
+    "ref": "370790",
+    "nome": "SHS MOTOR SHAFT GUIDE LONG D",
+    "marca_arsenal": "SHS",
+    "categoria": "MOTORS AND ACESSORIES",
+    "img": "https://www.arsenalsports.com/img/14841/produtos/400/8be5305313f813b26cd62a395c9b85c9.jpg"
    },
    "orig": "Motor Shaft Guide Long D"
   },
@@ -87044,28 +87044,6 @@
    "orig": "HPA Regulator HPA Max 180PSI with Remote"
   },
   {
-   "sku": "288934",
-   "nome": "HPA Tank 48cl/4500 (749CC) carbono M18X1.5",
-   "marca": "Armadillo",
-   "grupo": "Peças internas",
-   "cat": "HPA",
-   "sub": "",
-   "specs": "",
-   "usd": 158.0,
-   "disponivel": true,
-   "img": "img/28834.webp",
-   "arsenal": {
-    "id": 28834,
-    "url": "https://www.arsenalsports.com/produto/armadillo-hpa-tank-48cl4500-749cc-carbon-m18x15-28834.html",
-    "ref": "288934",
-    "nome": "ARMADILLO HPA TANK 48CL/4500 (749CC) CARBON M18X1.5",
-    "marca_arsenal": "ARMADILLO",
-    "categoria": "HPA PEÇAS E ACESSORIOS",
-    "img": "https://www.arsenalsports.com/img/28834/produtos/400/8f1ed3e03a6141d6f5c76376d0504308.png"
-   },
-   "orig": "HPA Tank 48cl/4500 (749CC) Carbon M18X1.5"
-  },
-  {
    "sku": "56540",
    "nome": "HPA Tank 48cl/4500 (749CC) carbono M18X1.5",
    "marca": "Armadillo",
@@ -87084,6 +87062,28 @@
     "marca_arsenal": "ARMADILLO",
     "categoria": "HPA PEÇAS E ACESSORIOS",
     "img": "https://www.arsenalsports.com/img/35482/produtos/400/8c44c187c25826a1397e1ed2caa9e6cf.jpg"
+   },
+   "orig": "HPA Tank 48cl/4500 (749CC) Carbon M18X1.5"
+  },
+  {
+   "sku": "288934",
+   "nome": "HPA Tank 48cl/4500 (749CC) carbono M18X1.5",
+   "marca": "Armadillo",
+   "grupo": "Peças internas",
+   "cat": "HPA",
+   "sub": "",
+   "specs": "",
+   "usd": 158.0,
+   "disponivel": true,
+   "img": "img/28834.webp",
+   "arsenal": {
+    "id": 28834,
+    "url": "https://www.arsenalsports.com/produto/armadillo-hpa-tank-48cl4500-749cc-carbon-m18x15-28834.html",
+    "ref": "288934",
+    "nome": "ARMADILLO HPA TANK 48CL/4500 (749CC) CARBON M18X1.5",
+    "marca_arsenal": "ARMADILLO",
+    "categoria": "HPA PEÇAS E ACESSORIOS",
+    "img": "https://www.arsenalsports.com/img/28834/produtos/400/8f1ed3e03a6141d6f5c76376d0504308.png"
    },
    "orig": "HPA Tank 48cl/4500 (749CC) Carbon M18X1.5"
   },
