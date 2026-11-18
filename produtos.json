@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T17:04:20-03:00",
+ "atualizado_em": "2026-11-18T08:56:00-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -38314,28 +38314,6 @@
    "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Deans"
   },
   {
-   "sku": "421577",
-   "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "7.4V",
-   "specs": "",
-   "usd": 14.0,
-   "disponivel": true,
-   "img": "img/34744.webp",
-   "arsenal": {
-    "id": 34744,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74--1500--2s1p-tamiya-34744.html",
-    "ref": "421577",
-    "nome": "GENS ACE BATERIA LIPO 25C / 7.4 / 1500 / 2S1P TAMIYA",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/34744/produtos/400/a4adbb741b34ecb9113625ef9c4c3dd0.png"
-   },
-   "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
-  },
-  {
    "sku": "174183",
    "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
    "marca": "Gens Ace",
@@ -38354,6 +38332,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21550/produtos/400/a5bf5ea65c3eb265af3f3f97d1b44c47.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
+  },
+  {
+   "sku": "421577",
+   "nome": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "7.4V",
+   "specs": "",
+   "usd": 14.0,
+   "disponivel": true,
+   "img": "img/34744.webp",
+   "arsenal": {
+    "id": 34744,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74--1500--2s1p-tamiya-34744.html",
+    "ref": "421577",
+    "nome": "GENS ACE BATERIA LIPO 25C / 7.4 / 1500 / 2S1P TAMIYA",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/34744/produtos/400/a4adbb741b34ecb9113625ef9c4c3dd0.png"
    },
    "orig": "Bateria LIPO 25C / 7.4 / 1500 / 2S1P Tamiya"
   },
@@ -38468,28 +38468,6 @@
    "orig": "Bateria LIPO 25C / 7.4 / 620 / 2S1P Mini"
   },
   {
-   "sku": "421539",
-   "nome": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "7.4V",
-   "specs": "",
-   "usd": 12.0,
-   "disponivel": true,
-   "img": "img/21163.webp",
-   "arsenal": {
-    "id": 21163,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74v--1000--2s1p-21163.html",
-    "ref": "421539",
-    "nome": "GENS ACE BATERIA LIPO 25C / 7.4V / 1000 / 2S1P",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21163/produtos/400/c31df31e45a220f9b47f8c0bac85dde4.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P"
-  },
-  {
    "sku": "421614",
    "nome": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P",
    "marca": "Gens Ace",
@@ -38508,6 +38486,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21157/produtos/400/ffd8b4323ac5c348a6e7b2021a4ae10d.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P"
+  },
+  {
+   "sku": "421539",
+   "nome": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "7.4V",
+   "specs": "",
+   "usd": 12.0,
+   "disponivel": true,
+   "img": "img/21163.webp",
+   "arsenal": {
+    "id": 21163,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--74v--1000--2s1p-21163.html",
+    "ref": "421539",
+    "nome": "GENS ACE BATERIA LIPO 25C / 7.4V / 1000 / 2S1P",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21163/produtos/400/c31df31e45a220f9b47f8c0bac85dde4.jpg"
    },
    "orig": "Bateria LIPO 25C / 7.4V / 1000 / 2S1P"
   },
@@ -39546,28 +39546,6 @@
    "orig": "Bateria LIPO 20C / 11.1 / 2200 / 3S1P Tamiya"
   },
   {
-   "sku": "413213",
-   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28186.webp",
-   "arsenal": {
-    "id": 28186,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-28186.html",
-    "ref": "413213",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28186/produtos/400/dacb732df57dca1c7897526df289a88c.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
-  },
-  {
    "sku": "414340",
    "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
    "marca": "Gens Ace",
@@ -39586,6 +39564,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/21180/produtos/400/1cdbc84b2ea45dedba6e793ffdf8a4fd.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
+  },
+  {
+   "sku": "413213",
+   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28186.webp",
+   "arsenal": {
+    "id": 28186,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-28186.html",
+    "ref": "413213",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28186/produtos/400/dacb732df57dca1c7897526df289a88c.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
   },
@@ -39634,28 +39634,6 @@
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Gt Tamiya"
   },
   {
-   "sku": "48224",
-   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28202.webp",
-   "arsenal": {
-    "id": 28202,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28202.html",
-    "ref": "48224",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
-  },
-  {
    "sku": "129923",
    "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
    "marca": "Gens Ace",
@@ -39674,6 +39652,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
+  },
+  {
+   "sku": "48224",
+   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28202.webp",
+   "arsenal": {
+    "id": 28202,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28202.html",
+    "ref": "48224",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
   },
@@ -40030,6 +40030,28 @@
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
   {
+   "sku": "422659",
+   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/21172.webp",
+   "arsenal": {
+    "id": 21172,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
+    "ref": "422659",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
+  },
+  {
    "sku": "389334",
    "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
    "marca": "Gens Ace",
@@ -40070,28 +40092,6 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/15717/produtos/400/6ae1adbae86ad6bb48aa95bc124b6bc6.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
-  },
-  {
-   "sku": "422659",
-   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/21172.webp",
-   "arsenal": {
-    "id": 21172,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
-    "ref": "422659",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
@@ -53164,6 +53164,28 @@
    "orig": "Gearbox Complete Rear Wire Set for M4 Series"
   },
   {
+   "sku": "485579",
+   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Gearbox",
+   "sub": "Gearbox completa",
+   "specs": "",
+   "usd": 88.0,
+   "disponivel": true,
+   "img": "img/29968.webp",
+   "arsenal": {
+    "id": 29968,
+    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
+    "ref": "485579",
+    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "GEARBOX",
+    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
+   },
+   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
+  },
+  {
    "sku": "485609",
    "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
    "marca": "Cyma",
@@ -53204,28 +53226,6 @@
     "marca_arsenal": "CYMA",
     "categoria": "GEARBOX",
     "img": "https://www.arsenalsports.com/img/29966/produtos/400/6242bc5272c0c23e4eeaa4450d744a2e.jpg"
-   },
-   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
-  },
-  {
-   "sku": "485579",
-   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Gearbox",
-   "sub": "Gearbox completa",
-   "specs": "",
-   "usd": 88.0,
-   "disponivel": true,
-   "img": "img/29968.webp",
-   "arsenal": {
-    "id": 29968,
-    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
-    "ref": "485579",
-    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "GEARBOX",
-    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
    },
    "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
@@ -60050,28 +60050,6 @@
    "orig": "Piston 15 Teeth Metal"
   },
   {
-   "sku": "560504",
-   "nome": "Pistão alumínio com rolamento para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/34039.webp",
-   "arsenal": {
-    "id": 34039,
-    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
-    "ref": "560504",
-    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "PISTON HEADS",
-    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
-   },
-   "orig": "Piston Aluminum with Bearing for M4"
-  },
-  {
    "sku": "560511",
    "nome": "Pistão alumínio com rolamento para M4",
    "marca": "Cyma",
@@ -60112,6 +60090,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "PISTON HEADS",
     "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
+   },
+   "orig": "Piston Aluminum with Bearing for M4"
+  },
+  {
+   "sku": "560504",
+   "nome": "Pistão alumínio com rolamento para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 8.0,
+   "disponivel": true,
+   "img": "img/34039.webp",
+   "arsenal": {
+    "id": 34039,
+    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
+    "ref": "560504",
+    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "PISTON HEADS",
+    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
    },
    "orig": "Piston Aluminum with Bearing for M4"
   },
