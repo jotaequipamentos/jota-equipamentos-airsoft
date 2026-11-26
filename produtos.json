@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T23:07:27-03:00",
+ "atualizado_em": "2026-11-26T16:59:32-03:00",
  "fonte": "https://www.arsenalsports.com",
  "estrutura": [
   {
@@ -16871,8 +16871,8 @@
    "cat": "Rifle",
    "sub": "Drum",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 48.0,
+   "disponivel": true,
    "img": "img/29679.webp",
    "arsenal": {
     "id": 29679,
@@ -19687,8 +19687,8 @@
    "cat": "Rifle",
    "sub": "Hi-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/26814.webp",
    "arsenal": {
     "id": 26814,
@@ -19709,8 +19709,8 @@
    "cat": "Rifle",
    "sub": "Hi-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/26813.webp",
    "arsenal": {
     "id": 26813,
@@ -19863,8 +19863,8 @@
    "cat": "Rifle",
    "sub": "Hi-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/26809.webp",
    "arsenal": {
     "id": 26809,
@@ -19951,8 +19951,8 @@
    "cat": "Rifle",
    "sub": "Hi-cap",
    "specs": "",
-   "usd": 23.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/11859.webp",
    "arsenal": {
     "id": 11859,
@@ -21205,8 +21205,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": 16.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/20453.webp",
    "arsenal": {
     "id": 20453,
@@ -21843,8 +21843,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/30549.webp",
    "arsenal": {
     "id": 30549,
@@ -21865,8 +21865,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/30526.webp",
    "arsenal": {
     "id": 30526,
@@ -21953,8 +21953,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/17488.webp",
    "arsenal": {
     "id": 17488,
@@ -22217,8 +22217,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/26808.webp",
    "arsenal": {
     "id": 26808,
@@ -22349,8 +22349,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/17481.webp",
    "arsenal": {
     "id": 17481,
@@ -22371,8 +22371,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/17480.webp",
    "arsenal": {
     "id": 17480,
@@ -22393,8 +22393,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/26799.webp",
    "arsenal": {
     "id": 26799,
@@ -22415,8 +22415,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/30522.webp",
    "arsenal": {
     "id": 30522,
@@ -22437,8 +22437,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/30550.webp",
    "arsenal": {
     "id": 30550,
@@ -22459,8 +22459,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/30548.webp",
    "arsenal": {
     "id": 30548,
@@ -22525,8 +22525,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 13.0,
+   "disponivel": true,
    "img": "img/26797.webp",
    "arsenal": {
     "id": 26797,
@@ -22569,8 +22569,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/26794.webp",
    "arsenal": {
     "id": 26794,
@@ -22679,8 +22679,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/30559.webp",
    "arsenal": {
     "id": 30559,
@@ -22745,8 +22745,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/30561.webp",
    "arsenal": {
     "id": 30561,
@@ -22767,8 +22767,8 @@
    "cat": "Rifle",
    "sub": "Mid-cap",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/30527.webp",
    "arsenal": {
     "id": 30527,
@@ -24835,8 +24835,8 @@
    "cat": "Rifle",
    "sub": "Outros",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/26820.webp",
    "arsenal": {
     "id": 26820,
@@ -24982,6 +24982,28 @@
    "orig": "Magazine 150R Metal for AK47 Series"
   },
   {
+   "sku": "616942",
+   "nome": "Magazine 170 BBs Bulgaria para série AK",
+   "marca": "Cyma",
+   "grupo": "Magazines",
+   "cat": "Rifle",
+   "sub": "Outros",
+   "specs": "",
+   "usd": 10.0,
+   "disponivel": true,
+   "img": "img/36600.webp",
+   "arsenal": {
+    "id": 36600,
+    "url": "https://www.arsenalsports.com/produto/cyma-magazine-170r-bulgaria-for-ak-series-36600.html",
+    "ref": "616942",
+    "nome": "CYMA MAGAZINE 170R BULGARIA FOR AK SERIES",
+    "marca_arsenal": "CYMA",
+    "categoria": "MAGAZINES PARA RIFLES",
+    "img": "https://www.arsenalsports.com/img/36600/produtos/400/27e92d5cbe38de14a666a74d423059d5.jpg"
+   },
+   "orig": "Magazine 170R Bulgaria for AK Series"
+  },
+  {
    "sku": "409339",
    "nome": "Magazine 170 BBs para PP19 Bizon",
    "marca": "Cyma",
@@ -25011,8 +25033,8 @@
    "cat": "Rifle",
    "sub": "Outros",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 15.0,
+   "disponivel": true,
    "img": "img/17496.webp",
    "arsenal": {
     "id": 17496,
@@ -25033,8 +25055,8 @@
    "cat": "Rifle",
    "sub": "Outros",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/17489.webp",
    "arsenal": {
     "id": 17489,
@@ -25121,8 +25143,8 @@
    "cat": "Rifle",
    "sub": "Outros",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 10.0,
+   "disponivel": true,
    "img": "img/17491.webp",
    "arsenal": {
     "id": 17491,
@@ -25187,8 +25209,8 @@
    "cat": "Rifle",
    "sub": "Outros",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/17497.webp",
    "arsenal": {
     "id": 17497,
@@ -28135,8 +28157,8 @@
    "cat": "Sniper",
    "sub": "",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/26786.webp",
    "arsenal": {
     "id": 26786,
@@ -28619,8 +28641,8 @@
    "cat": "Sniper",
    "sub": "",
    "specs": "",
-   "usd": 22.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/22242.webp",
    "arsenal": {
     "id": 22242,
@@ -30797,8 +30819,8 @@
    "cat": "Peças de magazine",
    "sub": "",
    "specs": "",
-   "usd": 55.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/28129.webp",
    "arsenal": {
     "id": 28129,
@@ -31054,28 +31076,6 @@
    "orig": "Magazine Extension Plate for Hi-Capa Violet"
   },
   {
-   "sku": "493123",
-   "nome": "Magazine Extension Plate para Hi-Capa vermelho",
-   "marca": "CTM-TAC",
-   "grupo": "Magazines",
-   "cat": "Peças de magazine",
-   "sub": "",
-   "specs": "",
-   "usd": 35.0,
-   "disponivel": true,
-   "img": "img/29448.webp",
-   "arsenal": {
-    "id": 29448,
-    "url": "https://www.arsenalsports.com/produto/ctmtac-magazine-extension-plate-for-hicapa-red-29448.html",
-    "ref": "493123",
-    "nome": "CTM-TAC MAGAZINE EXTENSION PLATE FOR HI-CAPA RED",
-    "marca_arsenal": "CTM-TAC",
-    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
-    "img": "https://www.arsenalsports.com/img/29448/produtos/400/8f019ebf8a7ca292289bae3cff283384.jpg"
-   },
-   "orig": "Magazine Extension Plate for Hi-Capa Red"
-  },
-  {
    "sku": "493116",
    "nome": "Magazine Extension Plate para Hi-Capa vermelho",
    "marca": "CTM-TAC",
@@ -31094,6 +31094,28 @@
     "marca_arsenal": "CTM-TAC",
     "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
     "img": "https://www.arsenalsports.com/img/29449/produtos/400/0a96cd7ab71f775fdbb999eb86295a1f.jpg"
+   },
+   "orig": "Magazine Extension Plate for Hi-Capa Red"
+  },
+  {
+   "sku": "493123",
+   "nome": "Magazine Extension Plate para Hi-Capa vermelho",
+   "marca": "CTM-TAC",
+   "grupo": "Magazines",
+   "cat": "Peças de magazine",
+   "sub": "",
+   "specs": "",
+   "usd": 35.0,
+   "disponivel": true,
+   "img": "img/29448.webp",
+   "arsenal": {
+    "id": 29448,
+    "url": "https://www.arsenalsports.com/produto/ctmtac-magazine-extension-plate-for-hicapa-red-29448.html",
+    "ref": "493123",
+    "nome": "CTM-TAC MAGAZINE EXTENSION PLATE FOR HI-CAPA RED",
+    "marca_arsenal": "CTM-TAC",
+    "categoria": "PECAS E ACESSORIOS PARA MAGAZINES",
+    "img": "https://www.arsenalsports.com/img/29448/produtos/400/8f019ebf8a7ca292289bae3cff283384.jpg"
    },
    "orig": "Magazine Extension Plate for Hi-Capa Red"
   },
@@ -33965,8 +33987,8 @@
    "cat": "Peças de magazine",
    "sub": "",
    "specs": "",
-   "usd": 4.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/16613.webp",
    "arsenal": {
     "id": 16613,
@@ -34911,8 +34933,8 @@
    "cat": "0.23g e 0.25g",
    "sub": "",
    "specs": "",
-   "usd": 13.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/23418.webp",
    "arsenal": {
     "id": 23418,
@@ -38189,8 +38211,8 @@
    "cat": "LiPo",
    "sub": "7.4V",
    "specs": "",
-   "usd": 14.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/34744.webp",
    "arsenal": {
     "id": 34744,
@@ -39040,28 +39062,6 @@
    "orig": "Bateria LIPO 1500mAh 11.1v 20C Stick TYPE with Tamiya Female Plug"
   },
   {
-   "sku": "539555",
-   "nome": "Bateria LIPO 1500mAh 11.1v 40C Stick TYPE com Deans",
-   "marca": "Gama Power",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/34824.webp",
-   "arsenal": {
-    "id": 34824,
-    "url": "https://www.arsenalsports.com/produto/gama-power-bateria-lipo-1500mah-111v-40c-stick-type-with-deans-34824.html",
-    "ref": "539555",
-    "nome": "GAMA POWER BATERIA LIPO 1500mAh 11.1v 40C STICK TYPE WITH DEANS",
-    "marca_arsenal": "GAMA POWER",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/34824/produtos/400/bf87ed988757afe7052f142f931a802d.jpg"
-   },
-   "orig": "Bateria LIPO 1500mAh 11.1v 40C Stick TYPE with Deans"
-  },
-  {
    "sku": "539562",
    "nome": "Bateria LIPO 1500mAh 11.1v 40C Stick TYPE com Deans",
    "marca": "Gama Power",
@@ -39080,6 +39080,28 @@
     "marca_arsenal": "GAMA POWER",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/34823/produtos/400/eb20b8ada9e96fe8fa8c7b7d2cfb39aa.jpg"
+   },
+   "orig": "Bateria LIPO 1500mAh 11.1v 40C Stick TYPE with Deans"
+  },
+  {
+   "sku": "539555",
+   "nome": "Bateria LIPO 1500mAh 11.1v 40C Stick TYPE com Deans",
+   "marca": "Gama Power",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/34824.webp",
+   "arsenal": {
+    "id": 34824,
+    "url": "https://www.arsenalsports.com/produto/gama-power-bateria-lipo-1500mah-111v-40c-stick-type-with-deans-34824.html",
+    "ref": "539555",
+    "nome": "GAMA POWER BATERIA LIPO 1500mAh 11.1v 40C STICK TYPE WITH DEANS",
+    "marca_arsenal": "GAMA POWER",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/34824/produtos/400/bf87ed988757afe7052f142f931a802d.jpg"
    },
    "orig": "Bateria LIPO 1500mAh 11.1v 40C Stick TYPE with Deans"
   },
@@ -39113,8 +39135,8 @@
    "cat": "LiPo",
    "sub": "11.1V",
    "specs": "",
-   "usd": 16.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/29703.webp",
    "arsenal": {
     "id": 29703,
@@ -39414,28 +39436,6 @@
    "orig": "Bateria LIPO 20C / 11.1 / 2200 / 3S1P Tamiya"
   },
   {
-   "sku": "414340",
-   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/21180.webp",
-   "arsenal": {
-    "id": 21180,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-21180.html",
-    "ref": "414340",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21180/produtos/400/1cdbc84b2ea45dedba6e793ffdf8a4fd.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
-  },
-  {
    "sku": "413213",
    "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
    "marca": "Gens Ace",
@@ -39454,6 +39454,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28186/produtos/400/dacb732df57dca1c7897526df289a88c.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
+  },
+  {
+   "sku": "414340",
+   "nome": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/21180.webp",
+   "arsenal": {
+    "id": 21180,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1000--3s1p-deans-21180.html",
+    "ref": "414340",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1000 / 3S1P DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21180/produtos/400/1cdbc84b2ea45dedba6e793ffdf8a4fd.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Deans"
   },
@@ -39502,28 +39524,6 @@
    "orig": "Bateria LIPO 25C / 11.1 / 1000 / 3S1P Gt Tamiya"
   },
   {
-   "sku": "48224",
-   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/28202.webp",
-   "arsenal": {
-    "id": 28202,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28202.html",
-    "ref": "48224",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
-  },
-  {
    "sku": "129923",
    "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
    "marca": "Gens Ace",
@@ -39542,6 +39542,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/28203/produtos/400/0d947e27fe7ac815433f72633f5f337a.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
+  },
+  {
+   "sku": "48224",
+   "nome": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/28202.webp",
+   "arsenal": {
+    "id": 28202,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111--1200--3s1p-gt-deans-28202.html",
+    "ref": "48224",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1 / 1200 / 3S1P GT DEANS",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/28202/produtos/400/0597902ca8edca03412a93f9dd9ef19a.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1 / 1200 / 3S1P Gt Deans"
   },
@@ -39898,28 +39920,6 @@
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
   {
-   "sku": "422659",
-   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
-   "marca": "Gens Ace",
-   "grupo": "Baterias",
-   "cat": "LiPo",
-   "sub": "11.1V",
-   "specs": "",
-   "usd": null,
-   "disponivel": false,
-   "img": "img/21172.webp",
-   "arsenal": {
-    "id": 21172,
-    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
-    "ref": "422659",
-    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
-    "marca_arsenal": "GENS ACE",
-    "categoria": "Li-Po BATTERIES",
-    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
-   },
-   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
-  },
-  {
    "sku": "389334",
    "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
    "marca": "Gens Ace",
@@ -39960,6 +39960,28 @@
     "marca_arsenal": "GENS ACE",
     "categoria": "Li-Po BATTERIES",
     "img": "https://www.arsenalsports.com/img/15717/produtos/400/6ae1adbae86ad6bb48aa95bc124b6bc6.jpg"
+   },
+   "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
+  },
+  {
+   "sku": "422659",
+   "nome": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P",
+   "marca": "Gens Ace",
+   "grupo": "Baterias",
+   "cat": "LiPo",
+   "sub": "11.1V",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/21172.webp",
+   "arsenal": {
+    "id": 21172,
+    "url": "https://www.arsenalsports.com/produto/gens-ace-bateria-lipo-25c--111v--1200--3s1p-21172.html",
+    "ref": "422659",
+    "nome": "GENS ACE BATERIA LIPO 25C / 11.1V / 1200 / 3S1P",
+    "marca_arsenal": "GENS ACE",
+    "categoria": "Li-Po BATTERIES",
+    "img": "https://www.arsenalsports.com/img/21172/produtos/400/161a152eca794f339379e052a7e55117.jpg"
    },
    "orig": "Bateria LIPO 25C / 11.1V / 1200 / 3S1P"
   },
@@ -41027,8 +41049,8 @@
    "cat": "Carregadores e fontes",
    "sub": "",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 6.0,
+   "disponivel": true,
    "img": "img/33992.webp",
    "arsenal": {
     "id": 33992,
@@ -41049,8 +41071,8 @@
    "cat": "Carregadores e fontes",
    "sub": "",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 6.0,
+   "disponivel": true,
    "img": "img/17403.webp",
    "arsenal": {
     "id": 17403,
@@ -49629,8 +49651,8 @@
    "cat": "Sniper",
    "sub": "6.01mm",
    "specs": "",
-   "usd": 49.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/29040.webp",
    "arsenal": {
     "id": 29040,
@@ -51191,8 +51213,8 @@
    "cat": "GBBR e PTW",
    "sub": "Diâmetro não informado",
    "specs": "",
-   "usd": 52.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/26536.webp",
    "arsenal": {
     "id": 26536,
@@ -53032,6 +53054,28 @@
    "orig": "Gearbox Complete Rear Wire Set for M4 Series"
   },
   {
+   "sku": "485579",
+   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Gearbox",
+   "sub": "Gearbox completa",
+   "specs": "",
+   "usd": 88.0,
+   "disponivel": true,
+   "img": "img/29968.webp",
+   "arsenal": {
+    "id": 29968,
+    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
+    "ref": "485579",
+    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "GEARBOX",
+    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
+   },
+   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
+  },
+  {
    "sku": "485609",
    "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
    "marca": "Cyma",
@@ -53072,28 +53116,6 @@
     "marca_arsenal": "CYMA",
     "categoria": "GEARBOX",
     "img": "https://www.arsenalsports.com/img/29966/produtos/400/6242bc5272c0c23e4eeaa4450d744a2e.jpg"
-   },
-   "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
-  },
-  {
-   "sku": "485579",
-   "nome": "Gearbox completa QD VER. 2 com ETU e Hi-Torque Motor para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Gearbox",
-   "sub": "Gearbox completa",
-   "specs": "",
-   "usd": 88.0,
-   "disponivel": true,
-   "img": "img/29968.webp",
-   "arsenal": {
-    "id": 29968,
-    "url": "https://www.arsenalsports.com/produto/cyma-gearbox-complete-qd-ver-2-with-etu-and-hitorque-motor-for-m4-29968.html",
-    "ref": "485579",
-    "nome": "CYMA GEARBOX COMPLETE QD VER. 2 WITH ETU AND HI-TORQUE MOTOR FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "GEARBOX",
-    "img": "https://www.arsenalsports.com/img/29968/produtos/400/8e16fa1ab8d79320e416b5fce07d9278.jpg"
    },
    "orig": "Gearbox Complete QD VER. 2 with ETU and Hi-Torque Motor for M4"
   },
@@ -53325,8 +53347,8 @@
    "cat": "Gearbox",
    "sub": "Gearbox completa",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 48.0,
+   "disponivel": true,
    "img": "img/17460.webp",
    "arsenal": {
     "id": 17460,
@@ -59918,28 +59940,6 @@
    "orig": "Piston 15 Teeth Metal"
   },
   {
-   "sku": "560504",
-   "nome": "Pistão alumínio com rolamento para M4",
-   "marca": "Cyma",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/34039.webp",
-   "arsenal": {
-    "id": 34039,
-    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
-    "ref": "560504",
-    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
-    "marca_arsenal": "CYMA",
-    "categoria": "PISTON HEADS",
-    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
-   },
-   "orig": "Piston Aluminum with Bearing for M4"
-  },
-  {
    "sku": "560511",
    "nome": "Pistão alumínio com rolamento para M4",
    "marca": "Cyma",
@@ -59980,6 +59980,28 @@
     "marca_arsenal": "CYMA",
     "categoria": "PISTON HEADS",
     "img": "https://www.arsenalsports.com/img/34041/produtos/400/22a5b0b8f3090f83692dd27e4f20e493.png"
+   },
+   "orig": "Piston Aluminum with Bearing for M4"
+  },
+  {
+   "sku": "560504",
+   "nome": "Pistão alumínio com rolamento para M4",
+   "marca": "Cyma",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": 8.0,
+   "disponivel": true,
+   "img": "img/34039.webp",
+   "arsenal": {
+    "id": 34039,
+    "url": "https://www.arsenalsports.com/produto/cyma-piston-aluminum-with-bearing-for-m4-34039.html",
+    "ref": "560504",
+    "nome": "CYMA PISTON ALUMINUM WITH BEARING FOR M4",
+    "marca_arsenal": "CYMA",
+    "categoria": "PISTON HEADS",
+    "img": "https://www.arsenalsports.com/img/34039/produtos/400/80651a61e04ced9fe9a7ea3f3d5c2b75.png"
    },
    "orig": "Piston Aluminum with Bearing for M4"
   },
@@ -61150,28 +61172,6 @@
    "orig": "Piston 14 Teeth Blue"
   },
   {
-   "sku": "336772",
-   "nome": "Pistão 14TEETH",
-   "marca": "SHS",
-   "grupo": "Peças internas",
-   "cat": "Pistão e cabeça",
-   "sub": "",
-   "specs": "",
-   "usd": 8.0,
-   "disponivel": true,
-   "img": "img/12560.webp",
-   "arsenal": {
-    "id": 12560,
-    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-12560.html",
-    "ref": "336772",
-    "nome": "SHS PISTON 14TEETH",
-    "marca_arsenal": "SHS",
-    "categoria": "PISTONS",
-    "img": "https://www.arsenalsports.com/img/12560/produtos/400/d5e6bae104579e8f3a69d93b8acd1366.jpg"
-   },
-   "orig": "Piston 14TEETH"
-  },
-  {
    "sku": "370707",
    "nome": "Pistão 14TEETH",
    "marca": "SHS",
@@ -61190,6 +61190,28 @@
     "marca_arsenal": "SHS",
     "categoria": "PISTONS",
     "img": "https://www.arsenalsports.com/img/14832/produtos/400/2ced029ccb3a829705f6689c6a4b6ea7.jpg"
+   },
+   "orig": "Piston 14TEETH"
+  },
+  {
+   "sku": "336772",
+   "nome": "Pistão 14TEETH",
+   "marca": "SHS",
+   "grupo": "Peças internas",
+   "cat": "Pistão e cabeça",
+   "sub": "",
+   "specs": "",
+   "usd": null,
+   "disponivel": false,
+   "img": "img/12560.webp",
+   "arsenal": {
+    "id": 12560,
+    "url": "https://www.arsenalsports.com/produto/shs-piston-14teeth-12560.html",
+    "ref": "336772",
+    "nome": "SHS PISTON 14TEETH",
+    "marca_arsenal": "SHS",
+    "categoria": "PISTONS",
+    "img": "https://www.arsenalsports.com/img/12560/produtos/400/d5e6bae104579e8f3a69d93b8acd1366.jpg"
    },
    "orig": "Piston 14TEETH"
   },
@@ -62785,8 +62807,8 @@
    "cat": "Cilindro e cabeça",
    "sub": "",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/26778.webp",
    "arsenal": {
     "id": 26778,
@@ -70089,8 +70111,8 @@
    "cat": "Hop-up",
    "sub": "Câmaras",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 8.0,
+   "disponivel": true,
    "img": "img/29960.webp",
    "arsenal": {
     "id": 29960,
@@ -70111,8 +70133,8 @@
    "cat": "Hop-up",
    "sub": "Câmaras",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/26785.webp",
    "arsenal": {
     "id": 26785,
@@ -71695,8 +71717,8 @@
    "cat": "Hop-up",
    "sub": "Outros",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 12.0,
+   "disponivel": true,
    "img": "img/17472.webp",
    "arsenal": {
     "id": 17472,
@@ -77481,8 +77503,8 @@
    "cat": "Motores",
    "sub": "",
    "specs": "",
-   "usd": 97.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/33044.webp",
    "arsenal": {
     "id": 33044,
@@ -78757,8 +78779,8 @@
    "cat": "Mosfets e fiação",
    "sub": "",
    "specs": "",
-   "usd": 33.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/10353.webp",
    "arsenal": {
     "id": 10353,
@@ -78779,8 +78801,8 @@
    "cat": "Mosfets e fiação",
    "sub": "",
    "specs": "",
-   "usd": 33.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/10355.webp",
    "arsenal": {
     "id": 10355,
@@ -79043,8 +79065,8 @@
    "cat": "Mosfets e fiação",
    "sub": "",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 20.0,
+   "disponivel": true,
    "img": "img/26783.webp",
    "arsenal": {
     "id": 26783,
@@ -79087,8 +79109,8 @@
    "cat": "Mosfets e fiação",
    "sub": "",
    "specs": "",
-   "usd": null,
-   "disponivel": false,
+   "usd": 6.0,
+   "disponivel": true,
    "img": "img/17455.webp",
    "arsenal": {
     "id": 17455,
@@ -82519,8 +82541,8 @@
    "cat": "Mosfets e fiação",
    "sub": "",
    "specs": "",
-   "usd": 55.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/31238.webp",
    "arsenal": {
     "id": 31238,
@@ -90263,8 +90285,8 @@
    "cat": "Unidade tracer",
    "sub": "",
    "specs": "",
-   "usd": 54.0,
-   "disponivel": true,
+   "usd": null,
+   "disponivel": false,
    "img": "img/28616.webp",
    "arsenal": {
     "id": 28616,
